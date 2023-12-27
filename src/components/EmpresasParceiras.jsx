@@ -2,7 +2,7 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
-import empresasParceiras from '../Json/empresasParceiras.json';
+import empresasParceiras from '../../public/Json/empresasParceiras.json';
 
 import { EmpresasParceirasContainer } from '../styles/EmpresasParceiras';
 
