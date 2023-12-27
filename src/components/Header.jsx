@@ -4,6 +4,14 @@ import LogoHeader from '../assets/IMAGENS_SITE_SAO_PAULO/sao paulo.png';
 const Header = () => {
     return (
         <HeaderContainer>
+            <nav>
+                <ul>
+                    <li>Home</li>
+                    <li>Áreas de atuação</li>
+                    <li>Oportunidades</li>
+                    <li>Contato</li>
+                </ul>
+            </nav>
             <img className='img-header' src={LogoHeader} alt="" />
             <svg id="img-open" xmlns="http://www.w3.org/2000/svg" width="35" height="25" fill="currentColor"
                 className="bi bi-list" viewBox="0 0 16 16">

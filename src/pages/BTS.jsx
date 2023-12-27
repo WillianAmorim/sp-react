@@ -9,12 +9,9 @@ const Home = () => {
         <>
             <Header />
             <CardsBTS />
-
             <Cadastro />
             <Footer />
             <Termos />
-
-
         </>
     )
 }

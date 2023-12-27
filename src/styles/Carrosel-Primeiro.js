@@ -3,36 +3,6 @@
 import styled from "styled-components";
 
 export const CarroselContainer = styled.div`
-    /* header {
-        position: absolute;
-        padding: 25px;
-        width: 100%;
-        background-color: rgba(0, 0, 0, 0.1);
-        background-color: transparent;
-        z-index: 999;
-        display: flex;
-
-        justify-content: space-around;
-
-        ul {
-            display: flex;
-            list-style: none;
-            gap: 50px;
-            align-items: center;
-            
-            color: white;
-        }
-
-        input {
-            border-radius: 15px;
-            padding-left: 10px;
-            border:none
-        }
-
-        svg {
-            display: none;
-        }
-    } */
     .slide-item {
         width: 100%;
         height: 100vh;
