@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cardsShopping from '../Json/shoppingCenters.json'
+import cardsShopping from '../../public/Json/shoppingCenters.json'
 
 import { CardsContainer } from '../styles/Cards';
 

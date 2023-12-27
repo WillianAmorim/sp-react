@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cardsBTS from '../Json/bts.json'
+import cardsBTS from '../../public/Json/bts.json'
 
 import { CardsContainer } from '../styles/Cards';
 
