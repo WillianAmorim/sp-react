@@ -4,7 +4,7 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
-import incorporacoes from '../Json/incorporacoes.json'
+import incorporacoes from '../../public/Json/incorporacoes.json'
 
 const Incorporacoes = () => {
     return (
