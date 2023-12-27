@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cardsStripMalls from '../Json/stripMalls.json'
+import cardsStripMalls from '../../public/Json/stripMalls.json'
 
 import { CardsContainer } from '../styles/Cards';
 
