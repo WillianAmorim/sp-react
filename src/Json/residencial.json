@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Locação Residencial 1",
+        "date": "17 de junho de 2023",
+        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+    },
+    {
+        "id": 2,
+        "name": "Locação Residencial 2",
+        "date": "17 de junho de 2023",
+        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+    },
+    {
+        "id": 3,
+        "name": "Locação Residencial 3",
+        "date": "17 de junho de 2023",
+        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+    }
+]
