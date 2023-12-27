@@ -18,7 +18,7 @@ const Header = () => {
                 <p>|</p>
 
                 <li id='li-areas-atuacao'>Áreas de atuação
-                    <ul className='ul-areas-atuacao'>
+                    {/* <ul className='ul-areas-atuacao'>
                         <li className='item-area-atuacao'><a  href="">Shopping Centers</a></li>
                         <li className='item-area-atuacao'><a href="">Strip Malls</a></li>
                         <li className='item-area-atuacao'><a href="">BTS (Built to Suit)</a></li>
@@ -31,7 +31,7 @@ const Header = () => {
                                 <li className='item-locacoes'>Residencial</li>
                             </ul>
                         </li>
-                    </ul>
+                    </ul> */}
                 </li>
                 <p>|</p>
                 <li><a href="">Oportunidades</a></li>
