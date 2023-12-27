@@ -4,7 +4,7 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
-import oportunidades from '../Json/oportunidades.json'
+import oportunidades from '../../public/Json/oportunidades.json'
 
 const Oportunidades = () => {
     return (
