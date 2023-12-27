@@ -23,7 +23,7 @@ export const AreasAtuacaoContainer = styled.section`
 
     li {
         width: 100%;
-        height: 500px;
+        height: 400px;
         object-fit: cover;
         position: relative;
         transition: transform 0.5s ease-in-out;

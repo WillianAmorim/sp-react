@@ -79,7 +79,7 @@ export const OportunidadesContainer = styled.section`
     .swiper-slide img {
         display: block;
         width: 100%;
-        height: 500px;
+        height: 400px;
         object-fit: cover;
 
         border-radius: 15px;

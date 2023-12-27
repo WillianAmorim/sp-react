@@ -24,9 +24,6 @@ const Oportunidades = () => {
                     centeredSlides={true}
                     spaceBetween={20}
                     grabCursor={true}
-                    // pagination={{
-                    //     clickable: true,
-                    // }}
                     autoplay={{
                         delay: 0,
                     }}
