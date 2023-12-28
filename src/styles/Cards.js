@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const CardsContainer = styled.div`
-    padding-top: 50px;
+    /* padding-top: 50px; */
     padding-bottom: 50px;
     display: flex;
     flex-direction: column;
@@ -21,6 +21,14 @@ export const CardsContainer = styled.div`
 
     }
 
+    video {
+        width: 100%;
+    }
+
+    source {
+        width: 100%;
+    }
+
     .div-pai {
         flex-basis: calc(50% - 100px);
         position: relative;
@@ -37,8 +45,7 @@ export const CardsContainer = styled.div`
     img {
         width: 100%;
         height: 350px;
-        filter: brightness(0.8);
-
+        filter: brightness(0.6);
     }
 
     #lancamento {

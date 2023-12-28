@@ -3,6 +3,10 @@ import styled from "styled-components";
 export const HeaderContainer = styled.div`
     font-family: 'Inter', sans-serif;
 
+    .header-desktop {
+        display: none;
+    }
+
     li {
         list-style: none;
     }
@@ -11,7 +15,7 @@ export const HeaderContainer = styled.div`
         display: flex;
         flex-direction: column;
         position: absolute;
-        z-index: 999;
+        z-index: 99;
         align-items: flex-end;
         right: 0;
         background-color: white;
@@ -29,10 +33,11 @@ export const HeaderContainer = styled.div`
         list-style: none;
         gap: 25px;
         font-size: 20px;
+        padding-top: 50px;
     }
 
     #img-open {
-        fill: black;
+        position: absolute;
     }
 
     .ul-areas-atuacao-mobile {

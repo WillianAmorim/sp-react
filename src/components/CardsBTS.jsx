@@ -8,6 +8,10 @@ import { CardsContainer } from '../styles/Cards';
 const CardsBTS = () => {
     return (
         <CardsContainer>
+            <video autoPlay muted loop>
+                <source src="../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4" type="video/mp4" />
+                Seu navegador não suporta o elemento de vídeo.
+            </video>
             <h1>BTS</h1>
             <section>
                 {cardsBTS.map((card) => (

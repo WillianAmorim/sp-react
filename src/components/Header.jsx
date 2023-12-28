@@ -13,7 +13,7 @@ const Header = () => {
                 <ul className='ul-principal-mobile'>
                     <li>Home</li>
                     <li>Áreas de atuação
-                        <ul className='ul-areas-atuacao-mobile'>
+                        {/* <ul className='ul-areas-atuacao-mobile'>
                             <li>Shopping Centers</li>
                             <li>Strip Malls</li>
                             <li>BTS</li>
@@ -25,7 +25,7 @@ const Header = () => {
                                     <li>Residencial</li>
                                 </ul>
                             </li>
-                        </ul>
+                        </ul> */}
                     </li>
                     <li>Oportunidades</li>
                     <li>Contato</li>
