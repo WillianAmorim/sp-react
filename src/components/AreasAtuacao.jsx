@@ -1,9 +1,9 @@
 import { AreasAtuacaoContainer } from "../styles/AreasAtuacao";
-import ShoppingCenter from '../assets/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg'
+import ShoppingCenter from '../../public/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg'
 import StripMalls from '../assets/images/strip-malls/Uniceuma-Anil.jpg'
-import BTS from '../assets/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Drogasil - Cohatrac I.jpg'
-import Incorporacoes from '../assets/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg'
-import Locacoes from '../assets/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/LOCAÇÃO DE IMOVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF.jpg'
+import BTS from '../../public/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Drogasil - Cohatrac I.jpg'
+import Incorporacoes from '../../public/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg'
+import Locacoes from '../../public/IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/LOCAÇÃO DE IMOVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF.jpg'
 
 const AreasAtuacao = () => {
     return (

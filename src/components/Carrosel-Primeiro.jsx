@@ -7,7 +7,7 @@ import GranImperial from '../assets/images/courses-04.jpg'
 import IOA from '../assets/images/IOA-nova.jpeg'
 
 import { CarroselContainer } from '../styles/Carrosel-Primeiro';
-import LogoHeader from '../assets/IMAGENS_SITE_SAO_PAULO/sao paulo.png'
+// import LogoHeader from '../assets/images/IMAGENS_SITE_SAO_PAULO/sao paulo.png'
 
 
 const CarroselPrimeiro = () => {

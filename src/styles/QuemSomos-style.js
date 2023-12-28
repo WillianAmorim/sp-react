@@ -24,7 +24,7 @@ export const QuemSomosContainer = styled.div`
         font-size: 20px;
         font-weight: 200;
         text-align: center;
-        line-height: 40px;
+        line-height: 30px;
     }
 
     div h1 {

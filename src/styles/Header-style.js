@@ -1,139 +1,154 @@
 import styled from "styled-components";
 
 export const HeaderContainer = styled.div`
-    position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    padding: 50px;
-    color: white;
+    font-family: 'Inter', sans-serif;
 
-    /* background-color: red; */
-
-    z-index: 9;
-
-    .img-header {
-        position: absolute;
-        left: 0;
-        /* height: 100px; */
-        /* width: 400px; */
-        height: 100px;
-        /* filter: brightness(1.2) contrast(1.2) saturate(1.2); */
-    }
-
-    svg {
-        display: none;
-    }
-
-    .ul-header {
-        display: flex;
+    li {
         list-style: none;
-        gap: 30px;
-        align-items: center;
-
-        font-family: 'Inter', sans-serif;
-        font-weight: 300;
-        font-size: 15px;
-
     }
 
-    .ul-header li a{
-        text-decoration: none;
-        color: white;
-    }
-
-    #li-areas-atuacao {
-        position: relative;
-    }
-
-    .ul-areas-atuacao {
-        list-style: none;
+    nav {
         display: flex;
         flex-direction: column;
         position: absolute;
-        width: max-content;
-        top: 30px;
+        z-index: 999;
+        align-items: flex-end;
+        right: 0;
+        background-color: white;
+        width: 80%;
+        height: 100%;
+        padding: 50px 25px;
+        gap: 50px;
     }
 
-    .item-area-atuacao {
-        padding: 15px 10px;
-        /* background-color: rebeccapurple;
-        border: 1px solid black; */
-    }
-
-    .item-area-atuacao:hover {
-        background-color: rgba(255,255,255,0.4);
-    }
-
-    /* .item-area-atuacao:hover a {
+    .ul-principal-mobile {
+        display: flex;
+        flex-direction: column;
+        align-self: flex-start;
         color: black;
+        list-style: none;
+        gap: 25px;
+        font-size: 20px;
     }
 
-    .item-area-atuacao:hover {
-        color: black;
-    } */
+    #img-open {
+        fill: black;
+    }
+
+    .ul-areas-atuacao-mobile {
+        padding: 25px 0px 0px 25px;
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        font-size: 17px;
+    }
 
     #locacoes {
         position: relative;
     }
 
     .ul-locacoes {
-        list-style: none;
+        padding: 25px 0px 0px 25px;
+        left: 0;
         display: flex;
         flex-direction: column;
-        position: absolute;
-        width: max-content;
-        left: 145px;
-        top: 0;
+        gap: 25px;
+        position: relative;
+        font-size: 15px;
     }
 
-    .item-locacoes {
-        /* background-color: blue; */
-        padding: 15px 10px;
-    }
-
-    .item-locacoes:hover {
-        background-color: rgba(255,255,255,0.4);
-    }
-
-    nav {
-        display: none;
-    }
-
-    @media only screen and (max-width: 767px) {
-        justify-content: flex-end;
-        padding: 20px;
-
-        .ul-header {
+    @media only screen and (min-width: 767px) {
+        nav {
             display: none;
+        }  
+
+        a {
+            text-decoration: none;
+            color: inherit;
         }
 
         .img-header {
-            width: 300px;
-            left: -50px;
+            position: absolute;
+            left: 0;
         }
 
-        svg {
-            display: block;
+        .header-desktop {
+            width: 100%;
+            position: absolute;
+            z-index: 99;
+            padding: 50px 15px;
+            background-color: transparent;
+            color: white;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
-        img {
+        .ul-header {
+            display: flex;
+            list-style: none;
+            gap: 30px;
+            align-items: center;
+
+            font-family: 'Inter', sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+        }
+
+        .ul-header li a{
+            text-decoration: none;
+            color: white;
+        }
+
+        #li-areas-atuacao {
+            position: relative;
+        }
+
+        .ul-areas-atuacao {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            width: max-content;
+            top: 30px;
+            background-color: rgba(0,0,0,0.5);
+            display: none;
             
         }
 
-        nav {
-            display: block;
-            position: absolute;
-            z-index: 9999999999999;
-            background-color: white;
-            right: 0;
-            width: 60%;
-            height: 1500px;
+        .item-area-atuacao {
+            padding: 15px 10px;
         }
 
-        nav ul {
+        .item-area-atuacao:hover {
+            background-color: rgba(255,255,255,0.4);
+        }
+
+        #locacoes {
+            position: relative;
+        }
+
+        .ul-locacoes {
             list-style: none;
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            width: max-content;
+            left: 156px;
+            top: 0;
+            background-color: rgba(0,0,0,0.5);
+            padding: 0px 0px;
+            gap: 0;
+        }
+
+        .item-locacoes {
+            padding: 15px 10px;
+        }
+
+        .item-locacoes:hover {
+            background-color: rgba(255,255,255,0.4);
         }
     }
+    
 `
