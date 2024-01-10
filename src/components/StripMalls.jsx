@@ -11,7 +11,7 @@ const CardsBTS = () => {
             <h1>Strip Malls</h1>
             <section>
                 {cardsStripMalls.map((card) => (
-                    <div className='div-pai' key={card.id}>
+                    <div className='div-card' key={card.id}>
                         <a id='lancamento' href="">Lançamento</a>
                         <img src={card.src} alt="" />
                         <div className='div-details'>

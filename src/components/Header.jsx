@@ -61,7 +61,6 @@ const Header = () => {
                     <li><a href="">Oportunidades</a></li>
                     <p>|</p>
                     <li><a href="">Contato</a></li>
-                    <p>|</p>
                 </ul>
             </header>
         </HeaderContainer>

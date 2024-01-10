@@ -63,6 +63,7 @@ export const HeaderContainer = styled.div`
     }
 
     @media only screen and (min-width: 767px) {
+
         nav {
             display: none;
         }  
@@ -81,13 +82,14 @@ export const HeaderContainer = styled.div`
             width: 100%;
             position: absolute;
             z-index: 99;
-            padding: 50px 15px;
-            background-color: transparent;
+            padding: 40px 15px;
+            background-color: rgba(0,0,0,0.0);
             color: white;
 
             display: flex;
             align-items: center;
             justify-content: center;
+            position: fixed;
         }
 
         .ul-header {

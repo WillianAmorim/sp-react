@@ -58,7 +58,6 @@ export const AreasAtuacaoContainer = styled.section`
 
         z-index: 99;
 
-        /* display: none; */
     }
 
     a:hover {

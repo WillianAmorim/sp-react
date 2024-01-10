@@ -6,7 +6,7 @@ export const CarroselContainer = styled.div`
     .slide-item {
         width: 100%;
         height: 100vh;
-        filter: brightness(0.3);
+        filter: brightness(0.8);
     }
 
     .swiper-button-next,
