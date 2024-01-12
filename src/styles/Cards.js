@@ -104,12 +104,15 @@ export const CardsContainer = styled.div`
 
     #conhecer-imovel {
         color: white;
-        background-color: #121D40;
-        background-color: black;
+        background-color: #A78534;
+        background-color: #A78534;
         height: 50px;
-        width: 150px;
+        width: 250px;
         padding: 10px 15px;
-        text-align: center;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
         font-size: 12px;
         font-weight: 300;
@@ -117,8 +120,8 @@ export const CardsContainer = styled.div`
 
     #conhecer-imovel:hover {
         color: black;
-        background-color: white;
-        border: 1px solid black;
+        background-color: #121D40;
+        color: white;
     }
 
 

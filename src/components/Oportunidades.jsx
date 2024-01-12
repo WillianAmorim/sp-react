@@ -5,8 +5,15 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
 import oportunidades from '../../public/Json/oportunidades.json'
+import { useNavigate } from 'react-router-dom';
 
 const Oportunidades = () => {
+    const navigate = useNavigate();
+
+    const handleClick = (rota) => {
+        window.scrollTo({top: 0})
+        navigate(rota);
+      };
     return (
         <OportunidadesContainer>
             <div className='div-container'>
@@ -34,7 +41,7 @@ const Oportunidades = () => {
                     {oportunidades.map((oportunidade) => (
                         <SwiperSlide key={oportunidade.id}>
                             <img src={oportunidade.src} alt="" />
-                            <p>{oportunidade.name}</p>
+                            <p onClick={() => handleClick(`/strip-malls/${oportunidade.id}`)}>{oportunidade.name}</p>
                         </SwiperSlide>
                     ))}
                 </Swiper>

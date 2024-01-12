@@ -11,7 +11,7 @@ import { CarroselContainer } from '../styles/Carrosel-Primeiro';
 
 
 const CarroselPrimeiro = () => {
-  return (  
+  return (
     <CarroselContainer style={{ width: '100%' }}>
       {/* <header>
         <img src={LogoHeader} alt="" />
@@ -46,9 +46,30 @@ const CarroselPrimeiro = () => {
           disableOnInteraction: false,
         }}
       >
-        <SwiperSlide><img className='slide-item' src={EasyResidence} alt="" /></SwiperSlide>
-        <SwiperSlide><img className='slide-item' src={GranImperial} alt="" /></SwiperSlide>
-        <SwiperSlide><img className='slide-item' src={IOA} alt="" /></SwiperSlide>
+        <SwiperSlide>
+        <div className='div-absolute'>
+            <h1>Easy Renascença</h1>
+            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+          </div>
+          <img className='slide-item' src={EasyResidence} alt="" />
+        </SwiperSlide>
+
+        <SwiperSlide>
+        <div className='div-absolute'>
+            <h1>Easy Renascença</h1>
+            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+          </div>
+          <img className='slide-item' src={GranImperial} alt="" />
+        </SwiperSlide>
+
+        <SwiperSlide>
+        <div className='div-absolute'>
+            <h1>Easy Renascença</h1>
+            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+          </div>
+          <img className='slide-item' src={IOA} alt="" />
+          
+        </SwiperSlide>
       </Swiper>
     </CarroselContainer >
 

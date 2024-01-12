@@ -57,6 +57,7 @@ export const ContatoContainer = styled.div`
             height: 40px;
             border-radius: 3px;
             padding-left: 10px;
+            border: none;
         }
 
         #escolha {

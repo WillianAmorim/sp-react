@@ -83,7 +83,7 @@ export const HeaderContainer = styled.div`
             position: absolute;
             z-index: 99;
             padding: 40px 15px;
-            background-color: rgba(0,0,0,0.0);
+            background-color: rgba(0,0,0,0.3);
             color: white;
 
             display: flex;

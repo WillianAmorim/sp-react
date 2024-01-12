@@ -15,16 +15,16 @@ const CardsBTS = () => {
 
 
                     <div className='div-inputs'>
-                        
-                        <label for="escolha">Escolha uma opção:</label>
-                        <select id="escolha" name="escolha">
-                            <option value="" disabled selected hidden>Selecione uma opção</option>
+
+                        <label htmlFor="escolha">Escolha uma opção:</label>
+                        <select id="escolha" name="escolha" defaultValue="">
+                            <option value="" disabled hidden>Selecione uma opção</option>
                             <option value="Opção 1">Whatsapp</option>
                             <option value="Opção 2">Email</option>
                             <option value="Opção 3">Telefone</option>
                         </select>
 
-                            
+
                         <label htmlFor=""> Qual seu nome ?
                             <input placeholder='Nome' type="text" />
                         </label>
@@ -41,7 +41,7 @@ const CardsBTS = () => {
 
                         <label htmlFor="">
                             Mensagem
-                            <textarea placeholder='Mensagem' rows="6" cols="50"/>
+                            <textarea placeholder='Mensagem' rows="6" cols="50" />
                         </label>
 
                         {/* <input type="radio"></input> */}

@@ -7,6 +7,7 @@ export const CarroselContainer = styled.div`
         width: 100%;
         height: 100vh;
         filter: brightness(0.8);
+
     }
 
     .swiper-button-next,
@@ -20,6 +21,17 @@ export const CarroselContainer = styled.div`
         width: 50px;
         border-radius: 0;
         height: 2px;
+    }
+
+    .div-absolute {
+        position: absolute;
+        z-index: 9;
+
+        color: white;
+        left: 100px;
+        top: 40%;
+
+        /* background-color: black; */
     }
 
     @media only screen and (max-width: 767px) {
