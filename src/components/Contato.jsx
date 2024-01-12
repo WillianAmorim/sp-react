@@ -1,16 +1,17 @@
 import React from 'react';
 import { ContatoContainer } from '../styles/Contato';
+import { H1Container, Paragraph } from '../styles/PaginaEmpreendimento';
 
 const CardsBTS = () => {
     return (
         <>
             <ContatoContainer>
-                <h1>Contato</h1>
+                <H1Container>Contato</H1Container>
                 <div className='div-contato'>
 
                     <div className='div-p'>
                         <p id='linha-morta' />
-                        <p>Quer saber mais sobre o projeto? Fale conosco agora mesmo !</p>
+                        <Paragraph>Quer saber mais sobre o projeto? Fale conosco agora mesmo !</Paragraph>
                     </div>
 
 

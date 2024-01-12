@@ -10,6 +10,9 @@ export const H1Container = styled.h1`
     clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
     color: white;
     padding-left: 15px;
+
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
 `
 
 export const DivElements = styled.div`
@@ -37,7 +40,8 @@ export const HrMaior = styled.hr`
 `
 
 export const Paragraph = styled.p`
-    /* color: red; */
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
 `
 
 export const DivPlanta = styled.div`

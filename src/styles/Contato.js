@@ -3,8 +3,10 @@
 import styled from "styled-components";
 
 export const ContatoContainer = styled.div`
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
 
-    h1 {
+    /* h1 {
         background-color: #A78534;
         width: 100%;
         height: 50px;
@@ -12,7 +14,7 @@ export const ContatoContainer = styled.div`
         align-items: center;
         clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
         color: white;
-    }
+    } */
 
     .div-p {
         padding: 50px 150px;
@@ -58,6 +60,8 @@ export const ContatoContainer = styled.div`
             border-radius: 3px;
             padding-left: 10px;
             border: none;
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
         }
 
         #escolha {
@@ -68,6 +72,8 @@ export const ContatoContainer = styled.div`
             border-radius: 5px;
             padding-left: 10px;
             padding-top: 5px;
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
         }
 
         a {
