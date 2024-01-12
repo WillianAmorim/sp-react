@@ -4,12 +4,14 @@ import cardsBTS from '../../public/Json/bts.json'
 
 import { CardsContainer } from '../styles/Cards';
 
+import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
+
 
 const CardsBTS = () => {
     return (
         <CardsContainer>
             <video autoPlay muted loop>
-                <source src="../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4" type="video/mp4" />
+                <source src={VideoBts} type="video/mp4" />
                 Seu navegador não suporta o elemento de vídeo.
             </video>
 
