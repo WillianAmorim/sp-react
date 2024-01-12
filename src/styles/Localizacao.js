@@ -1,10 +1,8 @@
-// styles/Carrosel-Primeiro.js
-
 import styled from "styled-components";
 
 export const LocalizacaoContainer = styled.div`
 
-    h1 {
+    /* h1 {
         background-color: #A78534;
         width: 100%;
         height: 50px;
@@ -12,7 +10,7 @@ export const LocalizacaoContainer = styled.div`
         align-items: center;
         clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
         color: white;
-    }
+    } */
 
     .div-textos {
         display: flex;
@@ -23,20 +21,6 @@ export const LocalizacaoContainer = styled.div`
         /* background-color: yellow; */
     }
 
-    #hr-menor {
-        width: 70px;
-        height: 7px;
-        background-color: black;
-        border-radius: 5px;
-        margin-bottom: 10px;
-    }
-
-    #hr-maior {
-        height: 5px;
-        background-color: black;
-        margin-bottom: 10px;
-    }
-
     .div-elements {
         display: flex;
         justify-content: space-around;
@@ -45,10 +29,10 @@ export const LocalizacaoContainer = styled.div`
 
     }
 
-    .div-apresentacao {
+    /* .div-apresentacao {
         padding-top: 50px;
         padding-bottom: 50px;
-    }
+    } */
 
     @media only screen and (max-width: 767px) {
         

@@ -1,21 +1,21 @@
-import { SobreContainer } from "../styles/Sobre";
+import { H1Container, DivElements, HrMenor, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
 
 const Sobre = () => {
     return (
-        <SobreContainer>
-            <h1>Sobre</h1>
-            <div className="div-elements">
+        <>
+            <H1Container>Sobre</H1Container>
+            <DivElements className="div-elements">
                 <div className="div-apresentacao">
-                    <hr id="hr-menor" />
-                    <p>A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.</p>
+                    <HrMenor id="hr-menor" />
+                    <Paragraph>A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.</Paragraph>
                 </div>
 
                 <div>
-                    <hr id="hr-maior" />
-                    <p>Tipo de Imóvel: Built to Suit (BTS)</p>
+                    <HrMaior id="hr-maior" />
+                    <Paragraph>Tipo de Imóvel: Built to Suit (BTS)</Paragraph>
                 </div>
-            </div>
-        </SobreContainer>
+            </DivElements>
+        </>
     );
 }
 

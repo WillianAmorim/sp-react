@@ -5,6 +5,7 @@ import styled from "styled-components";
 export const SobreContainer = styled.div`
 
     h1 {
+        background-color: #676767;
         background-color: #A78534;
         width: 100%;
         height: 50px;

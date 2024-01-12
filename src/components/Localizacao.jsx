@@ -1,19 +1,20 @@
+import { H1Container, Paragraph, HrMenor, HrMaior } from "../styles/PaginaEmpreendimento";
 import { LocalizacaoContainer } from "../styles/Localizacao";
 
 const Localizacao = () => {
     return (
         <LocalizacaoContainer>
-            <h1>Contato</h1>
+            <H1Container>Localização</H1Container>
             <div className="div-elements">
                 <div className='div-textos'>
                     <div className="div-apresentacao">
-                        <hr id="hr-menor" />
-                        <p>Conheça nossas lojas espalhadas na grande São Luis.</p>
+                        <HrMenor id="hr-menor" />
+                        <Paragraph>Conheça nossas lojas espalhadas na grande São Luis.</Paragraph>
                     </div>
 
                     <div>
-                        <hr id="hr-maior" />
-                        <p>Localidade: COHATRAC</p>
+                        <HrMaior id="hr-maior" />
+                        <Paragraph>Localidade: COHATRAC</Paragraph>
                     </div>
                 </div>
 

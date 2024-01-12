@@ -23,7 +23,7 @@ const CardsBTS = () => {
                             <option value="Opção 2">Email</option>
                             <option value="Opção 3">Telefone</option>
                         </select>
-
+        
 
                         <label htmlFor=""> Qual seu nome ?
                             <input placeholder='Nome' type="text" />

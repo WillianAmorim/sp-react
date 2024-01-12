@@ -1,6 +1,8 @@
 import { HeaderContainer } from '../styles/Header-style'
 import LogoHeader from '../../public/IMAGENS_SITE_SAO_PAULO/sao paulo.png';
 
+import { Link } from 'react-router-dom'
+
 const Header = () => {
     return (
         <HeaderContainer>
@@ -36,7 +38,7 @@ const Header = () => {
                 <img className='img-header' src={LogoHeader} alt="" />
                 <ul className='ul-header'>
                     <li>
-                        <a href="">Home</a>
+                        <Link to='/'>Home</Link>
                     </li>
 
                     <p>|</p>
@@ -58,9 +60,9 @@ const Header = () => {
                         </ul>
                     </li>
                     <p>|</p>
-                    <li><a href="">Oportunidades</a></li>
+                    <li><Link to='/bts'>Oportunidades</Link></li>
                     <p>|</p>
-                    <li><a href="">Contato</a></li>
+                    <li><Link to='/drogasil'>Contato</Link></li>
                 </ul>
             </header>
         </HeaderContainer>
