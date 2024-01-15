@@ -71,18 +71,26 @@ export const CadastroContainer = styled.div`
     }
 
     @media only screen and (max-width: 767px) {
-        /* padding: 50px 25px; */
         flex-direction: column;
-        gap: 50px;
+        gap: 20px;
 
         .div-info {
             width: auto;
             text-align: center;
         }
 
+        .div-info h1 {
+            font-size: 30px;
+        }
+
+        .div-info p {
+            font-size: 15px;
+            font-weight: 300;
+        }
+
         .div-inputs {
             width: 80%;
-
+            gap: 15px;
         }
 
         .div-inputs div {

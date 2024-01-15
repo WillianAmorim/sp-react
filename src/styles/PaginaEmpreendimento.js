@@ -58,3 +58,8 @@ export const DivPlanta = styled.div`
 export const ImgDrogasil = styled.img`
     filter: brightness(0.7);
 `
+
+export const DivAbsolute = styled.div`
+    position: absolute;
+    z-index: 9;
+`

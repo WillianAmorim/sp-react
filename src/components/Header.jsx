@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
     return (
         <HeaderContainer>
-            <nav>
+            {/* <nav>
                 <svg id="img-open" xmlns="http://www.w3.org/2000/svg" width="35" height="25" fill="currentColor"
                     className="bi bi-list" viewBox="0 0 16 16">
                     <path fillRule="white"
@@ -15,7 +15,7 @@ const Header = () => {
                 <ul className='ul-principal-mobile'>
                     <li>Home</li>
                     <li>Áreas de atuação
-                        {/* <ul className='ul-areas-atuacao-mobile'>
+                        <ul className='ul-areas-atuacao-mobile'>
                             <li>Shopping Centers</li>
                             <li>Strip Malls</li>
                             <li>BTS</li>
@@ -27,12 +27,12 @@ const Header = () => {
                                     <li>Residencial</li>
                                 </ul>
                             </li>
-                        </ul> */}
+                        </ul>
                     </li>
                     <li>Oportunidades</li>
                     <li>Contato</li>
                 </ul>
-            </nav>
+            </nav> */}
 
             <header className='header-desktop'>
                 <img className='img-header' src={LogoHeader} alt="" />

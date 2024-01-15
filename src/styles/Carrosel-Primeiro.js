@@ -36,8 +36,7 @@ export const CarroselContainer = styled.div`
 
     @media only screen and (max-width: 767px) {
         .slide-item {
-            height: auto;
-            object-fit: contain;
+            height: 400px;
         }
     }
 `;

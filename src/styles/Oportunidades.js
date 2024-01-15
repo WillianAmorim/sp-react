@@ -66,7 +66,6 @@ export const OportunidadesContainer = styled.section`
         font-size: 18px;
         background: #fff;
 
-        /* Center slide text vertically */
         display: flex;
         justify-content: center;
         align-items: center;
@@ -111,6 +110,15 @@ export const OportunidadesContainer = styled.section`
     }
 
     @media only screen and (max-width: 767px) {
-        
+        padding: 50px 25px;
+
+        .div-container {
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        a {
+            width: max-content;
+        }
     }
 `

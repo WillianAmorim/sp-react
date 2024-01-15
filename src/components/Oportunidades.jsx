@@ -1,19 +1,24 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
-import oportunidades from '../../public/Json/oportunidades.json'
-import { useNavigate } from 'react-router-dom';
+import data from '../../public/Json/jsonPrincipal.json'
+// import { useNavigate } from 'react-router-dom';
 
 const Oportunidades = () => {
-    const navigate = useNavigate();
+    // const swiperRef = useRef(null);
 
-    const handleClick = (rota) => {
-        window.scrollTo({top: 0})
-        navigate(rota);
-      };
+   // Executa isso apenas quando o componente é montado
+
+    // const navigate = useNavigate();
+
+    // const handleClick = (rota) => {
+    //     window.scrollTo({ top: 0 })
+    //     navigate(rota);
+    // };
+
     return (
         <OportunidadesContainer>
             <div className='div-container'>
@@ -26,6 +31,7 @@ const Oportunidades = () => {
 
             <div>
                 <Swiper
+                    // ref={swiperRef}
                     modules={[Navigation, Pagination, Autoplay]}
                     slidesPerView={5}
                     centeredSlides={true}
@@ -37,13 +43,27 @@ const Oportunidades = () => {
                     loop={true}
                     speed={2000}
                     className="mySwiper"
+                    breakpoints={{
+                        320: {
+                            slidesPerView: 1,
+                        },
+                        768: {
+                            slidesPerView: 2,
+                        },
+                        1024: {
+                            slidesPerView: 5,
+                        },
+                    }}
                 >
-                    {oportunidades.map((oportunidade) => (
-                        <SwiperSlide key={oportunidade.id}>
-                            <img src={oportunidade.src} alt="" />
-                            <p onClick={() => handleClick(`/strip-malls/${oportunidade.id}`)}>{oportunidade.name}</p>
-                        </SwiperSlide>
-                    ))}
+                    {
+                        data.filter(item => item.category === 'oportunidades')
+                            .map(item => (
+                                <SwiperSlide key={item.id}>
+                                    <img src={item.src} alt="" />
+                                    <p>{item.name}</p>
+                                </SwiperSlide>
+                            ))
+                    }
                 </Swiper>
             </div>
 

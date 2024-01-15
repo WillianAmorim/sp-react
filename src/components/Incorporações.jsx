@@ -4,7 +4,7 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
-import incorporacoes from '../../public/Json/incorporacoes.json'
+import data from '../../public/Json/jsonPrincipal.json'
 
 const Incorporacoes = () => {
     return (
@@ -30,13 +30,27 @@ const Incorporacoes = () => {
                     loop={true}
                     speed={2000}
                     className="mySwiper"
+                    breakpoints={{
+                        320: {
+                            slidesPerView: 1,
+                        },
+                        768: {
+                            slidesPerView: 2,
+                        },
+                        1024: {
+                            slidesPerView: 5,
+                        },
+                    }}
                 >
-                    {incorporacoes.map((incorporacao) => (
-                        <SwiperSlide key={incorporacao.id}>
-                            <img src={incorporacao.src} alt="" />
-                            <p>{incorporacao.name}</p>
-                        </SwiperSlide>
-                    ))}
+                    {
+                        data.filter(item => item.category === 'incorporacoes')
+                            .map(item => (
+                                <SwiperSlide key={item.id}>
+                                    <img src={item.src} alt="" />
+                                    <p>{item.name}</p>
+                                </SwiperSlide>
+                            ))
+                    }
                 </Swiper>
             </div>
 

@@ -39,7 +39,8 @@ export const QuemSomosContainer = styled.div`
 
     @media only screen and (max-width: 767px) {
         flex-direction: column;
-        gap: 70px;
+        padding: 50px 0px;
+        
 
         img {
             transform: scale(2.9)

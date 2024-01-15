@@ -31,6 +31,17 @@ const EmpresasParceiras = () => {
                     loop={true}
                     speed={2000}
                     className="mySwiper"
+                    breakpoints={{
+                        320: {
+                            slidesPerView: 1,
+                        },
+                        768: {
+                            slidesPerView: 2,
+                        },
+                        1024: {
+                            slidesPerView: 3,
+                        },
+                    }}
                 >
                     {empresasParceiras.map((empresa) => (
                         <SwiperSlide key={empresa.id}>

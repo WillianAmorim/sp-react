@@ -15,8 +15,7 @@ export const AreasAtuacaoContainer = styled.section`
 
     ul {
         list-style: none;
-        display: grid;
-        grid-template-columns: repeat(5, 1fr); /* Cria 5 colunas com o mesmo tamanho */
+        display: flex;
         gap: 15px;
         
     }
@@ -70,6 +69,12 @@ export const AreasAtuacaoContainer = styled.section`
     }
 
     @media only screen and (max-width: 767px) {
-        
+        padding: 50px 25px;
+
+        gap: 25px;
+
+        ul {
+            flex-direction: column;
+        }
     }
 `

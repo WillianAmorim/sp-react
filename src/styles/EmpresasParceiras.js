@@ -85,6 +85,19 @@ export const EmpresasParceirasContainer = styled.section`
     }
 
     @media only screen and (max-width: 767px) {
+        padding: 50px 25px;
         
+        .div-container {
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        a {
+            width: max-content;
+        }
+
+        .swiper-slide img {
+            width: 300px;
+        }
     }
 `
