@@ -121,5 +121,9 @@ export const OportunidadesContainer = styled.section`
             width: max-content;
             pointer-events: none;
         }
+
+        a:active {
+            opacity: 0.7;
+        }
     }
 `
