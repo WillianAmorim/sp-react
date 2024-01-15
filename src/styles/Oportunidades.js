@@ -119,6 +119,7 @@ export const OportunidadesContainer = styled.section`
 
         a {
             width: max-content;
+            pointer-events: none;
         }
     }
 `
