@@ -5,9 +5,8 @@ import styled from "styled-components";
 export const CarroselContainer = styled.div`
     .slide-item {
         width: 100%;
-        height: 100vh;
-        filter: brightness(0.8);
-
+        height: 400px;
+        filter: brightness(0.7);
     }
 
     .swiper-button-next,
@@ -15,28 +14,33 @@ export const CarroselContainer = styled.div`
         color: white;
     }
 
-    /* Altere a cor das bolinhas de controle (paginadores) */
     .swiper-pagination-bullet {
-        background-color: white; /* Substitua 'blue' pela cor desejada */
+        background-color: white;
         width: 50px;
         border-radius: 0;
         height: 2px;
     }
 
     .div-absolute {
+        width: 60%;
         position: absolute;
         z-index: 9;
-
         color: white;
-        left: 100px;
-        top: 40%;
+        left: 25px;
+        top: 50%;
 
-        /* background-color: black; */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
     }
 
-    @media only screen and (max-width: 767px) {
+    .div-absolute h1 {
+        font-size: 20px;
+    }
+
+    @media only screen and (min-width: 767px) {
         .slide-item {
-            height: 400px;
+            height: 100vh;
         }
     }
 `;

@@ -13,32 +13,13 @@ import { CarroselContainer } from '../styles/Carrosel-Primeiro';
 const CarroselPrimeiro = () => {
   return (
     <CarroselContainer style={{ width: '100%' }}>
-      {/* <header>
-        <img src={LogoHeader} alt="" />
-        <svg id="img-open" xmlns="http://www.w3.org/2000/svg" width="35" height="25" fill="currentColor"
-          className="bi bi-list" viewBox="0 0 16 16">
-          <path fillRule="evenodd"
-            d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5" />
-        </svg>
-        <ul className='ul-header'>
-          <li>Home</li>
-          <p>|</p>
-          <li>Áreas de atuação</li>
-          <p>|</p>
-          <li>Oportunidades</li>
-          <p>|</p>
-          <li>Contato</li>
-          <p>|</p>
-        </ul>
-        <input id='input-header' placeholder='Pesquisa avançada' type="text" />
-      </header> */}
       <Swiper
         modules={[EffectFade, Navigation, Pagination, Autoplay]}
         effect={'fade'}
         slidesPerView={2}  // Correção aqui
         // spaceBetween={10}
         pagination={{ clickable: true }}
-        navigation={true}
+        // navigation={true}
         loop={true}
         speed={2000}
         autoplay={{
@@ -47,7 +28,7 @@ const CarroselPrimeiro = () => {
         }}
       >
         <SwiperSlide>
-        <div className='div-absolute'>
+          <div className='div-absolute'>
             <h1>Easy Renascença</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
           </div>
@@ -55,20 +36,20 @@ const CarroselPrimeiro = () => {
         </SwiperSlide>
 
         <SwiperSlide>
-        <div className='div-absolute'>
-            <h1>Easy Renascença</h1>
+          <div className='div-absolute'>
+            <h1>Gran Imperial</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
           </div>
           <img className='slide-item' src={GranImperial} alt="" />
         </SwiperSlide>
 
         <SwiperSlide>
-        <div className='div-absolute'>
-            <h1>Easy Renascença</h1>
+          <div className='div-absolute'>
+            <h1>IOA</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
           </div>
           <img className='slide-item' src={IOA} alt="" />
-          
+
         </SwiperSlide>
       </Swiper>
     </CarroselContainer >
