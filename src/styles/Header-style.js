@@ -1,73 +1,11 @@
 import styled from "styled-components";
 
 export const HeaderContainer = styled.div`
-    font-family: 'Inter', sans-serif;
-
     .header-desktop {
         display: none;
     }
 
-    li {
-        list-style: none;
-    }
-
-    nav {
-        display: flex;
-        flex-direction: column;
-        position: absolute;
-        z-index: 99;
-        align-items: flex-end;
-        right: 0;
-        background-color: white;
-        width: 80%;
-        height: 100%;
-        padding: 50px 25px;
-        gap: 50px;
-    }
-
-    .ul-principal-mobile {
-        display: flex;
-        flex-direction: column;
-        align-self: flex-start;
-        color: black;
-        list-style: none;
-        gap: 25px;
-        font-size: 20px;
-        padding-top: 50px;
-    }
-
-    #img-open {
-        position: absolute;
-    }
-
-    .ul-areas-atuacao-mobile {
-        padding: 25px 0px 0px 25px;
-        display: flex;
-        flex-direction: column;
-        gap: 25px;
-        font-size: 17px;
-    }
-
-    #locacoes {
-        position: relative;
-    }
-
-    .ul-locacoes {
-        padding: 25px 0px 0px 25px;
-        left: 0;
-        display: flex;
-        flex-direction: column;
-        gap: 25px;
-        position: relative;
-        font-size: 15px;
-    }
-
     @media only screen and (min-width: 767px) {
-
-        nav {
-            display: none;
-        }  
-
         a {
             text-decoration: none;
             color: inherit;

@@ -8,10 +8,12 @@ import EmpresasParceiras from '../components/EmpresasParceiras'
 import Cadastro from '../components/Cadastro'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
+import Navbar from '../components/Navbar'
 
 const Home = () => {
     return (
         <>
+            <Navbar />
             <Header />
             <PrimeiroCarrosel />
             <QuemSomos />

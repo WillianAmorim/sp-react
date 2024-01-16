@@ -5,16 +5,17 @@ export const OportunidadesContainer = styled.section`
     background-color: #121D40;
     color: white;
 
-    padding: 50px;
-
-    font-family: 'Inter', sans-serif;
+    padding: 50px 25px;
 
     .div-container {
         display: flex;
+        flex-direction: column;
         justify-content: space-between;
+        gap: 25px;
 
         border-bottom: 1px solid #C19A29;
         padding-bottom: 20px;
+        margin-bottom: 20px;
     }
 
     .div-title {
@@ -43,22 +44,16 @@ export const OportunidadesContainer = styled.section`
         display: flex;
         align-items: center;
         border-radius: 25px;
-        height: min-content;
+        width: max-content;
 
         font-size: 15px;
         font-weight: 300;
-    }
-
-    a:hover {
-        background-color: transparent;
-        border: 1px solid #C19A29;
     }
 
     .mySwiper {
         width: 100%;
         height: 100%;
 
-        padding-top: 50px;
     }
 
     .swiper-slide {
@@ -104,26 +99,43 @@ export const OportunidadesContainer = styled.section`
         font-weight: 300;        
     }
 
-    .swiper-slide p:hover {
-        background-color: white;
-        color: black;
-    }
+    
 
-    @media only screen and (max-width: 767px) {
-        padding: 50px 25px;
+    @media only screen and (min-width: 767px) {
+        padding: 50px;
+
+        .swiper-slide p:hover {
+            background-color: white;
+            color: black;
+        }
 
         .div-container {
-            flex-direction: column;
-            gap: 20px;
+            flex-direction: row;
+            justify-content: space-between;
         }
 
         a {
-            width: max-content;
-            pointer-events: none;
+            height: min-content;
         }
 
-        a:active {
-            opacity: 0.7;
+        a:hover {
+            background-color: transparent;
+            border: 1px solid #C19A29;
         }
+
+
+        /* .div-container {
+            flex-direction: column;
+            gap: 20px;
+        } */
+
+        /* a {
+            width: max-content;
+            pointer-events: none;
+        } */
+
+        /* a:active {
+            opacity: 0.7;
+        } */
     }
 `

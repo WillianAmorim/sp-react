@@ -1,12 +1,12 @@
 import styled from "styled-components";
 
 export const AreasAtuacaoContainer = styled.section`
-    padding: 50px;
-    font-family: 'Inter', sans-serif;
+    padding: 50px 25px;
 
     display: flex;
     flex-direction: column;
-    gap: 50px;
+
+    gap: 20px;
 
     h1 {
         font-size: 30px;
@@ -16,6 +16,7 @@ export const AreasAtuacaoContainer = styled.section`
     ul {
         list-style: none;
         display: flex;
+        flex-direction: column;
         gap: 15px;
         
     }
@@ -25,15 +26,14 @@ export const AreasAtuacaoContainer = styled.section`
         height: 400px;
         object-fit: cover;
         position: relative;
-        transition: transform 0.5s ease-in-out;
     }
 
     img {
-        width: 95%;
+        width: 100%;
         height: 100%;
         object-fit: cover;
         border-radius: 15px;
-        filter: brightness(0.8);
+        filter: brightness(0.7);
     }
 
     a {
@@ -59,22 +59,23 @@ export const AreasAtuacaoContainer = styled.section`
 
     }
 
-    a:hover {
-        background-color: #121D40;
-        color: white;
-    }
-
-    li:hover {
-        transform: scale(1.1);
-    }
-
-    @media only screen and (max-width: 767px) {
-        padding: 50px 25px;
-
-        gap: 25px;
+    @media only screen and (min-width: 767px) {
 
         ul {
-            flex-direction: column;
+            flex-direction: row;
+        }
+
+        li {
+            transition: transform 0.5s ease-in-out;
+        }
+        
+        a:hover {
+            background-color: #121D40;
+            color: white;
+        }
+
+        li:hover {
+            transform: scale(1.1);
         }
     }
 `

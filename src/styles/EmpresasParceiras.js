@@ -1,19 +1,12 @@
 import styled from "styled-components";
 
 export const EmpresasParceirasContainer = styled.section`
-    width: 100%;
-    color: white;
-
-    padding: 50px;
-
-    font-family: 'Inter', sans-serif;
+    padding: 50px 25px;
 
     .div-container {
         display: flex;
-        justify-content: space-between;
-
-        border-bottom: 1px solid white;
-        padding-bottom: 20px;
+        flex-direction: column;
+        gap: 20px;
     }
 
     .div-title {
@@ -21,7 +14,6 @@ export const EmpresasParceirasContainer = styled.section`
         flex-direction: column;
         gap: 10px;
         color: black;
-
     }
 
     .div-title h1 {
@@ -33,27 +25,25 @@ export const EmpresasParceirasContainer = styled.section`
         font-size: 15px;
         font-weight: 400;
     }
-
+        
     a {
+        width: max-content;
         text-decoration: none;
         color: white;
         background-color: #C19A29;
         
-        padding: 10px 20px;
+        padding: 10px;
 
         display: flex;
         align-items: center;
         border-radius: 25px;
-        height: min-content;
 
         font-size: 15px;
         font-weight: 400;
     }
 
-    a:hover {
-        background-color: transparent;
-        color: #121D40;
-        border: 1px solid black;
+    .swiper-slide img {
+        width: 300px;
     }
 
     .mySwiper {
@@ -63,41 +53,23 @@ export const EmpresasParceirasContainer = styled.section`
         padding-top: 50px;
     }
 
-    .swiper-slide {
-        text-align: center;
-        font-size: 18px;
-
-        display: flex;
-        justify-content: center;
-        align-items: center;
-
-    }
-
-    .swiper-slide img {
-        display: block;
-        width: 70%;
-        height: auto;
-        object-fit: cover;
-
-        border-radius: 25px;
-
-        border: none;
-    }
-
-    @media only screen and (max-width: 767px) {
-        padding: 50px 25px;
+    @media only screen and (min-width: 767px) {
+        padding: 50px;
         
         .div-container {
-            flex-direction: column;
+            flex-direction: row;
+            justify-content: space-between;
             gap: 20px;
         }
         
         a {
-            width: max-content;
+            height: min-content;
         }
 
-        .swiper-slide img {
-            width: 300px;
+        a:hover {
+            background-color: transparent;
+            color: #121D40;
+            border: 1px solid black;
         }
     }
 `

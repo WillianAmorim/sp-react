@@ -2,48 +2,49 @@ import styled from "styled-components";
 
 export const QuemSomosContainer = styled.div`
     display: flex;
-    align-items: center;
+    flex-direction: column;
     gap: 70px;
+    align-items: center;
     overflow: hidden;
-
     padding: 50px 25px;
 
-    font-family: 'Inter', sans-serif;
-
-
-    div {
-        display: flex;
-        flex-direction: column;
-        gap: 50px;
-        align-items: center;
-
-        padding: 30px;
-    }
-
-    div p {
-        font-size: 20px;
-        font-weight: 200;
-        text-align: center;
-        line-height: 30px;
+    img {
+        width: 50%;
+        transform: scale(2.8)
     }
 
     div h1 {
+        text-align: center;
         font-size: 40px;
         font-weight: 500;
     }
 
-    img {
-        width: 50%;
-        transform: scale(1.7)
+    div p {
+        font-size: 18px;
+        font-weight: 200;
+        text-align: justify;
+        line-height: 30px;
     }
 
-    @media only screen and (max-width: 767px) {
+    div {
+        display: flex;
         flex-direction: column;
-        padding: 50px 0px;
+        gap: 20px;
+        align-items: center;
+
+    }
+    
+    @media only screen and (min-width: 767px) {
+        flex-direction: row;
+        padding: 50px;
+
+        div p {
+        text-align: center;
+    }
         
 
         img {
-            transform: scale(2.9)
+            transform: scale(1.6)
         }
     }
 `

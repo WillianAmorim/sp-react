@@ -3,6 +3,7 @@
 import styled from "styled-components";
 
 export const CarroselContainer = styled.div`
+
     .slide-item {
         width: 100%;
         height: 400px;
