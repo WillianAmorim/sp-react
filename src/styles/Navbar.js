@@ -2,6 +2,12 @@ import styled from "styled-components";
 import { FiAlignJustify } from "react-icons/fi";
 import { AiOutlineClose } from "react-icons/ai";
 
+export const ContainerNav = styled.div`
+    @media only screen and (min-width: 767px) {
+       display: none;
+    }
+`
+
 export const NavbarContainer = styled.header`
     width: 100%;
     position: absolute;
@@ -14,9 +20,7 @@ export const NavbarContainer = styled.header`
     z-index: 99;
     padding-right: 10px;
 
-    @media only screen and (min-width: 767px) {
-       display: none;
-    }
+    
 `
 
 export const IconNavbarOpen = styled(FiAlignJustify)`
@@ -51,7 +55,7 @@ export const Sidebar = styled.div`
         padding-top: 25px;  
         display: flex;
         flex-direction: column;
-        gap: 15px;
+        gap: 25px;
 
         padding-left: 10px;
     }
@@ -59,14 +63,14 @@ export const Sidebar = styled.div`
     .list-menu-at {
         display: flex;
         align-items: center;
-        gap: 5px;
+        gap: 10px;
     }
 
     .areas-atuacao {
         flex-direction: column;
         list-style: none;
         padding-left: 15px;
-        gap: 10px;
+        gap: 15px;
     }
 
     #li-locacao {
@@ -79,7 +83,7 @@ export const Sidebar = styled.div`
 
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 15px;
     }
 
     .item-menu-navbar {

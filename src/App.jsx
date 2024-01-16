@@ -4,6 +4,8 @@ import ShoppingCenters from './pages/ShoppingCenters'
 import StripMalls from './pages/StripMalls'
 import Drogasil from './pages/Drogasil'
 import { Routes, Route } from 'react-router-dom';
+import Oportunidades from './components/Oportunidades';
+import Incorporacoes from './components/Incorporações';
 
 const App = () => {
   return(
@@ -14,7 +16,8 @@ const App = () => {
         <Route path="/shopping-centers" element={<ShoppingCenters />} />
         <Route path="/strip-malls" element={<StripMalls />} />
         <Route path="/drogasil" element={<Drogasil />} />
-        {/* <Route path="/oportunidade" element={<Drogasil />} /> */}
+        <Route path="/oportunidades" element={<Oportunidades />} />
+        <Route path="/incorporacoes" element={<Incorporacoes />} />
       </Routes>
     </>
   );

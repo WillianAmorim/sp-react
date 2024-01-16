@@ -2,53 +2,48 @@ import styled from "styled-components";
 
 export const FooterContainer = styled.div`
     display: flex;
-    justify-content: center;
-    gap: 200px;
-    padding: 50px 0;
-
-    background-color: #F6F5F5;
-
-    font-family: 'Inter', sans-serif;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+    padding-top: 25px;
 
     img {
-        width: auto;
+        width: 50%;
         height: 150px;
+
+        align-self: center;
     }
 
     .div-ul {
         display: flex;
-        gap: 200px;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding-left: 10px;
+        gap: 15px;
     }
 
-    .div-ul ul {
+    ul {
         list-style: none;
         display: flex;
         flex-direction: column;
-        gap: 20px;
-        color: #121D40;
-    }
-
-    .div-ul ul li {
-        color: #121D40;
+        gap: 15px;
         font-size: 15px;
         font-weight: 300;
     }
 
-    @media only screen and (max-width: 767px) {
-        flex-direction: column;
-        padding: 50px 25px;
-        gap: 50px;
-        align-items: center;
+    @media only screen and (min-width: 767px) {
+        padding: 50px;
+        flex-direction: row;
+        gap: 150px;
+        justify-content: center;
 
         img {
-            width: 50%;
-            height: auto;
+            width: auto;
         }
 
         .div-ul {
-            flex-direction: column;
-            align-self: flex-start;
-            gap: 20px;
+            flex-direction: row;
+            gap: 150px;
         }
     }
 `
