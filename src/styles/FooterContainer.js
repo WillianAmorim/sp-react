@@ -29,6 +29,7 @@ export const FooterContainer = styled.div`
         gap: 15px;
         font-size: 15px;
         font-weight: 300;
+        color: #121D40;
     }
 
     @media only screen and (min-width: 767px) {

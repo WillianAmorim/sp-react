@@ -87,16 +87,16 @@ export const Sidebar = styled.div`
     }
 
     .item-menu-navbar {
-        font-size: 25px;
+        font-size: 22px;
     }
 
     .item-menu-areasAtuacao {
-        font-size: 20px;
+        font-size: 17px;
         color: black;
     }
 
     .item-menu-locacao {
-        font-size: 17px;
+        font-size: 15px;
     }
 `;
 

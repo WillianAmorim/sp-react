@@ -8,6 +8,10 @@ const GlobalStyle = createGlobalStyle`
 
         font-family: 'Inter', sans-serif;
     }
+
+    body {
+        overflow-x: hidden;
+    }
 `
 
 export default GlobalStyle
