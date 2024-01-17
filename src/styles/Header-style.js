@@ -48,6 +48,10 @@ export const HeaderContainer = styled.div`
 
         #li-areas-atuacao {
             position: relative;
+            z-index: 9;
+            color: white;
+            /* background-color: red; */
+            padding: 10px
         }
 
         .ul-areas-atuacao {
@@ -56,10 +60,10 @@ export const HeaderContainer = styled.div`
             flex-direction: column;
             position: absolute;
             width: max-content;
-            top: 30px;
+            top: 40px;
+            left: 0px;
             background-color: rgba(0,0,0,0.5);
-            display: none;
-            
+            /* background-color: transparent; */
         }
 
         .item-area-atuacao {
@@ -83,6 +87,7 @@ export const HeaderContainer = styled.div`
             left: 156px;
             top: 0;
             background-color: rgba(0,0,0,0.5);
+            /* background-color: transparent; */
             padding: 0px 0px;
             gap: 0;
         }
