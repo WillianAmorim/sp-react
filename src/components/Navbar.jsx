@@ -46,7 +46,7 @@ const Navbar = () => {
           </ul>
 
           <div className='item-menu-navbar'><Link to={'/oportunidades'}>Oportunidades</Link></div>
-          <div className='item-menu-navbar'><Link to={''}>Contato</Link></div>
+          <div className='item-menu-navbar'><Link to={'contato'}>Contato</Link></div>
         </section>
 
       </Sidebar>
