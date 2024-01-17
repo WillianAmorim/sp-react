@@ -38,7 +38,7 @@ const Navbar = () => {
             <li className='item-menu-areasAtuacao'><Link to={"/bts"}>BTS (Built to Suit)</Link></li>
             <li className='item-menu-areasAtuacao'><Link to={"/incorporacoes"}>Incorporações</Link></li>
             <li className='item-menu-areasAtuacao' id='li-locacao' onClick={() => setLocacaoVisible(!locacaoVisible)}>Locações <RiArrowDownSLine /></li>
-            <ul visible={locacaoVisible} className='locacoes' style={{ display: locacaoVisible ? 'flex' : 'none' }}>
+            <ul visible={locacaoVisible} className='locacoes item-menu-areasAtuacao' style={{ display: locacaoVisible ? 'flex' : 'none' }}>
               <li className='item-menu-locacao'>Comercial</li>
               <li className='item-menu-locacao'>Galpão Logístico</li>
               <li className='item-menu-locacao'>Residencial</li>
