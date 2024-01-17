@@ -36,9 +36,9 @@ const Header = () => {
                         </ul>
                     </li>
                     <p>|</p>
-                    <li><Link to='/oportunidades'>Oportunidades</Link></li>
+                    <li><Link to={'/oportunidades'}>Oportunidades</Link></li>
                     <p>|</p>
-                    <li><Link to='/drogasil'>Contato</Link></li>
+                    <li><Link to={'/contato'}>Contato</Link></li>
                 </ul>
             </header>
         </HeaderContainer>

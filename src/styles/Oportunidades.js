@@ -33,9 +33,13 @@ export const OportunidadesContainer = styled.section`
         font-size: 15px;
         font-weight: 400;
     }
-    
+
     a {
         text-decoration: none;
+        color: inherit;
+    }
+    
+    #div-conheca-todos {
         color: white;
         background-color: #C19A29;
         
@@ -48,6 +52,7 @@ export const OportunidadesContainer = styled.section`
 
         font-size: 15px;
         font-weight: 300;
+        border: 1px solid transparent;
     }
 
     .mySwiper {
@@ -114,11 +119,15 @@ export const OportunidadesContainer = styled.section`
             justify-content: space-between;
         }
 
+        #div-conheca-todos {
+            height: min-content;
+        }
+
         a {
             height: min-content;
         }
 
-        a:hover {
+        #div-conheca-todos:hover {
             background-color: transparent;
             border: 1px solid #C19A29;
         }

@@ -5,6 +5,7 @@ import cardsBTS from '../../public/Json/bts.json'
 import { CardsContainer } from '../styles/Cards';
 
 import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
+import { Link } from 'react-router-dom';
 
 
 const CardsBTS = () => {
@@ -16,6 +17,7 @@ const CardsBTS = () => {
             </video>
 
             <section>
+                <h1>Bts</h1>
                 {cardsBTS.map((card) => (
                     <div className='div-card' key={card.id}>
                         <a id='lancamento' href="">Lançamento</a>
@@ -25,7 +27,7 @@ const CardsBTS = () => {
                                 <h2>{card.name}</h2>
                                 <p>Local</p>
                             </div>
-                            <a id='conhecer-imovel' href="">CONHECER IMÓVEL</a>
+                            <Link to={'/bts/drogasil'} id='conhecer-imovel' href="">CONHECER IMÓVEL</Link>
                         </div>
                     </div>
                 ))}

@@ -1,12 +1,13 @@
 import React from 'react';
 
-import cardsShopping from '../../public/Json/shoppingCenters.json'
+import cardsOportunidades from '../../public/Json/oportunidades.json'
 
 import { CardsContainer } from '../styles/Cards';
 
 import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
 
-const CardsShopping = () => {
+
+const CardsOportunidades = () => {
     return (
         <CardsContainer>
             <video autoPlay muted loop>
@@ -15,9 +16,9 @@ const CardsShopping = () => {
             </video>
 
             <section>
-                <h1>Shopping Centers</h1>
-                {cardsShopping.map((card) => (
-                    <div className='div-pai' key={card.id}>
+                <h1>Oportunidades</h1>
+                {cardsOportunidades.map((card) => (
+                    <div className='div-card' key={card.id}>
                         <a id='lancamento' href="">Lançamento</a>
                         <img src={card.src} alt="" />
                         <div className='div-details'>
@@ -25,7 +26,7 @@ const CardsShopping = () => {
                                 <h2>{card.name}</h2>
                                 <p>Local</p>
                             </div>
-                            <a id='conhecer-imovel' href="">Conhecer imóvel</a>
+                            <a id='conhecer-imovel' href="">CONHECER IMÓVEL</a>
                         </div>
                     </div>
                 ))}
@@ -34,4 +35,4 @@ const CardsShopping = () => {
     );
 }
 
-export default CardsShopping;
+export default CardsOportunidades;

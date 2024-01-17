@@ -1,10 +1,12 @@
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
 import data from '../../public/Json/jsonPrincipal.json'
+
+import { Link } from 'react-router-dom'
 // import { useNavigate } from 'react-router-dom';
 
 const Oportunidades = () => {
@@ -26,7 +28,7 @@ const Oportunidades = () => {
                     <h1>Oportunidades</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
-                <a href="">Conheça todos</a>
+                <div id='div-conheca-todos'><Link to={'/oportunidades'}>Conheça todos</Link></div>
             </div>
 
             <div>

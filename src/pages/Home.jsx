@@ -24,6 +24,7 @@ const Home = () => {
             <Cadastro />
             <Footer />
             <Termos />
+            
 
         </>
     )

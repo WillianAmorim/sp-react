@@ -6,6 +6,9 @@ import { OportunidadesContainer } from '../styles/Oportunidades';
 
 import data from '../../public/Json/jsonPrincipal.json'
 
+import { Link } from 'react-router-dom'
+
+
 const Incorporacoes = () => {
     return (
         <OportunidadesContainer>
@@ -14,7 +17,7 @@ const Incorporacoes = () => {
                     <h1>Incorporacoes</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
-                <a href="">Conheça todos</a>
+                <div id='div-conheca-todos'><Link to={'/incorporacoes'}>Conheça todos</Link></div>
             </div>
 
             <div>

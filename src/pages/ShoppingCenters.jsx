@@ -3,10 +3,12 @@ import Cadastro from '../components/Cadastro'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
 import CardsShoppingCenters from '../components/CardsShoppingCenters'
+import Navbar from '../components/Navbar'
 
-const Home = () => {
+const ShoppingCenters = () => {
     return (
         <>
+            <Navbar />
             <Header />
             <CardsShoppingCenters />
             <Cadastro />
@@ -16,4 +18,4 @@ const Home = () => {
     )
 }
 
-export default Home;
+export default ShoppingCenters;

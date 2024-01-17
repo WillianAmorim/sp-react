@@ -39,14 +39,14 @@ const Navbar = () => {
             <li className='item-menu-areasAtuacao'><Link to={"/incorporacoes"}>Incorporações</Link></li>
             <li className='item-menu-areasAtuacao' id='li-locacao' onClick={() => setLocacaoVisible(!locacaoVisible)}>Locações <RiArrowDownSLine /></li>
             <ul visible={locacaoVisible} className='locacoes item-menu-areasAtuacao' style={{ display: locacaoVisible ? 'flex' : 'none' }}>
-              <li className='item-menu-locacao'>Comercial</li>
-              <li className='item-menu-locacao'>Galpão Logístico</li>
-              <li className='item-menu-locacao'>Residencial</li>
+              <li className='item-menu-locacao'><Link to={''}>Comercial</Link></li>
+              <li className='item-menu-locacao'><Link to={''}>Galpão Logístico</Link></li>
+              <li className='item-menu-locacao'><Link to={''}>Residencial</Link></li>
             </ul>
           </ul>
 
-          <div className='item-menu-navbar'>Oportunidades</div>
-          <div className='item-menu-navbar'>Contato</div>
+          <div className='item-menu-navbar'><Link to={'/oportunidades'}>Oportunidades</Link></div>
+          <div className='item-menu-navbar'><Link to={''}>Contato</Link></div>
         </section>
 
       </Sidebar>

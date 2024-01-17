@@ -2,20 +2,23 @@ import Header from '../components/Header'
 import Cadastro from '../components/Cadastro'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
-import CardsBTS from '../components/CardsBTS'
+import Navbar from '../components/Navbar'
+import Localizacao from '../components/Localizacao'
 import Navbar from '../components/Navbar'
 
-const Bts = () => {
+const Home = () => {
     return (
         <>
             <Navbar />
             <Header />
-            <CardsBTS />
+            <Localizacao/>
             <Cadastro />
             <Footer />
             <Termos />
+            
+
         </>
     )
 }
 
-export default Bts;
+export default Home;

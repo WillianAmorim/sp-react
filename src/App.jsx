@@ -4,8 +4,9 @@ import ShoppingCenters from './pages/ShoppingCenters'
 import StripMalls from './pages/StripMalls'
 import Drogasil from './pages/Drogasil'
 import { Routes, Route } from 'react-router-dom';
-import Oportunidades from './components/Oportunidades';
-import Incorporacoes from './components/Incorporações';
+import Oportunidades from './pages/Oportunidades';
+import Incorporacoes from './pages/Incorporacoes';
+import Contato from './pages/Contato'
 
 const App = () => {
   return(
@@ -18,6 +19,8 @@ const App = () => {
         <Route path="/drogasil" element={<Drogasil />} />
         <Route path="/oportunidades" element={<Oportunidades />} />
         <Route path="/incorporacoes" element={<Incorporacoes />} />
+        <Route path="/bts/drogasil" element={<Drogasil />} />
+        <Route path="/contato" element={<Contato />} />
       </Routes>
     </>
   );
