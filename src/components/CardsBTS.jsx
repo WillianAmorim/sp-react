@@ -29,8 +29,15 @@ const CardsBTS = () => {
                             <a id='lancamento-mobile' href="">Lançamento</a>
                             <h2>{card.name}</h2>
                             <p>Península | São Luís-MA</p>
+
+                            <section className='section-details-mobile'>
+                            <div><SlSizeFullscreen size={10}/>65 a 131 m²</div>
+                            <div><FaBed size={10} color='white'/>3 a 4 dorm.</div>
+                            <div><GiShower size={10} />1 a 4 suítes</div>
+                            <div><IoCarSharp size={10} />1 a 2 vagas</div>
+                        </section>
                         </div>
-                        <section className='section-details'>
+                        <section className='section-details-web'>
                             <div><SlSizeFullscreen size={15}/>65 a 131 m²</div>
                             <div><FaBed size={15} color='white'/>3 a 4 dorm.</div>
                             <div><GiShower size={15} />1 a 4 suítes</div>

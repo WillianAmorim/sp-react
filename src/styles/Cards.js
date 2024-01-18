@@ -69,7 +69,27 @@ export const CardsContainer = styled.div`
         font-size: 15px;
     }
 
+    .section-details-mobile {
+        width: 100%;
+        position: absolute;
+        background-color: green;
+        display: flex;
+        flex-direction: row;
+
+        font-size: 15px;
+
+        display: none;
+    }
+
     #conhecer-imovel-web {
+        display: none;
+    }
+
+    .section-details-web {
+        display: none;
+    }
+
+    #lancamento-web{
         display: none;
     }
 /* 
@@ -105,7 +125,7 @@ export const CardsContainer = styled.div`
             column-gap: 50px;
         }
 
-        .section-details {
+        .section-details-web {
             position: absolute;
             z-index: 99;
             color: white;
@@ -117,7 +137,7 @@ export const CardsContainer = styled.div`
             display: flex;
         }
 
-        .section-details div {
+        .section-details-web div {
             display: flex;
             gap: 5px;
         }
