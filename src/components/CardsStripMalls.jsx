@@ -30,7 +30,7 @@ const CardsBTS = () => {
                             <h2>{card.name}</h2>
                             <p>Península | São Luís-MA</p>
                         </div>
-                        <section className='section-details'>
+                        <section className='section-details-web'>
                             <div><SlSizeFullscreen size={15}/>65 a 131 m²</div>
                             <div><FaBed size={15} color='white'/>3 a 4 dorm.</div>
                             <div><GiShower size={15} />1 a 4 suítes</div>

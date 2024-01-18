@@ -7,6 +7,11 @@ import { CardsContainer } from '../styles/Cards';
 import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
 import { Link } from 'react-router-dom';
 
+import { SlSizeFullscreen } from "react-icons/sl";
+import { FaBed } from "react-icons/fa";
+import { GiShower } from "react-icons/gi";
+import { IoCarSharp } from "react-icons/io5";
+
 
 const CardsIncorporacoes = () => {
     return (
@@ -24,6 +29,13 @@ const CardsIncorporacoes = () => {
                             <h2>{card.name}</h2>
                             <p>Península | São Luís-MA</p>
                         </div>
+
+                        <section className='section-details-web'>
+                            <div><SlSizeFullscreen size={15}/>65 a 131 m²</div>
+                            <div><FaBed size={15} color='white'/>3 a 4 dorm.</div>
+                            <div><GiShower size={15} />1 a 4 suítes</div>
+                            <div><IoCarSharp size={15} />1 a 2 vagas</div>
+                        </section>
                         <a id='lancamento-web' href="">Lançamento</a>
                         <img src={card.src} alt="" />
 
