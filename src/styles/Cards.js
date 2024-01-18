@@ -47,10 +47,11 @@ export const CardsContainer = styled.div`
     }
 
     .div-details-mobile {
+        width: 100%;
         position: absolute;
         z-index: 9;
 
-        top: 40%;
+        top: 35%;
         left: 25px;
         color: white;
 
@@ -70,15 +71,15 @@ export const CardsContainer = styled.div`
     }
 
     .section-details-mobile {
-        width: 100%;
-        position: absolute;
-        background-color: green;
+        color: white;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
+        gap: 5px;
 
-        font-size: 15px;
-
-        display: none;
+        p {
+            display: flex;
+            gap: 5px;
+        }
     }
 
     #conhecer-imovel-web {

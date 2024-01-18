@@ -30,12 +30,12 @@ const CardsBTS = () => {
                             <h2>{card.name}</h2>
                             <p>Península | São Luís-MA</p>
 
-                            <section className='section-details-mobile'>
-                            <div><SlSizeFullscreen size={10}/>65 a 131 m²</div>
-                            <div><FaBed size={10} color='white'/>3 a 4 dorm.</div>
-                            <div><GiShower size={10} />1 a 4 suítes</div>
-                            <div><IoCarSharp size={10} />1 a 2 vagas</div>
-                        </section>
+                            <div className='section-details-mobile'>
+                                <p><SlSizeFullscreen size={15}/>65 a 131 m²</p>
+                                <p><FaBed size={15} color='white'/>3 a 4 dorm.</p>
+                                <p><GiShower size={15} />1 a 4 suítes</p>
+                                <p><IoCarSharp size={15} />1 a 2 vagas</p>
+                            </div>
                         </div>
                         <section className='section-details-web'>
                             <div><SlSizeFullscreen size={15}/>65 a 131 m²</div>
