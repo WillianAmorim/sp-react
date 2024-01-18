@@ -15,7 +15,6 @@ const CardsShopping = () => {
             </video>
 
             <section>
-                <h1>Shopping Centers</h1>
                 {cardsShopping.map((card) => (
                     <div className='div-pai' key={card.id}>
                         <a id='lancamento' href="">Lançamento</a>

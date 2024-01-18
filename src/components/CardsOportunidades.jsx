@@ -16,7 +16,6 @@ const CardsOportunidades = () => {
             </video>
 
             <section>
-                <h1>Oportunidades</h1>
                 {cardsOportunidades.map((card) => (
                     <div className='div-card' key={card.id}>
                         <a id='lancamento' href="">Lançamento</a>

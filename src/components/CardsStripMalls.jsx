@@ -16,7 +16,6 @@ const CardsBTS = () => {
             </video>
 
             <section>
-                <h1>Strip Malls</h1>
                 {cardsStripMalls.map((card) => (
                     <div className='div-card' key={card.id}>
                         <a id='lancamento' href="">Lançamento</a>
