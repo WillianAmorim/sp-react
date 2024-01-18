@@ -10,17 +10,6 @@ import { Link } from 'react-router-dom'
 // import { useNavigate } from 'react-router-dom';
 
 const Oportunidades = () => {
-    // const swiperRef = useRef(null);
-
-   // Executa isso apenas quando o componente é montado
-
-    // const navigate = useNavigate();
-
-    // const handleClick = (rota) => {
-    //     window.scrollTo({ top: 0 })
-    //     navigate(rota);
-    // };
-
     return (
         <OportunidadesContainer>
             <div className='div-container'>
@@ -33,7 +22,6 @@ const Oportunidades = () => {
 
             <div>
                 <Swiper
-                    // ref={swiperRef}
                     modules={[Navigation, Pagination, Autoplay]}
                     slidesPerView={5}
                     centeredSlides={true}
