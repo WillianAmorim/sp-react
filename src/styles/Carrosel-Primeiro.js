@@ -23,12 +23,12 @@ export const CarroselContainer = styled.div`
     }
 
     .div-absolute {
-        width: 60%;
+        width: 80%;
         position: absolute;
         z-index: 9;
         color: white;
-        left: 100px;
-        top: 50%;
+        left: 20px;
+        top: 40%;
 
         display: flex;
         flex-direction: column;
@@ -64,6 +64,11 @@ export const CarroselContainer = styled.div`
         .slide-item {
             height: 100vh;
         }
+
+        .div-absolute {
+        left: 100px;
+        top: 50%;
+    }
     }
 `;
 

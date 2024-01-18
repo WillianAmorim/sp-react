@@ -22,7 +22,7 @@ export const CardsContainer = styled.div`
     img {
         width: 100%;
         height: 400px;
-        filter: brightness(0.7);
+        filter: brightness(0.5);
     }
 
     .div-details-web {

@@ -28,13 +28,14 @@ const CardsShopping = () => {
                             <a id='lancamento-mobile' href="">Lançamento</a>
                             <h2>{card.name}</h2>
                             <p>Península | São Luís-MA</p>
+
+                            <div className='section-details-mobile'>
+                                <p><SlSizeFullscreen size={15} />65 a 131 m²</p>
+                                <p><FaBed size={15} color='white' />3 a 4 dorm.</p>
+                                <p><GiShower size={15} />1 a 4 suítes</p>
+                                <p><IoCarSharp size={15} />1 a 2 vagas</p>
+                            </div>
                         </div>
-                        <section className='section-details-web'>
-                            <div><SlSizeFullscreen size={15}/>65 a 131 m²</div>
-                            <div><FaBed size={15} color='white'/>3 a 4 dorm.</div>
-                            <div><GiShower size={15} />1 a 4 suítes</div>
-                            <div><IoCarSharp size={15} />1 a 2 vagas</div>
-                        </section>
                         <a id='lancamento-web' href="">Lançamento</a>
                         <img src={card.src} alt="" />
 
