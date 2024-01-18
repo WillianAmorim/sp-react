@@ -131,7 +131,7 @@ export const CardsContainer = styled.div`
             color: white;
             width: 45%;
             left: 0;
-            bottom: 66px;
+            bottom: 75px;
             font-size: 13px;
 
             display: flex;
