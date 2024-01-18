@@ -78,8 +78,8 @@ export const CardsContainer = styled.div`
     } */
 
     h2 {
-        font-weight: 400;
-        font-size: 25px;
+        font-weight: 600;
+        font-size: 22px;
     }
 
     @media only screen and (min-width: 767px) {
@@ -92,17 +92,52 @@ export const CardsContainer = styled.div`
             display: none;
         }
 
+        img {
+            width: 100%;
+            height: 350px;
+            position: relative;
+        }
+
+        section {
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+            column-gap: 50px;
+        }
+
+        .section-details {
+            position: absolute;
+            z-index: 99;
+            color: white;
+            width: 45%;
+            left: 0;
+            bottom: 66px;
+            font-size: 13px;
+
+            display: flex;
+        }
+
+        .section-details div {
+            display: flex;
+            gap: 5px;
+        }
+
         .div-details-web {
             display: flex;
             justify-content: space-between;
+            align-items: center;
             width: 100%;
         }
 
         .div-details-web div {
             display: flex;
             flex-direction: column;
-            gap: 5px;
+            gap: 10px;
+        }
 
+        .div-card {
+            row-gap: 20px;
+            width: 600px;
         }
 
         #conhecer-imovel-web {
@@ -111,7 +146,8 @@ export const CardsContainer = styled.div`
             align-items: center;
             color: white;
             font-size: small;
-            padding: 15px 20px;
+            height: min-content;
+            padding: 15px 30px;
         }
 
         #lancamento-web {
@@ -125,16 +161,6 @@ export const CardsContainer = styled.div`
             border: 1px solid white;
             padding: 10px;
             font-size: small;
-        }
-       
-        section {
-            flex-direction: row;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        img {
-            width: 500px;
         }
     }
 `

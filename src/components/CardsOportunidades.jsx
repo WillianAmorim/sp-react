@@ -6,6 +6,13 @@ import { CardsContainer } from '../styles/Cards';
 
 import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
 
+import { SlSizeFullscreen } from "react-icons/sl";
+import { FaBed } from "react-icons/fa";
+import { GiShower } from "react-icons/gi";
+import { IoCarSharp } from "react-icons/io5";
+
+import { Link } from 'react-router-dom';
+
 
 const CardsOportunidades = () => {
     return (
@@ -18,15 +25,28 @@ const CardsOportunidades = () => {
             <section>
                 {cardsOportunidades.map((card) => (
                     <div className='div-card' key={card.id}>
-                        <a id='lancamento' href="">Lançamento</a>
+                        <div className='div-details-mobile'>
+                            <a id='lancamento-mobile' href="">Lançamento</a>
+                            <h2>{card.name}</h2>
+                            <p>Península | São Luís-MA</p>
+                        </div>
+                        <section className='section-details'>
+                            <div><SlSizeFullscreen size={15}/>65 a 131 m²</div>
+                            <div><FaBed size={15} color='white'/>3 a 4 dorm.</div>
+                            <div><GiShower size={15} />1 a 4 suítes</div>
+                            <div><IoCarSharp size={15} />1 a 2 vagas</div>
+                        </section>
+                        <a id='lancamento-web' href="">Lançamento</a>
                         <img src={card.src} alt="" />
-                        <div className='div-details'>
+
+                        <div className='div-details-web'>
                             <div>
                                 <h2>{card.name}</h2>
-                                <p>Local</p>
+                                <p>Península | São Luís-MA</p>
                             </div>
-                            <a id='conhecer-imovel' href="">CONHECER IMÓVEL</a>
+                            <Link to={'/bts/drogasil'} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
                         </div>
+                        <Link to={'/bts/drogasil'} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
                     </div>
                 ))}
             </section>

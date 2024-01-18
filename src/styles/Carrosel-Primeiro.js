@@ -27,12 +27,33 @@ export const CarroselContainer = styled.div`
         position: absolute;
         z-index: 9;
         color: white;
-        left: 25px;
+        left: 100px;
         top: 50%;
 
         display: flex;
         flex-direction: column;
         gap: 10px;
+
+        ul {
+            list-style: none;
+            
+            li {
+                display: flex;
+                gap: 10px;
+            }
+        }
+
+        a {
+            margin-top: 15px;
+            text-decoration: none;
+            color: black;
+            background-color: white;
+            width: max-content;
+            padding: 10px 10px;
+            border-radius: 10px;
+
+            font-size: small;
+        }
     }
 
     .div-absolute h1 {

@@ -7,6 +7,9 @@ import GranImperial from '../assets/images/courses-04.jpg'
 import IOA from '../assets/images/IOA-nova.jpeg'
 
 import { CarroselContainer } from '../styles/Carrosel-Primeiro';
+import { BsBuilding } from "react-icons/bs";
+import { IoCarSharp } from "react-icons/io5";
+import { GiShower } from "react-icons/gi";
 // import LogoHeader from '../assets/images/IMAGENS_SITE_SAO_PAULO/sao paulo.png'
 
 
@@ -31,6 +34,12 @@ const CarroselPrimeiro = () => {
           <div className='div-absolute'>
             <h1>Easy Renascença</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+            <ul>
+              <li class="li-swiper-container1"><BsBuilding />15 andares</li>
+              <li class="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
+              <li class="li-swiper-container1"><GiShower />1 ou duas suítes</li>
+            </ul>
+            <a href="">Conheça o imóvel</a>
           </div>
           <img className='slide-item' src={EasyResidence} alt="" />
         </SwiperSlide>
@@ -39,6 +48,12 @@ const CarroselPrimeiro = () => {
           <div className='div-absolute'>
             <h1>Gran Imperial</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+            <ul>
+              <li class="li-swiper-container1"><BsBuilding />15 andares</li>
+              <li class="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
+              <li class="li-swiper-container1"><GiShower />1 ou duas suítes</li>
+            </ul>
+            <a href="">Conheça o imóvel</a>
           </div>
           <img className='slide-item' src={GranImperial} alt="" />
         </SwiperSlide>
@@ -47,6 +62,12 @@ const CarroselPrimeiro = () => {
           <div className='div-absolute'>
             <h1>IOA</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+            <ul>
+              <li class="li-swiper-container1"><BsBuilding />15 andares</li>
+              <li class="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
+              <li class="li-swiper-container1"><GiShower />1 ou duas suítes</li>
+            </ul>
+            <a href="">Conheça o imóvel</a>
           </div>
           <img className='slide-item' src={IOA} alt="" />
 

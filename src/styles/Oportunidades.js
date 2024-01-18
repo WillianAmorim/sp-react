@@ -131,20 +131,5 @@ export const OportunidadesContainer = styled.section`
             background-color: transparent;
             border: 1px solid #C19A29;
         }
-
-
-        /* .div-container {
-            flex-direction: column;
-            gap: 20px;
-        } */
-
-        /* a {
-            width: max-content;
-            pointer-events: none;
-        } */
-
-        /* a:active {
-            opacity: 0.7;
-        } */
     }
 `
