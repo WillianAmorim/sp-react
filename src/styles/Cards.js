@@ -51,13 +51,13 @@ export const CardsContainer = styled.div`
         position: absolute;
         z-index: 9;
 
-        top: 35%;
+        top: 40%;
         left: 25px;
         color: white;
 
         display: flex;
         flex-direction: column;
-        gap: 15px;
+        gap: 20px;
     }
 
     #conhecer-imovel-mobile {
@@ -71,10 +71,13 @@ export const CardsContainer = styled.div`
     }
 
     .section-details-mobile {
+        width: 80%;
+        height: auto;
+        flex-wrap: wrap;
         color: white;
         display: flex;
-        flex-direction: column;
-        gap: 5px;
+        column-gap: 25px;
+        row-gap: 10px;
 
         p {
             display: flex;
