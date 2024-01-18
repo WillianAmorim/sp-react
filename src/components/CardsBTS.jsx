@@ -20,19 +20,21 @@ const CardsBTS = () => {
                 {cardsBTS.map((card) => (
                     <div className='div-card' key={card.id}>
                         <div className='div-details-mobile'>
-                            <a id='lancamento' href="">Lançamento</a>
+                            <a id='lancamento-mobile' href="">Lançamento</a>
                             <h2>{card.name}</h2>
-                            <p>Peninsula | São Luís-MA</p>
+                            <p>Península | São Luís-MA</p>
                         </div>
+                        <a id='lancamento-web' href="">Lançamento</a>
                         <img src={card.src} alt="" />
 
                         <div className='div-details-web'>
                             <div>
                                 <h2>{card.name}</h2>
-                                <p>Local</p>
+                                <p>Península | São Luís-MA</p>
                             </div>
+                            <Link to={'/bts/drogasil'} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
                         </div>
-                        <Link to={'/bts/drogasil'} id='conhecer-imovel' href="">CONHECER IMÓVEL</Link>
+                        <Link to={'/bts/drogasil'} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
                     </div>
                 ))}
             </section>
