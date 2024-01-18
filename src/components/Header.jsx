@@ -3,6 +3,7 @@ import { HeaderContainer } from '../styles/Header-style'
 import LogoHeader from '../../public/IMAGENS_SITE_SAO_PAULO/sao paulo.png';
 
 import { Link } from 'react-router-dom'
+import { RiArrowDownSLine } from "react-icons/ri";
 
 const Header = () => {
     const [isHoveredAt, setIsHoveredAt] = useState(false)
@@ -19,7 +20,7 @@ const Header = () => {
 
                     <p>|</p>
 
-                    <li id='li-areas-atuacao' onMouseEnter={() => setIsHoveredAt(true)} onMouseLeave={() => setIsHoveredAt(false)}>Áreas de atuação
+                    <li id='li-areas-atuacao' onMouseEnter={() => setIsHoveredAt(true)} onMouseLeave={() => setIsHoveredAt(false)}>Áreas de atuação <RiArrowDownSLine />
                         <ul className='ul-areas-atuacao' visible={isHoveredAt} style={{ display: isHoveredAt ? 'flex' : 'none' }}>
                             <li className='item-area-atuacao'><a href=""><Link to={'/shopping-centers'}>Shopping Centers</Link></a></li>
                             <li className='item-area-atuacao'><a href=""><Link to={'/strip-malls'}>Strip Malls</Link></a></li>
