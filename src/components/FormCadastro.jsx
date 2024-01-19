@@ -2,7 +2,7 @@ import React from 'react';
 import { ContatoContainer } from '../styles/Contato';
 import { H1Container, Paragraph } from '../styles/PaginaEmpreendimento';
 
-const CardsBTS = () => {
+const FormCadastro = () => {
     return (
         <>
             <ContatoContainer>
@@ -55,4 +55,4 @@ const CardsBTS = () => {
     );
 }
 
-export default CardsBTS;
+export default FormCadastro;

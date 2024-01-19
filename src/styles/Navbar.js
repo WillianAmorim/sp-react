@@ -40,13 +40,12 @@ export const Sidebar = styled.div`
     color: inherit;
     }
 
-    width: 300px;
+    width: 80%;
     height: 100vh;
     background-color: white;
     color: black;
-    /* color: #121D40; */
-    position: absolute;
-    z-index: 99;
+    position: fixed;
+    z-index: 9999;
     top: 0;
     right: ${(props) => (props.visible ? '0' : '-300px')};
     transition: right 0.7s ease-in-out;
