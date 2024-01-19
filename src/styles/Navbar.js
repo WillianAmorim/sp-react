@@ -40,7 +40,7 @@ export const Sidebar = styled.div`
     color: inherit;
     }
 
-    width: 80%;
+    width: 300px;
     height: 100vh;
     background-color: white;
     color: black;
