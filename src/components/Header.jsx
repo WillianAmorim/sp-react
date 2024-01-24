@@ -22,10 +22,10 @@ const Header = () => {
 
                     <li id='li-areas-atuacao' onMouseEnter={() => setIsHoveredAt(true)} onMouseLeave={() => setIsHoveredAt(false)}>Áreas de atuação <RiArrowDownSLine />
                         <ul className='ul-areas-atuacao' visible={isHoveredAt} style={{ display: isHoveredAt ? 'flex' : 'none' }}>
-                            <li className='item-area-atuacao'><a href=""><Link to={'/shopping-centers'}>Shopping Centers</Link></a></li>
-                            <li className='item-area-atuacao'><a href=""><Link to={'/strip-malls'}>Strip Malls</Link></a></li>
-                            <li className='item-area-atuacao'><a href=""><Link to={'/bts'}>BTS (Built to Suit)</Link></a></li>
-                            <li className='item-area-atuacao'><a href=""><Link to={'/incorporacoes'}>Incorporações</Link></a></li>
+                            <li className='item-area-atuacao'><Link to={'/shopping-centers'}>Shopping Centers</Link></li>
+                            <li className='item-area-atuacao'><Link to={'/strip-malls'}>Strip Malls</Link></li>
+                            <li className='item-area-atuacao'><Link to={'/bts'}>BTS (Built to Suit)</Link></li>
+                            <li className='item-area-atuacao'><Link to={'/incorporacoes'}>Incorporações</Link></li>
                             <li id='locacoes' className='item-area-atuacao' onMouseEnter={() => setIsHoveredLoc(true)} onMouseLeave={() => setIsHoveredLoc(false)}>
                                 Locações
                                 <ul className='ul-locacoes' visible={isHoveredLoc} style={{ display: isHoveredLoc ? 'flex' : 'none' }}>

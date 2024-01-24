@@ -1,11 +1,19 @@
 import { FooterContainer } from '../styles/FooterContainer';
+import { FaInstagram } from "react-icons/fa6";
+import { FaLinkedinIn } from "react-icons/fa";
 
 import LogoFooter from '../assets/images/logo-footer.png'
 
 const Footer = () => {
-    return (
+    return ( 
         <FooterContainer>
-            <img src={LogoFooter} alt="" />
+            <div className='div-logo'>
+                <img src={LogoFooter} alt="" />
+                <div className='div-icons'>
+                    <FaInstagram size={25}/>
+                    <FaLinkedinIn size={25}/>
+                </div>
+            </div>
             <div className='div-ul'>
                 <ul>
                     <li>Ver todos os imóveis</li>

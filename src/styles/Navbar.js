@@ -47,7 +47,7 @@ export const Sidebar = styled.div`
     position: fixed;
     z-index: 9999;
     top: 0;
-    right: ${(props) => (props.visible ? '0' : '-300px')};
+    right: ${(props) => (props.$visible ? '0' : '-300px')};
     transition: right 0.7s ease-in-out;
 
     section {

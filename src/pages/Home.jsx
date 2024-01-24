@@ -9,11 +9,12 @@ import Cadastro from '../components/Cadastro'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
 import Navbar from '../components/Navbar'
-// import Whatsapp from '../components/Whatsapp'
+import Whatsapp from '../components/Whatsapp'
 
 const Home = () => {
     return (
         <>
+            <Whatsapp/>
             <Navbar />
             <Header />
             <PrimeiroCarrosel />
@@ -25,7 +26,6 @@ const Home = () => {
             <Cadastro />
             <Footer />
             <Termos />
-            {/* <Whatsapp/> */}
         </>
     )
 }

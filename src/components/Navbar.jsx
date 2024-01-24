@@ -23,7 +23,7 @@ const Navbar = () => {
         <IconNavbarOpen onClick={handleIconClick} />
       </NavbarContainer>
 
-      <Sidebar visible={isSidebarVisible}>
+      <Sidebar $visible={isSidebarVisible}>
         <div className='div-header-sidebar'>
           <img src={LogoNavbarBlack} alt="" />
           <IconNavbarClose onClick={handleIconClick} />

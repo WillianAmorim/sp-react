@@ -19,7 +19,7 @@ const App = () => {
     window.scrollTo(0, 0);
   }, [location]);
 
-  return(
+  return (
     <>
       <Routes>
         <Route path="/" element={<Home />} />
@@ -29,8 +29,9 @@ const App = () => {
         <Route path="/drogasil" element={<Drogasil />} />
         <Route path="/oportunidades" element={<Oportunidades />} />
         <Route path="/incorporacoes" element={<Incorporacoes />} />
-        <Route path="/bts/drogasil" element={<Drogasil />} />
-        <Route path="/contato" element={<Contato />} />
+        {/* <Route path="/bts/drogasil" element={<Drogasil />} /> */}
+        <Route path="/contato" element={<Contato />} /> 
+        <Route path="/bts/:empreendimento" element={<Drogasil />} /> 
       </Routes>
     </>
   );

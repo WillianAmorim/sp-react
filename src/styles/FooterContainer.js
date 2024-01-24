@@ -7,9 +7,20 @@ export const FooterContainer = styled.div`
     gap: 25px;
     padding-top: 25px;
 
+    .div-logo {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .div-icons {
+        display: flex;
+        justify-content: space-around;
+    }
+
     img {
-        width: 50%;
-        height: 150px;
+        width: 70%;
+        height: 230px;
 
         align-self: center;
     }
@@ -40,6 +51,7 @@ export const FooterContainer = styled.div`
 
         img {
             width: auto;
+            height: 200px;
         }
 
         .div-ul {

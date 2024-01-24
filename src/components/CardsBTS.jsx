@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cardsBTS from '../../public/Json/bts.json'
+import cardsBTS from '../../public/Json/jsonPrincipal.json'
 
 import { CardsContainer } from '../styles/Cards';
 
@@ -51,14 +51,14 @@ const CardsBTS = () => {
                                 <h2>{card.name}</h2>
                                 <p>Península | São Luís-MA</p>
                             </div>
-                            <Link to={'/bts/drogasil'} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
+                            <Link to={'/bts/' + card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
                         </div>
-                        <Link to={'/bts/drogasil'} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
+                        <Link to={'/bts/'+ card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
                     </div>
                 ))}
             </section>
         </CardsContainer >
-    );
+    );  
 }
 
 export default CardsBTS;

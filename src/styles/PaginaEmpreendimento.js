@@ -62,4 +62,7 @@ export const ImgDrogasil = styled.img`
 export const DivAbsolute = styled.div`
     position: absolute;
     z-index: 9;
+
+    left: 50%;
+    top: 50%;
 `
