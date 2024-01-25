@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <ContainerNav>
       <NavbarContainer>
-        <img src={LogoNavbar} alt="" />
+        <Link to={'/'}><img src={LogoNavbar} alt="" /></Link>
         <IconNavbarOpen onClick={handleIconClick} />
       </NavbarContainer>
 
