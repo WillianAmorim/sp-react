@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import { GoShare } from 'react-icons/go';
+
 export const H1Container = styled.h1`
     background-color: #676767;
     background-color: #A78534;
@@ -20,9 +22,11 @@ export const DivElements = styled.div`
     flex-direction: column;
 
     gap: 50px;
-    padding: 50px 130px;
+    padding: 25px;
 
-    width: 50%;
+    @media only screen and (min-width: 767px) {
+        width: 40%;
+    }
 `
 
 export const HrMenor = styled.hr`
@@ -45,24 +49,72 @@ export const Paragraph = styled.p`
 `
 
 export const DivPlanta = styled.div`
+
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    padding: 25px 50px;
+    gap: 50px;
 
-    padding: 50px 0;
-
-    img {
-        width: 250px;
+    @media only screen and (min-width: 767px) {
+        flex-direction: row;
+        justify-content: space-around;
+        img {
+            width: 25%;
+        }
     }
 `
 
 export const ImgDrogasil = styled.img`
     filter: brightness(0.7);
+    height: 70vh;
+    position: relative;
+
+    @media only screen and (min-width: 767px) {
+        height: 100vh;
+    }
 `
 
 export const DivAbsolute = styled.div`
+    height: min-content;
     position: absolute;
     z-index: 9;
 
-    left: 50%;
-    top: 50%;
+    right: 25px;
+    top: 60vh;
+
+    .links-share {
+        gap: 10px;
+    }
+
+    .fade-enter {
+        opacity: 0;
+    }
+
+    .fade-enter-active {
+        opacity: 1;
+        transition: opacity 2000ms;
+    }
+
+    .fade-exit {
+        opacity: 1;
+    }
+
+    .fade-exit-active {
+        opacity: 0;
+        transition: opacity 2000ms;
+    }
+
+    @media only screen and (min-width: 767px) {
+        top: 80vh;
+        right: 50px;
+    }
+
 `
+
+export const StyledGoShare = styled.div`
+  color: white;
+  font-size: 25px;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 3px 8px;
+`;

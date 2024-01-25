@@ -3,321 +3,1049 @@
         "id": 1,
         "name": "Uniceuma Campus Turu",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Av. Jerônimo de Albuquerque.jpg"
+        ],
         "category": "bts",
         "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
-        "sobre": ["", ""]
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 2,
         "name": "Drogasil",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Drogasil - Cohatrac I.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg"
+        ],
         "category": "bts",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 3,
         "name": "Uniceuma Anil",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Anil.jpg"
+        ],
         "category": "bts",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 4,
         "name": "Unieuro Asa Sul",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Campus Turu.jpg"
+        ],
         "category": "bts",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 5,
-        "name": "Uniceuma Renascença",
+        "name": "Uniceuma Imperatriz",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Imperatriz.jpg"
+        ],
         "category": "bts",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 6,
-        "name": "Uniceuma Imperatriz",
+        "name": "Uniceuma Renascença",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Uniceuma Renascença.jpg"
+        ],
         "category": "bts",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 7,
-        "name": "Uniceuma Campus Turu",
+        "name": "Unieuro Asa Sul",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Asa Sul.jpg"
+        ],
         "category": "bts",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 8,
-        "name": "IOA/ITC",
+        "name": "Unieuro Águas Claras.jpg",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unieuro Águas Claras.jpg"
+        ],
         "category": "bts",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 9,
-        "name": "IOA/ITC",
+        "name": "Unifamaz",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/BTS (BUILT TO SUIT)/Unifamaz.jpg"
+        ],
         "category": "bts",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Built to Suit (BTS)"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 10,
         "name": "Locação Comercial 1",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "comercial",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Comercial"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 11,
         "name": "Locação Comercial 2",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "comercial",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Comercial"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 12,
         "name": "Locação Comercial 3",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "comercial",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Comercial"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 13,
         "name": "Locação Galpão 1",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "galpao logistico",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Galpão Logístico"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 14,
         "name": "Locação Galpão 2",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "galpao logistico",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Galpão Logístico"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 15,
         "name": "Locação Galpão 3",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "galpao logistico",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Galpão Logístico"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 16,
         "name": "Easy Renascença",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 17,
         "name": "Gran Imperial Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 18,
         "name": "Easy Renascença",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 19,
         "name": "Gran Imperial Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 20,
         "name": "Easy Renascença",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 21,
         "name": "Gran Imperial Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 22,
         "name": "Easy Renascença",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Easy Renascença.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 23,
         "name": "Gran Imperial Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/INCORPORAÇÕES E CONSTRUÇÃO/Gran Imperial Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg"
+        ],
         "category": "incorporacoes",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 24,
         "name": "Edifício Ponta Negra",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 25,
-        "name": "Edifício Vip Residence",
+        "name": "Gran Imperial Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 26,
-        "name": "Gran Imperial Residence",
+        "name": "Unieuro Águas Claras",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 27,
         "name": "Edifício Ponta Negra",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Edificio_Ponta_Negra.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 28,
-        "name": "Edifício Vip Residence",
+        "name": "Gran Imperial Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Gran Imperial Residence.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 29,
-        "name": "Gran Imperial Residence",
+        "name": "Unieuro Águas Claras",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Unieuro Águas Claras.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 30,
-        "name": "Unieuro Águas Claras",
+        "name": "Vip Residence",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
+        "images": [
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg",
+            "../IMAGENS_SITE_SAO_PAULO/OPORTUNIDADES/Vip Residence.jpg"
+        ],
         "category": "oportunidades",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 31,
         "name": "Locação Residencial 1",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "residencial",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Residencial"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 32,
         "name": "Locação Residencial 2",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "residencial",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Residencial"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 33,
         "name": "Locação Residencial 3",
+        "imgPrincipal": "",
         "date": "17 de junho de 2023",
-        "src": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
+        "images": "../assets/IMAGENS SITE SAO PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "category": "residencial",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Residencial"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 34,
         "name": "Rio Anil Shopping",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
-        "category": "shopping center",
-        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg"],
+        "category": "shopping-center",
+        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Shopping Center"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 35,
         "name": "Rio Anil Shopping",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
-        "category": "shopping center",
-        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg"],
+        "category": "shopping-center",
+        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Shopping Center"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 36,
         "name": "Rio Anil Shopping",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
-        "category": "shopping center",
-        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg","../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg"],
+        "category": "shopping-center",
+        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Shopping Center"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 37,
         "name": "Rio Anil Shopping",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg",
-        "category": "shopping center",
-        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/SHOPPINGS CENTERS/Rio Anil Shopping.jpg"],
+        "category": "shopping-center",
+        "details": "Com mais de 10 anos de mercado, o Rio Anil Shopping se consolida como um dos grandes centros comerciais de São Luís, trazendo para essa praça um mix planejado de lojas e oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Shopping Center"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 38,
         "name": "Alfa Engenharia",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg",
-        "category": "strip malls",
-        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg"],
+        "category": "strip-malls",
+        "details": "Trabalho, Responsabilidade e Compromisso. Esses são os valores que norteiam a história da Alfa Engenharia, empresa genuinamente maranhense, fundada em 1967 com uma filosofia empresarial direcionada à satisfação dos clientes e à sinergia com os colaboradores, parceiros e fornecedores, desenvolvendo projetos de imóveis residenciais e comerciais para alugar, morar ou investir.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Strip Malls"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 39,
         "name": "CEUMA – Cohama",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/CEUMA-COHAMA.jpg",
-        "category": "strip malls",
-        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/CEUMA-COHAMA.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/alfa-engenharia1.jpg"],
+        "category": "strip-malls",
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Strip Malls"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     },
     {
         "id": 40,
         "name": "Uniceuma Anil",
+        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg",
         "date": "17 de junho de 2023",
-        "src": "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg",
-        "category": "strip malls",
-        "details": "Uniceuma Anil Visão geral Localização Detalhes."
+        "images": ["../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg", "../IMAGENS_SITE_SAO_PAULO/AREAS DE ATUAÇÃO/STRIPMALLS/Uniceuma-Anil.jpg"],
+        "category": "strip-malls",
+        "details": "Uniceuma Anil Visão geral Localização Detalhes.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Strip Malls"
+        },
+        "plantaBaixa": [
+            "../IMAGENS_SITE_SAO_PAULO/planta1.jpeg",
+            "../IMAGENS_SITE_SAO_PAULO/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "Conheça nossas lojas espalhadas na grande São Luis.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127548.53461397895!2d-44.287324170652575!3d-2.542176974355278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1704914224369!5m2!1spt-BR!2sbr",
+            "endereco": "COHATRAC"
+        }
     }
 ]

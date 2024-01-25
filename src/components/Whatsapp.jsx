@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaWhatsapp } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+import { WhatsappContainer } from '../styles/Whatsapp';
 
 const Whatsapp = () => {
 
@@ -8,14 +8,17 @@ const Whatsapp = () => {
         position: 'fixed',
         right: '20px',
         bottom: '20px',
-        zIndex: '999'
+        zIndex: '999',
+        animation: 'float 3s infinite'
     };
 
     return (
-        <a href="https://wa.me/SEUNUMERO" style={estiloIcone}>
-            <FaWhatsapp size={40} />
-        </a>
+        <WhatsappContainer>
+            <Link href="https://api.whatsapp.com/send?phone=98991441868&text=Tenho Uma Dúvida." target="_blank" style={estiloIcone}>
+                <img id='' src="https://i.ibb.co/VgSspjY/whatsapp-button.png" alt="Logo WhatsApp" />
+            </Link>
+        </WhatsappContainer>
     )
 }
 
-export default Whatsapp
+export default Whatsapp;

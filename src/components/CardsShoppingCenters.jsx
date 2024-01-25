@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cardsShopping from '../../public/Json/shoppingCenters.json'
+import cardsShopping from '../../public/Json/jsonPrincipal.json'
 
 import { CardsContainer } from '../styles/Cards';
 
@@ -13,6 +13,8 @@ import { FaBed } from "react-icons/fa";
 import { GiShower } from "react-icons/gi";
 import { IoCarSharp } from "react-icons/io5";
 
+const filteredCardsShopping = cardsShopping.filter((card) => card.category.includes("shopping-center") )
+
 const CardsShopping = () => {
     return (
         <CardsContainer>
@@ -22,7 +24,7 @@ const CardsShopping = () => {
             </video>
 
             <section>
-                {cardsShopping.map((card) => (
+                {filteredCardsShopping.map((card) => (
                     <div className='div-card' key={card.id}>
                         <div className='div-details-mobile'>
                             <a id='lancamento-mobile' href="">Lançamento</a>
@@ -43,16 +45,16 @@ const CardsShopping = () => {
                             <div><IoCarSharp size={15} />1 a 2 vagas</div>
                         </section>
                         <a id='lancamento-web' href="">Lançamento</a>
-                        <img src={card.src} alt="" />
+                        <Link id='link-img' to={'/shopping-centers/' + card.name.toLowerCase().replace(/ /g, "-")}><img src={card.imgPrincipal} alt="" /></Link>
 
                         <div className='div-details-web'>
                             <div>
                                 <h2>{card.name}</h2>
                                 <p>Península | São Luís-MA</p>
                             </div>
-                            <Link to={'/bts/drogasil'} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
+                            <Link to={'/shopping-centers/' + card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
                         </div>
-                        <Link to={'/bts/drogasil'} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
+                        <Link to={'/shopping-centers/' + card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
                     </div>
                 ))}
             </section>

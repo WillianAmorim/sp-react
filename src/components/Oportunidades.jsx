@@ -7,7 +7,8 @@ import { OportunidadesContainer } from '../styles/Oportunidades';
 import data from '../../public/Json/jsonPrincipal.json'
 
 import { Link } from 'react-router-dom'
-// import { useNavigate } from 'react-router-dom';
+
+const filteredOportunidade = data.filter((card) => card.category.includes("oportunidades"))
 
 const Oportunidades = () => {
     return (
@@ -46,13 +47,12 @@ const Oportunidades = () => {
                     }}
                 >
                     {
-                        data.filter(item => item.category === 'oportunidades')
-                            .map(item => (
-                                <SwiperSlide key={item.id}>
-                                    <img src={item.src} alt="" />
-                                    <p>{item.name}</p>
-                                </SwiperSlide>
-                            ))
+                        filteredOportunidade.map((item) => (
+                            <SwiperSlide key={item.id}>
+                                <img src={item.imgPrincipal} alt="" />
+                                <p>{item.name}</p>
+                            </SwiperSlide>
+                        ))
                     }
                 </Swiper>
             </div>

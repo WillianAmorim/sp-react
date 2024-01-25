@@ -4,10 +4,12 @@ import Footer from '../components/Footer'
 import Termos from '../components/Termos'
 import StripMallsComponent from '../components/CardsStripMalls';
 import Navbar from '../components/Navbar'
+import Whatsapp from '../components/Whatsapp'
 
 const StripMalls = () => {
     return (
         <>
+            <Whatsapp/>
             <Navbar />
             <Header />
             <StripMallsComponent />

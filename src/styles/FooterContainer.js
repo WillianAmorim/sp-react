@@ -11,6 +11,7 @@ export const FooterContainer = styled.div`
         display: flex;
         flex-direction: column;
         gap: 10px;
+        align-self: center;
     }
 
     .div-icons {

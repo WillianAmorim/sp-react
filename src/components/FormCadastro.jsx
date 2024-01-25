@@ -1,5 +1,5 @@
 import React from 'react';
-import { ContatoContainer } from '../styles/Contato';
+import { ContatoContainer } from '../styles/FormCadastro';
 import { H1Container, Paragraph } from '../styles/PaginaEmpreendimento';
 
 const FormCadastro = () => {

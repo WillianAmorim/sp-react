@@ -29,9 +29,14 @@ const App = () => {
         <Route path="/drogasil" element={<Drogasil />} />
         <Route path="/oportunidades" element={<Oportunidades />} />
         <Route path="/incorporacoes" element={<Incorporacoes />} />
-        {/* <Route path="/bts/drogasil" element={<Drogasil />} /> */}
-        <Route path="/contato" element={<Contato />} /> 
-        <Route path="/bts/:empreendimento" element={<Drogasil />} /> 
+        <Route path="/contato" element={<Contato />} />
+
+        <Route path="/bts/:empreendimento" element={<Drogasil />} />
+        <Route path="/incorporacoes/:empreendimento" element={<Drogasil />} />
+        <Route path="/oportunidades/:empreendimento" element={<Drogasil />} />
+        <Route path="/shopping-centers/:empreendimento" element={<Drogasil />} />
+        <Route path="/strip-malls/:empreendimento" element={<Drogasil />} />
+
       </Routes>
     </>
   );

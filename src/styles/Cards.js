@@ -19,10 +19,10 @@ export const CardsContainer = styled.div`
         padding: 25px 10px;
     }
 
-    img {
+    #link-img, img{
         width: 100%;
         height: 400px;
-        filter: brightness(0.5);
+        filter: brightness(0.8);
     }
 
     .div-details-web {
@@ -116,7 +116,7 @@ export const CardsContainer = styled.div`
             display: none;
         }
 
-        img {
+        #link-img, img {
             width: 100%;
             height: 350px;
             position: relative;
@@ -135,7 +135,7 @@ export const CardsContainer = styled.div`
             color: white;
             width: 45%;
             left: 0;
-            bottom: 75px;
+            bottom: 60px;
             font-size: 13px;
 
             display: flex;

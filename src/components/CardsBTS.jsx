@@ -12,7 +12,7 @@ import { FaBed } from "react-icons/fa";
 import { GiShower } from "react-icons/gi";
 import { IoCarSharp } from "react-icons/io5";
 
-
+const filteredCardsBTS = cardsBTS.filter((card) => card.category.includes("bts") )
 
 const CardsBTS = () => {
     return (
@@ -23,7 +23,7 @@ const CardsBTS = () => {
             </video>
 
             <section>
-                {cardsBTS.map((card) => (
+                {filteredCardsBTS.map((card) => (
                     <div className='div-card' key={card.id}>
                         <div className='div-details-mobile'>
                             <a id='lancamento-mobile' href="">Lançamento</a>
@@ -44,7 +44,7 @@ const CardsBTS = () => {
                             <div><IoCarSharp size={15} />1 a 2 vagas</div>
                         </section>
                         <a id='lancamento-web' href="">Lançamento</a>
-                        <img src={card.src} alt="" />
+                        <Link id='link-img' to={'/bts/' + card.name.toLowerCase().replace(/ /g, "-")}><img src={card.imgPrincipal} alt="" /></Link>
 
                         <div className='div-details-web'>
                             <div>

@@ -1,41 +1,34 @@
 import styled from "styled-components";
 
 export const LocalizacaoContainer = styled.div`
-
-    /* h1 {
-        background-color: #A78534;
-        width: 100%;
-        height: 50px;
+    .div-elements {
         display: flex;
-        align-items: center;
-        clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
-        color: white;
-    } */
+        flex-direction: column;
+        padding: 25px;
+        gap: 25px;
+    }
 
     .div-textos {
         display: flex;
         flex-direction: column;
-        gap: 50px;
-        padding: 25px 0;
-
-        /* background-color: yellow; */
+        gap: 25px;
     }
 
-    .div-elements {
-        display: flex;
-        justify-content: space-around;
-        padding-top: 50px;
-        padding-bottom: 50px;
+    @media only screen and (min-width: 767px) {
+        .div-elements {
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-around;
+        }
 
-    }
+        .div-textos {
+            gap: 100px;
+        }
 
-    /* .div-apresentacao {
-        padding-top: 50px;
-        padding-bottom: 50px;
-    } */
-
-    @media only screen and (max-width: 767px) {
-        
+        iframe {
+            width: 40%;
+            height: 400px;
+        }
     }
 `;
 

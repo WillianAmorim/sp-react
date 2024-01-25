@@ -1,6 +1,6 @@
 import React from 'react';
 
-import cardsStripMalls from '../../public/Json/stripMalls.json'
+import cardsStripMalls from '../../public/Json/jsonPrincipal.json'
 
 import { CardsContainer } from '../styles/Cards';
 
@@ -13,6 +13,7 @@ import { FaBed } from "react-icons/fa";
 import { GiShower } from "react-icons/gi";
 import { IoCarSharp } from "react-icons/io5";
 
+const filteredCardsStripMalls = cardsStripMalls.filter((card) => card.category.includes("strip-malls") )
 
 const CardsBTS = () => {
     return (
@@ -23,7 +24,7 @@ const CardsBTS = () => {
             </video>
 
             <section>
-                {cardsStripMalls.map((card) => (
+                {filteredCardsStripMalls.map((card) => (
                     <div className='div-card' key={card.id}>
                         <div className='div-details-mobile'>
                             <a id='lancamento-mobile' href="">Lançamento</a>
@@ -44,16 +45,16 @@ const CardsBTS = () => {
                             <div><IoCarSharp size={15} />1 a 2 vagas</div>
                         </section>
                         <a id='lancamento-web' href="">Lançamento</a>
-                        <img src={card.src} alt="" />
+                        <Link id='link-img' to={'/strip-malls/' + card.name.toLowerCase().replace(/ /g, "-")}><img src={card.imgPrincipal} alt="" /></Link>
 
                         <div className='div-details-web'>
                             <div>
                                 <h2>{card.name}</h2>
                                 <p>Península | São Luís-MA</p>
                             </div>
-                            <Link to={'/bts/drogasil'} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
+                            <Link to={'/strip-malls/' + card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
                         </div>
-                        <Link to={'/bts/drogasil'} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
+                        <Link to={'/strip-malls/' + card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
                     </div>
                 ))}
             </section>

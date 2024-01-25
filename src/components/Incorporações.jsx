@@ -8,6 +8,7 @@ import data from '../../public/Json/jsonPrincipal.json'
 
 import { Link } from 'react-router-dom'
 
+const filteredIncorporacao = data.filter((card) => card.category.includes("incorporacoes"))
 
 const Incorporacoes = () => {
     return (
@@ -46,13 +47,12 @@ const Incorporacoes = () => {
                     }}
                 >
                     {
-                        data.filter(item => item.category === 'incorporacoes')
-                            .map(item => (
-                                <SwiperSlide key={item.id}>
-                                    <img src={item.src} alt="" />
-                                    <p>{item.name}</p>
-                                </SwiperSlide>
-                            ))
+                        filteredIncorporacao.map((item) => (
+                            <SwiperSlide key={item.id}>
+                                <img src={item.imgPrincipal} alt="" />
+                                <p>{item.name}</p>
+                            </SwiperSlide>
+                        ))
                     }
                 </Swiper>
             </div>

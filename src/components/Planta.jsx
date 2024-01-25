@@ -1,15 +1,13 @@
 import { H1Container, DivPlanta } from "../styles/PaginaEmpreendimento";
 
-import Img1 from '../../public/IMAGENS_SITE_SAO_PAULO/planta1.jpeg'
-import Img2 from '../../public/IMAGENS_SITE_SAO_PAULO/planta2.jpeg'
-
-const PlantaBaixa = () => {
+const PlantaBaixa = ({plantas}) => {
     return (
         <>
             <H1Container>Planta Baixa</H1Container>
             <DivPlanta id="div-planta">
-                <img src={Img1} alt="" />
-                <img src={Img2} alt="" />
+                {plantas.map((planta) => (
+                    <img key={planta.id} src={planta} alt="" />
+                ))}
             </DivPlanta>
         </>
     );

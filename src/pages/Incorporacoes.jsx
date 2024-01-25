@@ -4,10 +4,12 @@ import Footer from '../components/Footer'
 import Termos from '../components/Termos'
 import CardsIncorporacoes from '../components/CardsIncorporacao'
 import Navbar from '../components/Navbar'
+import Whatsapp from '../components/Whatsapp'
 
 const Incorporacao = () => {
     return (
         <>
+            <Whatsapp/>
             <Navbar />
             <Header />
             <CardsIncorporacoes/>

@@ -3,21 +3,14 @@
 import styled from "styled-components";
 
 export const ContatoContainer = styled.div`
-    font-family: 'Inter', sans-serif;
     font-size: 15px;
+    background-color: #121D40;
+    height: auto;
+    padding-bottom: 50px;
 
-    /* h1 {
-        background-color: #A78534;
-        width: 100%;
-        height: 50px;
-        display: flex;
-        align-items: center;
-        clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
-        color: white;
-    } */
 
     .div-p {
-        padding: 50px 150px;
+        padding: 50px 25px;
         display: flex;
         flex-direction: column;
         gap: 10px;
@@ -32,25 +25,18 @@ export const ContatoContainer = styled.div`
         color: white;
     }
 
-    .div-contato{
-        background-color: #121D40;
-        height: auto;
-        padding-bottom: 50px;
-
-
-    }
-
     .div-inputs {
         display: flex;
         flex-direction: column;
         align-items: center;
         gap: 15px;
+        padding: 0px 25px;
         
         label {
             display: flex;
             flex-direction: column;
             gap: 5px;
-            width: 35%;
+            width: 100%;
 
             color: white;
         }
@@ -60,37 +46,35 @@ export const ContatoContainer = styled.div`
             border-radius: 3px;
             padding-left: 10px;
             border: none;
-            font-family: 'Inter', sans-serif;
-            font-size: 15px;
         }
 
         #escolha {
-            width: 35%;
+            width: 100%;
         }
 
         textarea {
             border-radius: 5px;
             padding-left: 10px;
             padding-top: 5px;
-            font-family: 'Inter', sans-serif;
             font-size: 15px;
         }
 
         a {
+            padding: 25px;
             margin-top: 50px;
             text-decoration: none;
             color: white;
             background-color: #A78534;
-            padding: 20px 180px;
-
             border-radius: 5px;
         }
     }
 
 
 
-    @media only screen and (max-width: 767px) {
-        
+    @media only screen and (min-width: 767px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 `;
 

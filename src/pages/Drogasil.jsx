@@ -8,6 +8,7 @@ import PlantaBaixa from '../components/Planta'
 import CarroselEmpreendimento from '../components/CarroselEmpreendimento'
 import Navbar from '../components/Navbar'
 import Json from '../../public/Json/jsonPrincipal.json'
+import Whatsapp from '../components/Whatsapp'
 
 import { useParams } from 'react-router-dom';
 
@@ -18,15 +19,15 @@ const Drogasil = () => {
     const [namePage] = Json.filter((empreend) => {
         return empreend.name.toLowerCase().replace(/ /g, "-").includes(empreendimento);
     })
-    console.log(namePage.name)
     return (
         <>  
+            <Whatsapp/>
             <Navbar />
             <Header />
-            <CarroselEmpreendimento name={namePage.name}/>
-            <Sobre objectName={namePage} />
-            <PlantaBaixa objectName={namePage} />
-            <Localizacao objectName={namePage} />
+            <CarroselEmpreendimento images={namePage.images}/>
+            <Sobre sobre={namePage.sobre} />
+            <PlantaBaixa plantas={namePage.plantaBaixa} />
+            <Localizacao localizacao={namePage.localizacao} />
             <Contato objectName={namePage} />
             <Footer />
             <Termos />
