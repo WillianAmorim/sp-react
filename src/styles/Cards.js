@@ -35,6 +35,7 @@ export const CardsContainer = styled.div`
         flex-direction: column;
         align-items: center;
         gap: 15px;
+        padding-bottom: 25px;
     }
 
     #lancamento-mobile {
