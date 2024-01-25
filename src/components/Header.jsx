@@ -12,7 +12,7 @@ const Header = () => {
     return (
         <HeaderContainer>
             <header className='header-desktop'>
-                <Link className='img-header' to={'/'}><img src={LogoHeader} alt="" /></Link>
+                <Link to={'/'} className='img-header'><img src={LogoHeader} alt="" /></Link>
                 <ul className='ul-header'>
                     <li>
                         <Link to='/'>Home</Link>
