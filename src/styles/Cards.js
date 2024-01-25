@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
 export const CardsContainer = styled.div`
+    width: 100%;
+    
     a {
         text-decoration: none;
         color: inherit;
