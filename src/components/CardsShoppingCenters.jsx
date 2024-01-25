@@ -4,7 +4,7 @@ import cardsShopping from '../../public/Json/jsonPrincipal.json'
 
 import { CardsContainer } from '../styles/Cards';
 
-import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
+import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-shopping.mp4'
 
 import { Link } from 'react-router-dom';
 

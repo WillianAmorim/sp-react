@@ -4,7 +4,7 @@ import cardsIncorporacoes from '../../public/Json/jsonPrincipal.json'
 
 import { CardsContainer } from '../styles/Cards';
 
-import VideoBts from '../../public/IMAGENS_SITE_SAO_PAULO/video-bts.mp4'
+import VideoIncorporacao from '../../public/IMAGENS_SITE_SAO_PAULO/video-incorporacoes.mp4'
 import { Link } from 'react-router-dom';
 
 import { SlSizeFullscreen } from "react-icons/sl";
@@ -18,7 +18,7 @@ const CardsIncorporacoes = () => {
     return (
         <CardsContainer>
             <video autoPlay muted loop>
-                <source src={VideoBts} type="video/mp4" />
+                <source src={VideoIncorporacao} type="video/mp4" />
                 Seu navegador não suporta o elemento de vídeo.
             </video>
 
