@@ -139,6 +139,7 @@ export const ImgPrincipal = styled.img`
 `
 
 export const ImgCarrosel = styled.img`
+width: auto;
     height: 10vh;
     
     @media only screen and (min-width: 767px) {
