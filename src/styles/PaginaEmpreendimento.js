@@ -39,6 +39,8 @@ export const ContainerEmpreendimento = styled.h1`
     .mySwiper2 {
         height: 80%;
         width: 100%;
+        display: flex;
+        justify-content: center;
     }
 
     .mySwiper {
@@ -139,7 +141,7 @@ export const ImgPrincipal = styled.img`
 `
 
 export const ImgCarrosel = styled.img`
-    width: 95%;
+    width: 100%;
     height: 10vh;
     display: flex;
     
