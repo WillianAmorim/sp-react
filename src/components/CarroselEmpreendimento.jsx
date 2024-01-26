@@ -64,7 +64,7 @@ const CarroselEmpreendimento = ({ images }) => {
 
             <Swiper
                 onSwiper={setThumbsSwiper}
-                spaceBetween={10}
+                spaceBetween={20}
                 slidesPerView={4}
                 freeMode={true}
                 watchSlidesVisibility={true}
