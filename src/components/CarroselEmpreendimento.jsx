@@ -64,7 +64,7 @@ const CarroselEmpreendimento = ({ images }) => {
 
             <Swiper
                 onSwiper={setThumbsSwiper}
-                spaceBetween={10}
+                spaceBetween={5}
                 slidesPerView={4}
                 freeMode={true}
                 watchSlidesVisibility={true}
@@ -72,7 +72,7 @@ const CarroselEmpreendimento = ({ images }) => {
                 className="mySwiper2"
                 breakpoints={{
                     767: {
-                        spaceBetween: 10, // Altere conforme necessário para dispositivos móveis
+                        spaceBetween: 40, // Altere conforme necessário para dispositivos móveis
                     },
                     // Adicione mais breakpoints conforme necessário
                 }}
