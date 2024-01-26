@@ -141,6 +141,7 @@ export const ImgPrincipal = styled.img`
 export const ImgCarrosel = styled.img`
     width: auto;
     height: 10vh;
+    border-radius: 5px;
     
     @media only screen and (min-width: 767px) {
         width: 100%;
