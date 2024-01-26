@@ -142,7 +142,6 @@ export const ImgCarrosel = styled.img`
     width: 95%;
     height: 10vh;
     display: flex;
-    margin-right: 50px;
     
     
     @media only screen and (min-width: 767px) {
