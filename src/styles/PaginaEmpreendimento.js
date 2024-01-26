@@ -141,11 +141,11 @@ export const ImgPrincipal = styled.img`
 export const ImgCarrosel = styled.img`
     width: auto;
     height: 10vh;
-    margin-right: 20px;
     
     @media only screen and (min-width: 767px) {
         width: 100%;
         height: 20vh;
+        border-radius: 5px;
     }
 `
 
