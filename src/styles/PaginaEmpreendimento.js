@@ -139,8 +139,9 @@ export const ImgPrincipal = styled.img`
 `
 
 export const ImgCarrosel = styled.img`
-width: auto;
+    width: auto;
     height: 10vh;
+    margin-right: 20px;
     
     @media only screen and (min-width: 767px) {
         width: 100%;
