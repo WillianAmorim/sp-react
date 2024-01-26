@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { DivAbsolute, StyledGoShare, ImgPrincipal, ImgCarrosel } from "../styles/PaginaEmpreendimento";
+
 import { CSSTransition } from 'react-transition-group';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Thumbs, Navigation } from 'swiper/modules';
@@ -20,7 +21,7 @@ const CarroselEmpreendimento = ({ images }) => {
     const title = document.title;
 
     return (
-        <>
+        <div style={{ marginBottom: '10px' }}>
             <DivAbsolute>
                 <StyledGoShare onClick={handleIconClick} style={{ display: clicked ? 'none' : 'block' }}>
                     <GoShare />
@@ -80,7 +81,7 @@ const CarroselEmpreendimento = ({ images }) => {
                     </SwiperSlide>
                 ))}
             </Swiper>
-        </>
+        </div>
     );
 }
 

@@ -13,6 +13,7 @@ export const SobreContainer = styled.div`
         align-items: center;
         clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
         color: white;
+        margin-top: 10px;
     }
 
     .div-elements {

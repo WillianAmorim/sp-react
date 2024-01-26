@@ -1,5 +1,5 @@
 import { H1Container, DivElements, HrMenor, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
-
+import { SobreContainer } from '../styles/Sobre'
 const Sobre = ({sobre}) => {
     return (
         <>
