@@ -64,12 +64,18 @@ const CarroselEmpreendimento = ({ images }) => {
 
             <Swiper
                 onSwiper={setThumbsSwiper}
-                spaceBetween={40}
+                spaceBetween={10}
                 slidesPerView={4}
                 freeMode={true}
                 watchSlidesVisibility={true}
                 watchSlidesProgress={true}
                 className="mySwiper2"
+                breakpoints={{
+                    768: {
+                        spaceBetween: 10, // Altere conforme necessário para dispositivos móveis
+                    },
+                    // Adicione mais breakpoints conforme necessário
+                }}
             >
                 {images.map((image, index) => (
                     <SwiperSlide key={index}>
