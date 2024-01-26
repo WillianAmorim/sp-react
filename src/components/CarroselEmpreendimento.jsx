@@ -70,11 +70,6 @@ const CarroselEmpreendimento = ({ images }) => {
                 watchSlidesVisibility={true}
                 watchSlidesProgress={true}
                 className="mySwiper2"
-                breakpoints={{
-                    300: {
-                        spaceBetween: 20, // Altere conforme necessário para dispositivos móveis
-                    },
-                }}
             >
                 {images.map((image, index) => (
                     <SwiperSlide key={index}>
