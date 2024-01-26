@@ -18,7 +18,6 @@ const Whatsapp = () => {
         if (isMobile) {
             window.location.href = `whatsapp://send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
         } else {
-            // Se não for um dispositivo móvel, você pode redirecionar para a versão web do WhatsApp
             window.open(`https://web.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`, '_blank');
         }
     };
