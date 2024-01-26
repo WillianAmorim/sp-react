@@ -79,3 +79,59 @@ const CarroselPrimeiro = () => {
 }
 
 export default CarroselPrimeiro;
+
+// return (
+//   <>
+//       <Swiper
+//           modules={[EffectFade, Navigation, Pagination, Autoplay]}
+//           effect={'fade'}
+//           slidesPerView={1}  // Ajuste o número de slides por view conforme necessário
+//           pagination={{ clickable: true }}
+//           loop={true}
+//           speed={2000}
+//           autoplay={{
+//               delay: 2500,
+//               disableOnInteraction: false,
+//           }}
+//       >
+//           {images.map((image, index) => (
+//               <SwiperSlide key={index}>
+//                   <DivAbsolute>
+//                       {/* ... (seu código para ícones de compartilhamento) */}
+//                   </DivAbsolute>
+//                   <ImgDrogasil src={image} alt="" width="100%" />
+//               </SwiperSlide>
+//           ))}
+//       </Swiper>
+//   </>
+// );
+
+
+{/* <DivAbsolute >
+  <StyledGoShare onClick={handleIconClick} style={{ display: clicked ? 'none' : 'block' }}>
+    <GoShare />
+  </StyledGoShare>
+
+  <CSSTransition
+    in={clicked}
+    timeout={9000}
+    classNames="fade"
+    unmountOnExit
+  >
+
+    <div className='links-share' style={{ display: clicked ? 'flex' : 'none' }}>
+      <WhatsappShareButton url={shareUrl} title={title}>
+        <WhatsappIcon size={32} round />
+      </WhatsappShareButton>
+      <EmailShareButton url={shareUrl} subject={title}>
+        <EmailIcon size={32} round />
+      </EmailShareButton>
+      <LinkedinShareButton url={shareUrl} title={title}>
+        <LinkedinIcon size={32} round />
+      </LinkedinShareButton>
+      <FacebookShareButton url={shareUrl} quote={title}>
+        <FacebookIcon size={32} round />
+      </FacebookShareButton>
+    </div>
+  </CSSTransition>
+</DivAbsolute> */}

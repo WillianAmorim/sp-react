@@ -14,7 +14,7 @@ const Whatsapp = () => {
 
     return (
         <WhatsappContainer>
-            <Link href="https://api.whatsapp.com/send?phone=98991441868&text=Tenho Uma Dúvida." target="_blank" style={estiloIcone}>
+            <Link to={"https://api.whatsapp.com/send?phone=98981752548&text=Tenho Uma Dúvida."} target="_blank" style={estiloIcone}>
                 <img id='' src="https://i.ibb.co/VgSspjY/whatsapp-button.png" alt="Logo WhatsApp" />
             </Link>
         </WhatsappContainer>

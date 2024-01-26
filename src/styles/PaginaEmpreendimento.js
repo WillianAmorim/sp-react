@@ -1,6 +1,69 @@
 import styled from "styled-components";
 
-import { GoShare } from 'react-icons/go';
+export const ContainerEmpreendimento = styled.h1`
+    .swiper {
+        width: 100%;
+        height: 100%;
+    }
+
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .swiper {
+        width: 100%;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .swiper-slide {
+        background-size: cover;
+        background-position: center;
+    }
+
+    .mySwiper2 {
+        height: 80%;
+        width: 100%;
+    }
+
+    .mySwiper {
+        height: 20%;
+        box-sizing: border-box;
+        padding: 10px 0;
+    }
+
+    .mySwiper .swiper-slide {
+        width: 25%;
+        height: 100%;
+        opacity: 0.4;
+    }
+
+    .mySwiper .swiper-slide-thumb-active {
+        opacity: 1;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+`
 
 export const H1Container = styled.h1`
     background-color: #676767;
@@ -64,13 +127,23 @@ export const DivPlanta = styled.div`
     }
 `
 
-export const ImgDrogasil = styled.img`
+export const ImgPrincipal = styled.img`
     filter: brightness(0.7);
-    height: 70vh;
+    height: 50vh;
+    width: 100%;
     position: relative;
 
     @media only screen and (min-width: 767px) {
-        height: 100vh;
+        height: 80vh;
+    }
+`
+
+export const ImgCarrosel = styled.img`
+    height: 10vh;
+    
+    @media only screen and (min-width: 767px) {
+        width: 100%;
+        height: 20vh;
     }
 `
 
@@ -80,7 +153,7 @@ export const DivAbsolute = styled.div`
     z-index: 9;
 
     right: 25px;
-    top: 60vh;
+    top: 40vh;
 
     .links-share {
         gap: 10px;
@@ -105,7 +178,7 @@ export const DivAbsolute = styled.div`
     }
 
     @media only screen and (min-width: 767px) {
-        top: 80vh;
+        top: 70vh;
         right: 50px;
     }
 
