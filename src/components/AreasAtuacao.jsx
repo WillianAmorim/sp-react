@@ -11,7 +11,7 @@ const AreasAtuacao = () => {
             <h1>Áreas de atuação</h1>
             <ul>
                 <li>
-                    <Link to={'/shopping-centers'}>Shopping Centers</Link>
+                    <Link className="hvr-rectangle-out" to={'/shopping-centers'}>Shopping Centers</Link>
                     <img src={ShoppingCenter} alt="" />
                 </li>
                 <li>

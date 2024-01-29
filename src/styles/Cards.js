@@ -138,7 +138,7 @@ export const CardsContainer = styled.div`
             color: white;
             width: 45%;
             left: 0;
-            bottom: 60px;
+            bottom: 100px;
             font-size: 13px;
 
             display: flex;
@@ -177,6 +177,10 @@ export const CardsContainer = styled.div`
             padding: 15px 30px;
         }
 
+        #conhecer-imovel-web:hover {
+            opacity: 0.8;
+        }
+
         #lancamento-web {
             display: block;
             position: absolute;
@@ -189,5 +193,7 @@ export const CardsContainer = styled.div`
             padding: 10px;
             font-size: small;
         }
+
+
     }
 `

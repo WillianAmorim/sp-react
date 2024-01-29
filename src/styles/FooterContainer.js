@@ -59,5 +59,10 @@ export const FooterContainer = styled.div`
             flex-direction: row;
             gap: 150px;
         }
+
+        .hover-black:hover {
+            color: black;
+            cursor: pointer;
+        }
     }
 `

@@ -32,16 +32,13 @@
     {
         "id": 2,
         "name": "Drogasil",
-        "imgPrincipal": "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
+        "imgPrincipal": "../img-teste.JPG",
         "date": "17 de junho de 2023",
         "images": [
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg",
-            "../IMAGENS_SITE_SAO_PAULO/drogasilNova.jpg"
+            "../img-teste.JPG",
+            "../img-teste1.JPG",
+            "../img-teste-2.JPG",
+            "../img-teste3.JPG"
         ],
         "category": "bts",
         "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",

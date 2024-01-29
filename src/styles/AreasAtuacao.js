@@ -68,10 +68,15 @@ export const AreasAtuacaoContainer = styled.section`
         li {
             transition: transform 0.5s ease-in-out;
         }
+
+        a {
+            transition: background-color 0.3s ease, color 0.3s ease; /* Adicionando transição de cor */
+        }
         
         a:hover {
             background-color: #121D40;
             color: white;
+
         }
 
         li:hover {

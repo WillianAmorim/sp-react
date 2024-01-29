@@ -15,7 +15,7 @@ const Header = () => {
                 <Link to={'/'} className='img-header'><img src={LogoHeader} alt="" /></Link>
                 <ul className='ul-header'>
                     <li>
-                        <Link to='/'>Home</Link>
+                        <Link className='hvr-underline-from-center' to='/'>Home</Link>
                     </li>
 
                     <p>|</p>
@@ -37,9 +37,9 @@ const Header = () => {
                         </ul>
                     </li>
                     <p>|</p>
-                    <li><Link to={'/oportunidades'}>Oportunidades</Link></li>
+                    <li className='hvr-underline-from-center'><Link to={'/oportunidades'}>Oportunidades</Link></li>
                     <p>|</p>
-                    <li><Link to={'/contato'}>Contato</Link></li>
+                    <li className='hvr-underline-from-center'><Link to={'/contato'}>Contato</Link></li>
                 </ul>
             </header>
         </HeaderContainer>

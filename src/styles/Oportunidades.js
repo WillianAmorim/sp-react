@@ -128,8 +128,9 @@ export const OportunidadesContainer = styled.section`
         }
 
         #div-conheca-todos:hover {
-            background-color: transparent;
-            border: 1px solid #C19A29;
+            background-color: white;
+            color: #121D40;
+            /* border: 2px solid #C19A29; */
         }
     }
 `
