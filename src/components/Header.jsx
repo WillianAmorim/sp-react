@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { HeaderContainer } from '../styles/Header-style'
-import LogoHeader from '../../public/IMAGENS_SITE_SAO_PAULO/sao paulo.png';
+import LogoHeader from '../../public/FOTOS-NOVO/sao paulo.png';
 
 import { Link } from 'react-router-dom'
 import { RiArrowDownSLine } from "react-icons/ri";

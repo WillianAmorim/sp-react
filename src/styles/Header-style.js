@@ -19,7 +19,7 @@ export const HeaderContainer = styled.div`
         .header-desktop {
             width: 100%;
             position: absolute;
-            z-index: 99;
+            z-index: 999;
             padding: 40px 15px;
             background-color: rgba(0,0,0,0.3);
             color: white;

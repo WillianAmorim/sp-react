@@ -7,21 +7,23 @@ export const FooterContainer = styled.div`
     gap: 25px;
     padding-top: 25px;
 
+
     .div-logo {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 25px;
         align-self: center;
     }
 
     .div-icons {
         display: flex;
-        justify-content: space-around;
+        justify-content: center;
+        gap: 25px;
     }
 
     img {
-        width: 70%;
-        height: 230px;
+        width: 100%;
+        height: 200px;
 
         align-self: center;
     }
@@ -48,7 +50,7 @@ export const FooterContainer = styled.div`
         padding: 50px;
         flex-direction: row;
         gap: 150px;
-        justify-content: center;
+        justify-content: center;    
 
         img {
             width: auto;
@@ -57,7 +59,8 @@ export const FooterContainer = styled.div`
 
         .div-ul {
             flex-direction: row;
-            gap: 150px;
+            gap: 100px;
+            margin-top: 50px;
         }
 
         .hover-black:hover {

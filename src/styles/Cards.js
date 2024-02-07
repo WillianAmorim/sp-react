@@ -169,7 +169,8 @@ export const CardsContainer = styled.div`
 
         #conhecer-imovel-web {
             display: flex;
-            background-color: #A78534;
+            /* background-color: #A78534; */
+            background-color: #121D40;
             align-items: center;
             color: white;
             font-size: small;

@@ -92,13 +92,12 @@ export const OportunidadesContainer = styled.section`
         position: absolute;
         bottom: 0;
         margin-bottom: 50px;
-        color: black;
-        background-color: transparent;
+        background-color: white;
         padding: 10px;
         border-radius: 15px 0px 15px 0;
         border: 1px solid white;
 
-        color: white;
+        color: #121D40;
 
         font-size: 15px;
         font-weight: 300;        
@@ -110,8 +109,8 @@ export const OportunidadesContainer = styled.section`
         padding: 50px;
 
         .swiper-slide p:hover {
-            background-color: white;
-            color: black;
+            background-color: transparent;
+            color: white;
         }
 
         .div-container {
@@ -130,7 +129,6 @@ export const OportunidadesContainer = styled.section`
         #div-conheca-todos:hover {
             background-color: white;
             color: #121D40;
-            /* border: 2px solid #C19A29; */
         }
     }
 `

@@ -4,11 +4,11 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
-import data from '../../public/Json/jsonPrincipal.json'
+import data from '../../public/Json/JsonEmpreendimentos.json'
 
 import { Link } from 'react-router-dom'
 
-const filteredIncorporacao = data.filter((card) => card.category.includes("incorporacoes"))
+const filteredIncorporacao = data.filter((card) => card.category === "incorporacao")
 
 const Incorporacoes = () => {
     return (

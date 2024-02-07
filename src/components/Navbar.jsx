@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { IconNavbarOpen, NavbarContainer, Sidebar, IconNavbarClose, ContainerNav } from '../styles/Navbar'
-import LogoNavbar from '../../public/IMAGENS_SITE_SAO_PAULO/sao paulo.png'
-import LogoNavbarBlack from '../../public/IMAGENS_SITE_SAO_PAULO/logo-nome-sp.png'
+import LogoNavbar from '../../public/FOTOS-NOVO/sao paulo.png'
+import LogoNavbarBlack from '../../public/FOTOS-NOVO/logo-nome-sp.png'
 import { RiArrowDownSLine } from "react-icons/ri";
 import { Link } from 'react-router-dom';
 

@@ -1,8 +1,9 @@
 import styled from "styled-components";
 
 export const H1Container = styled.h1`
-    background-color: #676767;
+    /* background-color: #676767; */
     background-color: #A78534;
+    /* background-color: #121D40; */
     width: 100%;
     height: 50px;
     display: flex;
@@ -96,6 +97,7 @@ export const DivAbsolute = styled.div`
     top: 40vh;
 
     .links-share {
+        display: flex;
         gap: 10px;
     }
 

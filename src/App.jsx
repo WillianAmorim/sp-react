@@ -1,12 +1,8 @@
 import Home from './pages/Home';
-import BTS from './pages/BTS'
-import ShoppingCenters from './pages/ShoppingCenters'
-import StripMalls from './pages/StripMalls'
-import Drogasil from './pages/Drogasil'
 import { Routes, Route } from 'react-router-dom';
-import Oportunidades from './pages/Oportunidades';
-import Incorporacoes from './pages/Incorporacoes';
 import Contato from './pages/Contato'
+import Empreendimento from './pages/CardEmpreendimento'
+import PaginaEmpreendimento from './pages/PaginaEmpreendimento'
 
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
@@ -23,20 +19,10 @@ const App = () => {
     <>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/bts" element={<BTS />} />
-        <Route path="/shopping-centers" element={<ShoppingCenters />} />
-        <Route path="/strip-malls" element={<StripMalls />} />
-        <Route path="/drogasil" element={<Drogasil />} />
-        <Route path="/oportunidades" element={<Oportunidades />} />
-        <Route path="/incorporacoes" element={<Incorporacoes />} />
+        <Route path="/empreendimento/:id" element={<Empreendimento />} />
+        <Route path="/empreendimento/:id/:pagEmpreendimento/" element={<PaginaEmpreendimento />} />
         <Route path="/contato" element={<Contato />} />
-
-        <Route path="/bts/:empreendimento" element={<Drogasil />} />
-        <Route path="/incorporacoes/:empreendimento" element={<Drogasil />} />
-        <Route path="/oportunidades/:empreendimento" element={<Drogasil />} />
-        <Route path="/shopping-centers/:empreendimento" element={<Drogasil />} />
-        <Route path="/strip-malls/:empreendimento" element={<Drogasil />} />
-
+        <Route path="/regiao/id" element={<Contato />} />
       </Routes>
     </>
   );

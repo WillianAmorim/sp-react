@@ -2,26 +2,26 @@
     {
         "id": 1,
         "name": "Ceuma",
-        "src": "../../src/assets/Parceiros/ceuma.png"
+        "src": "../../public/Parceiros/ceuma.png"
     },
     {
         "id": 2,
-        "name": "Locação Comercial 2",
-        "src": "../../src/assets/Parceiros/drogasil.png"
+        "name": "Drogasil",
+        "src": "../../public/Parceiros/drogasil.png"
     },
     {
         "id": 3,
-        "name": "Locação Comercial 3",
-        "src": "../../src/assets/Parceiros/easy.png"
+        "name": "Easy",
+        "src": "../../public/Parceiros/easy.png"
     },
     {
         "id": 4,
-        "name": "Locação Comercial 3",
-        "src": "../../src/assets/Parceiros/mateus.png"
+        "name": "Mateus",
+        "src": "../../public/Parceiros/mateus.png"
     },
     {
         "id": 5,
-        "name": "Locação Comercial 3",
-        "src": "../../src/assets/Parceiros/rio anil.png"
+        "name": "Rio Anil",
+        "src": "../../public/Parceiros/rio anil.png"
     }
 ]

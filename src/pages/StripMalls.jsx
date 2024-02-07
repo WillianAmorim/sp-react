@@ -16,7 +16,6 @@ const StripMalls = () => {
             <Cadastro />
             <Footer />
             <Termos />
-
         </>
     )
 }

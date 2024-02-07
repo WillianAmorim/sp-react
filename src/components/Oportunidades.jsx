@@ -4,21 +4,23 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 import { OportunidadesContainer } from '../styles/Oportunidades';
 
-import data from '../../public/Json/jsonPrincipal.json'
+import data from '../../public/Json/JsonEmpreendimentos.json'
 
 import { Link } from 'react-router-dom'
 
-const filteredOportunidade = data.filter((card) => card.category.includes("oportunidades"))
+const filteredOportunidade = data.filter((card) => card.category === "oportunidades")
 
 const Oportunidades = () => {
     return (
         <OportunidadesContainer>
+            {/* <img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*mmsbNi9NYt7qFFzPwhC3Zg.png' alt="" /> */}
+
             <div className='div-container'>
                 <div className='div-title'>
                     <h1>Oportunidades</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
-                <div id='div-conheca-todos'><Link to={'/oportunidades'}>Conheça todos</Link></div>
+                <div id='div-conheca-todos'><Link to={'/empreendimento/oportunidades'}>Conheça todos</Link></div>
             </div>
 
             <div>

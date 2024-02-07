@@ -1,0 +1,989 @@
+[
+    {
+        "id": 1,
+        "name": "Ceuma Anil",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/01.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/02.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/03.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/04.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/05.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/06.JPG"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": "Cohatrac"
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 2,
+        "name": "Unieuro Águas Claras",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/Principal.JPG",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/Principal.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/01.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/02.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/03.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/04.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/05.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/06.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/07.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/08.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/09.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Águas Claras/10.JPG"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 3,
+        "name": "Av. Jerônimo de Albuquerque",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/CeumaCohamaPrincipal.jpeg",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/CeumaCohamaPrincipal.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/01.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/02.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/03.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/04.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/05.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/06.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/07.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/08.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/09.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/10.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/11.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA COHAMA/12.jpeg"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 4,
+        "name": "Unifamaz",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/Unifamaz/UnifamazPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/UnifamazPrincipal.jpg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/01.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/02.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/03.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/04.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/05.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/06.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/07.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/08.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/09.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Unifamaz/10.jpeg"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Para"
+    },
+    {
+        "id": 5,
+        "name": "Unieuro Asa Sul",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/UnieuroAsaSulPrincipal.JPG",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/UnieuroAsaSulPrincipal.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/01.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/02.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/03.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/04.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/05.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/06.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/07.JPG",
+            "../../public/FOTOS-NOVO/BTS/Unieuro Asa sul/08.JPG"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 6,
+        "name": "Uniceuma Anil",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/01.JPG.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/02.JPG.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/03.JPG.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/04.JPG.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/05.JPG.JPG",
+            "../../public/FOTOS-NOVO/BTS/CEUMA ANIL/06.JPG.JPG"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 7,
+        "name": "Uniceuma Renascença",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/CeumaRenascencaPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/CeumaRenascencaPrincipal.jpg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/01.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/02.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/03.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/04.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/05.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/06.jpeg",
+            "../../public/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/07.jpeg"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 8,
+        "name": "Uniceuma Imperatriz",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/Uniceuma Imperatriz/CampusImperatrizPrincipal.jpeg",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/Uniceuma Imperatriz/CampusImperatrizPrincipal.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Uniceuma Imperatriz/01.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Uniceuma Imperatriz/02.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Uniceuma Imperatriz/03.jpeg"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 9,
+        "name": "Uniceuma Campus Turu",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/BTS/Ceuma Turu/CeumaTuruPrincipal 5.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/CeumaTuruPrincipal 5.jpg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/01.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/02.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/03.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/04.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/05.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/06.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/07.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/08.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/09.jpeg",
+            "../../public/FOTOS-NOVO/BTS/Ceuma Turu/10.jpeg"
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "BTS (Built to Suit)"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 10,
+        "name": "Rio Anil Shopping",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/SHOPPING-CENTERS/Principal.png",
+        "images": [
+            "../../public/FOTOS-NOVO/SHOPPING-CENTERS/Principal.png",
+            "../../public/FOTOS-NOVO/SHOPPING-CENTERS/01.png",
+            "../../public/FOTOS-NOVO/SHOPPING-CENTERS/02.png",
+            "../../public/FOTOS-NOVO/SHOPPING-CENTERS/03.png",
+            "../../public/FOTOS-NOVO/SHOPPING-CENTERS/04.png",
+            "../../public/FOTOS-NOVO/SHOPPING-CENTERS/05.png"
+        ],
+        "category": "shopping-centers",
+        "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+        "sobre": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "setor": "Shopping Centers"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "mapa": "",
+            "endereco": "Anil"
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 11,
+        "name": "Gran Imperial Residence",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/GranImperialPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/GranImperialPrincipal.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/01.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/02.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/03.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/04.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/05.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Ceará"
+    },
+    {
+        "id": 12,
+        "name": "Easy Renascença",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/EasyPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/EasyPrincipal.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/01.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/02.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/03.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/04.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/05.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/06.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/07.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/08.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/09.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/10.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/11.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/12.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/13.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/14.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/15.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/16.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/17.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/18.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/19.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/20.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/21.jpg",
+            "../../public/FOTOS-NOVO/INCORPORACOES/Easy Residence/22.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 13,
+        "name": "JB Transportes e Logística Ltda",
+        "date": "",
+        "imgPrincipal": "",
+        "images": [],
+        "category": "galpao-logistico",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Galpão Logístico"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 14,
+        "name": "Sala Ed. DF Plaza",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/03.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/04.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 15,
+        "name": "Salas Edifício Connect Towers",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/ConnectPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/ConnectPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/03.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/04.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 16,
+        "name": "Loja Shopping Monumental",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 17,
+        "name": "Eletro Mateus Cohatrac",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 18,
+        "name": "Supermercado Mateus Cohatrac IV",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/03.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 19,
+        "name": "Supermercado Mateus Anil",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/1",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/2",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/3",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/4",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/5"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 20,
+        "name": "Costa Atacadão - Águas Claras, DF",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/02.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 21,
+        "name": "Imóvel Asa Norte",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/AsaNortePrincipal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/AsaNortePrincipal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/03.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/04.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/05.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/06.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/07.jpg"
+        ],
+        "category": "comercial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Cormercial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 21,
+        "name": "Defensoria Pública da União (DPU)",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/01.jpg"
+        ],
+        "category": "corporativo",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Corporativa"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 22,
+        "name": "Apartamento Vive La Vie",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Vive La Vie/01.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 23,
+        "name": "Apartamento Hotel Bonaparte",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/03.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/04.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/05.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/06.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/07.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Hotel Bonaparte/08.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 24,
+        "name": "Edifício Cidade do Porto",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Cidade do Porto/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Cidade do Porto/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Cidade do Porto/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Cidade do Porto/02.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 25,
+        "name": "Edifício Vip Residence",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Vip Residence/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Vip Residence/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Vip Residence/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Vip Residence/02.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 26,
+        "name": "Edifício Portinari",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Portinari/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Portinari/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Portinari/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Portinari/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Portinari/03.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 27,
+        "name": "Edifício Ponta Negra",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Ponta Negra/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Ponta Negra/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Ponta Negra/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Ponta Negra/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Ponta Negra/03.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 28,
+        "name": "Edifício Comodoro",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Comodoro/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Comodoro/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Comodoro/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Comodoro/02.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Comodoro/03.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Comodoro/04.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Comodoro/05.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 29,
+        "name": "Edifício Alvorada",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Alvorada/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Alvorada/Principal.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Alvorada/01.jpg",
+            "../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Alvorada/02.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Locação Residencial"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 30,
+        "name": "Unieuro Águas Claras",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/Principal.JPG",
+        "images": [
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/Principal.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/01.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/02.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/03.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/04.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/05.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/06.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/07.JPG",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/08.JPG"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 31,
+        "name": "Gran Imperial Residence",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/Principal.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/01.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/02.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/03.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/04.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/05.jpg"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Ceara"
+    },
+    {
+        "id": 32,
+        "name": "Residencial Maxximo Garden",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/Principal.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/01.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/02.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/03.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/04.jpg"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Brasilia"
+    },
+    {
+        "id": 33,
+        "name": "Edifício Vip Residence",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Vip Residence/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Vip Residence/Principal.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Vip Residence/01.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Vip Residence/02.jpg"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 34,
+        "name": "Edifício Ponta Negra",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Ponta Negra/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Ponta Negra/Principal.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Ponta Negra/01.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Ponta Negra/02.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Edifício Ponta Negra/03.jpg"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 35,
+        "name": "Easy Renascença",
+        "date": "",
+        "imgPrincipal": "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/Principal.jpg",
+        "images": [
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/Principal.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/1.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/2.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/3.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/4.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/5.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/6.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/7.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/8.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/9.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/10.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/11.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/12.jpg",
+            "../../public/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/13.jpg"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Oportunidades"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    }
+]
