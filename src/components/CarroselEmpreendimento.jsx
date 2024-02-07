@@ -17,9 +17,8 @@ const CarroselEmpreendimento = ({ images }) => {
     const title = document.title;
 
     return (
-        <div style={{ marginBottom: '10px' }}>2
-            <img src='/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG' alt="" />
-            {/* <DivAbsolute>
+        <div style={{ marginBottom: '10px' }}>
+            <DivAbsolute>
 
                 <div className='links-share'>
                     <WhatsappShareButton url={shareUrl} title={title}>
@@ -67,7 +66,7 @@ const CarroselEmpreendimento = ({ images }) => {
                         />
                     </SwiperSlide>
                 ))}
-            </Swiper> */}
+            </Swiper>
         </div>
     );
 }
