@@ -2,26 +2,26 @@
     {
         "id": 1,
         "name": "Ceuma",
-        "src": "../../public/Parceiros/ceuma.png"
+        "src": "/Parceiros/ceuma.png"
     },
     {
         "id": 2,
         "name": "Drogasil",
-        "src": "../../public/Parceiros/drogasil.png"
+        "src": "/Parceiros/drogasil.png"
     },
     {
         "id": 3,
         "name": "Easy",
-        "src": "../../public/Parceiros/easy.png"
+        "src": "/Parceiros/easy.png"
     },
     {
         "id": 4,
         "name": "Mateus",
-        "src": "../../public/Parceiros/mateus.png"
+        "src": "/Parceiros/mateus.png"
     },
     {
         "id": 5,
         "name": "Rio Anil",
-        "src": "../../public/Parceiros/rio anil.png"
+        "src": "/Parceiros/rio anil.png"
     }
 ]
