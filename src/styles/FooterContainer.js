@@ -7,6 +7,10 @@ export const FooterContainer = styled.div`
     gap: 25px;
     padding-top: 25px;
 
+    a {
+        text-decoration: none;
+        color: #121D40;
+    }
 
     .div-logo {
         display: flex;
@@ -64,6 +68,11 @@ export const FooterContainer = styled.div`
         }
 
         .hover-black:hover {
+            color: black;
+            cursor: pointer;
+        }
+
+        a:hover {
             color: black;
             cursor: pointer;
         }

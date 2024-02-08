@@ -2,17 +2,17 @@ import Header from '../components/Header'
 import Cadastro from '../components/Cadastro'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
-import StripMallsComponent from '../components/CardsStripMalls';
 import Navbar from '../components/Navbar'
+import FormContato from '../components/FormContato'
 import Whatsapp from '../components/Whatsapp'
 
-const StripMalls = () => {
+const Home = () => {
     return (
         <>
             <Whatsapp/>
             <Navbar />
             <Header />
-            <StripMallsComponent />
+            <FormContato />
             <Cadastro />
             <Footer />
             <Termos />
@@ -20,4 +20,4 @@ const StripMalls = () => {
     )
 }
 
-export default StripMalls;
+export default Home;

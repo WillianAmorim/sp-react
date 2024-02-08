@@ -1,4 +1,21 @@
 import { CadastroContainer } from '../styles/Cadastro-style';
+import { Link } from 'react-router-dom'
+
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { purple } from '@mui/material/colors';
+
+import Button from '@mui/material/Button';
+
+const theme = createTheme({
+    palette: {
+      primary: {
+        main: '#C19A29',
+      },
+      secondary: {
+        main: '#f44336',
+      },
+    },
+  });
 
 const Cadastro = () => {
     return (
@@ -18,6 +35,9 @@ const Cadastro = () => {
                     <input type="text" />
                 </div>
                 <p>* Todos os campos são obrigatórios</p>
+
+                <Link to={''}>Enviar</Link>
+                
             </div>
         </CadastroContainer>
     );

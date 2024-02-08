@@ -18,7 +18,7 @@ const Incorporacoes = () => {
                     <h1>Incorporacoes</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
-                <div id='div-conheca-todos'><Link to={'/incorporacoes'}>Conheça todos</Link></div>
+                <div id='div-conheca-todos'><Link to={'/empreendimento/incorporacao'}>Conheça todos</Link></div>
             </div>
 
             <div>

@@ -10,6 +10,15 @@ export const CadastroContainer = styled.div`
     background-color: #121D40;
 
     color: white;
+
+    a {
+        text-decoration: none;
+        color: white;
+        background-color: #C19A29;
+        border-radius: 5px;
+        width: min-content;
+        padding: 10px 15px;
+    }
     
     .div-info {
         display: flex;

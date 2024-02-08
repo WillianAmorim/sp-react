@@ -1,8 +1,8 @@
-import Home from './pages/Home';
+import Home from './pages/PageHome';
 import { Routes, Route } from 'react-router-dom';
-import Contato from './pages/Contato'
-import Empreendimento from './pages/CardEmpreendimento'
-import PaginaEmpreendimento from './pages/PaginaEmpreendimento'
+import Contato from './pages/PageContato'
+import Empreendimento from './pages/PageCategorias'
+import PaginaEmpreendimento from './pages/PageEmpreendimento'
 
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';

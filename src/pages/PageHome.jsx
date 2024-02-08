@@ -1,5 +1,5 @@
 import Header from '../components/Header'
-import PrimeiroCarrosel from '../components/Carrosel-Primeiro'
+import PrimeiroCarrosel from '../components/CarroselHome'
 import QuemSomos from '../components/Quem-Somos'
 import Oportunidades from '../components/Oportunidades'
 import AreasAtuacao from '../components/AreasAtuacao'

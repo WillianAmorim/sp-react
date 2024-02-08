@@ -13,7 +13,6 @@ const filteredOportunidade = data.filter((card) => card.category === "oportunida
 const Oportunidades = () => {
     return (
         <OportunidadesContainer>
-            {/* <img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*mmsbNi9NYt7qFFzPwhC3Zg.png' alt="" /> */}
 
             <div className='div-container'>
                 <div className='div-title'>
