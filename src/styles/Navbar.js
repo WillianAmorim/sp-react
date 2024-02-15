@@ -19,8 +19,6 @@ export const NavbarContainer = styled.header`
     justify-content: space-between;
     z-index: 99;
     padding-right: 10px;
-
-    
 `
 
 export const IconNavbarOpen = styled(FiAlignJustify)`

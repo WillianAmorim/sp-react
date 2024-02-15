@@ -1,7 +1,7 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
-import Contato from '../components/FormCadastro'
+import FormEmpreendimento from '../components/FormEmpreendimento'
 import Localizacao from '../components/Localizacao'
 import Sobre from '../components/Sobre'
 import PlantaBaixa from '../components/Planta'
@@ -26,7 +26,7 @@ const Drogasil = () => {
             <Sobre sobre={filterCard.sobre} />
             <PlantaBaixa plantas={filterCard.plantaBaixa} />
             <Localizacao localizacao={filterCard.localizacao} />
-            <Contato objectName={filterCard} />
+            {/* <FormEmpreendimento objectName={filterCard} /> */}
             <Footer />
             <Termos />
         </>

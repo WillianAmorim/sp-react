@@ -6,6 +6,7 @@ import PaginaEmpreendimento from './pages/PageEmpreendimento'
 
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
+import PaginaRegional from './pages/PageRegional';
 
 const App = () => {
 
@@ -22,7 +23,7 @@ const App = () => {
         <Route path="/empreendimento/:id" element={<Empreendimento />} />
         <Route path="/empreendimento/:id/:pagEmpreendimento/" element={<PaginaEmpreendimento />} />
         <Route path="/contato" element={<Contato />} />
-        <Route path="/regiao/id" element={<Contato />} />
+        <Route path="/regiao/:id" element={<PaginaRegional />} />
       </Routes>
     </>
   );

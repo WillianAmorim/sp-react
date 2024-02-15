@@ -39,7 +39,7 @@ const Header = () => {
                     <p>|</p>
                     <li className='hvr-underline-from-center'><Link to={'/empreendimento/oportunidades'}>Oportunidades</Link></li>
                     <p>|</p>
-                    <li className='hvr-underline-from-center'><Link to={'/empreendimento/contato'}>Contato</Link></li>
+                    <li className='hvr-underline-from-center'><Link to={'/contato'}>Contato</Link></li>
                 </ul>
             </header>
         </HeaderContainer>

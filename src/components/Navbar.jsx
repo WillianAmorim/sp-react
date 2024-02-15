@@ -34,9 +34,9 @@ const Navbar = () => {
           <div className='list-menu-at item-menu-navbar' onClick={() => setAreaAtuacaoVisible(!areaAtuacaoVisible)}>Áreas de atuação <RiArrowDownSLine /></div>
 
           <ul className='areas-atuacao' visible={areaAtuacaoVisible} style={{ display: areaAtuacaoVisible ? 'flex' : 'none' }}>
-            <li className='item-menu-areasAtuacao'><Link to={"/strip-malls"}>Strip Malls</Link></li>
-            <li className='item-menu-areasAtuacao'><Link to={"/bts"}>BTS (Built to Suit)</Link></li>
-            <li className='item-menu-areasAtuacao'><Link to={"/incorporacoes"}>Incorporações</Link></li>
+            <li className='item-menu-areasAtuacao'><Link to={"/empreendimento/strip-malls"}>Strip Malls</Link></li>
+            <li className='item-menu-areasAtuacao'><Link to={"/empreendimento/bts"}>BTS (Built to Suit)</Link></li>
+            <li className='item-menu-areasAtuacao'><Link to={"/empreendimento/incorporacoes"}>Incorporações</Link></li>
             <li className='item-menu-areasAtuacao' id='li-locacao' onClick={() => setLocacaoVisible(!locacaoVisible)}>Locações <RiArrowDownSLine /></li>
             <ul visible={locacaoVisible} className='locacoes item-menu-areasAtuacao' style={{ display: locacaoVisible ? 'flex' : 'none' }}>
               <li className='item-menu-locacao'><Link to={''}>Comercial</Link></li>
@@ -45,7 +45,7 @@ const Navbar = () => {
             </ul>
           </ul>
 
-          <div className='item-menu-navbar'><Link to={'/oportunidades'}>Oportunidades</Link></div>
+          <div className='item-menu-navbar'><Link to={'/empreendimento/oportunidades'}>Oportunidades</Link></div>
           <div className='item-menu-navbar'><Link to={'contato'}>Contato</Link></div>
         </section>
 
