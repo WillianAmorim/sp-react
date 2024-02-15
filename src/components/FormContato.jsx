@@ -20,13 +20,14 @@ const FormContato = () => {
 
                 <label htmlFor="name"> Nome <span>*</span></label>
                 <input class="input-form" id="name" type="text" name="Nome" placeholder="Nome Completo" required />
-                
-
-
-
+            
 
                 <label htmlFor="email"> Email <span>*</span></label>
                 <input class="input-form" id="email" type="email" name="Email" placeholder="Email" required />
+
+
+                <label htmlFor="conf-email">Confirme seu email <span>*</span></label>
+                <input class="input-form" id="conf-email" type="email" name="Email" placeholder="Email" required />
 
 
                 <label htmlFor="telefone"> Telefone <span>*</span></label>

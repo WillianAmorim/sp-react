@@ -71,6 +71,7 @@ export const CardsContainer = styled.div`
         text-align: center;
         
         font-size: 15px;
+        background-color: #121D40;
     }
 
     .section-details-mobile {

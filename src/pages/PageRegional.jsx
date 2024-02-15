@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar'
 import Whatsapp from '../components/Whatsapp'
 import CardRegional from '../components/CardRegional';
 
-import Json from '../../public/Json/jsonPrincipal.json'
+import Json from '../../public/Json/JsonEmpreendimentos.json'
 
 import { useParams } from "react-router-dom";
 

@@ -371,7 +371,7 @@
         "id": 13,
         "name": "JB Transportes e Logística Ltda",
         "date": "",
-        "imgPrincipal": "",
+        "imgPrincipal": "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg",
         "images": [],
         "category": "galpao-logistico",
         "details": "",
@@ -389,6 +389,26 @@
     },
     {
         "id": 14,
+        "name": "Galpão Belém",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/GALPÃO-LOGISTICO/Galpao Belem/GalpãoBelemPrincipal.jpeg",
+        "images": [],
+        "category": "galpao-logistico",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Galpão Logístico"
+        },
+        "plantaBaixa": [],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 15,
         "name": "Sala Ed. DF Plaza",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.jpg",
@@ -414,7 +434,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Salas Edifício Connect Towers",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Salas Edifício Connect Towers/ConnectPrincipal.jpg",
@@ -440,7 +460,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Loja Shopping Monumental",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
@@ -465,7 +485,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Eletro Mateus Cohatrac",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.jpg",
@@ -490,7 +510,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Supermercado Mateus Cohatrac IV",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.jpg",
@@ -515,7 +535,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Supermercado Mateus Anil",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
@@ -542,7 +562,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Costa Atacadão - Águas Claras, DF",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg",
@@ -566,7 +586,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "Imóvel Asa Norte",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Imóvel Asa Norte/AsaNortePrincipal.jpg",
@@ -595,7 +615,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 21,
+        "id": 23,
         "name": "Defensoria Pública da União (DPU)",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg",
@@ -618,7 +638,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 22,
+        "id": 24,
         "name": "Apartamento Vive La Vie",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
@@ -641,7 +661,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 23,
+        "id": 25,
         "name": "Apartamento Hotel Bonaparte",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.jpg",
@@ -671,7 +691,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 24,
+        "id": 26,
         "name": "Edifício Cidade do Porto",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Cidade do Porto/Principal.jpg",
@@ -695,7 +715,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 25,
+        "id": 27,
         "name": "Edifício Vip Residence",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Vip Residence/Principal.jpg",
@@ -719,7 +739,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 26,
+        "id": 28,
         "name": "Edifício Portinari",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Portinari/Principal.jpg",
@@ -744,7 +764,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 27,
+        "id": 29,
         "name": "Edifício Ponta Negra",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Ponta Negra/Principal.jpg",
@@ -769,7 +789,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 28,
+        "id": 30,
         "name": "Edifício Comodoro",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Comodoro/Principal.jpg",
@@ -796,7 +816,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 29,
+        "id": 31,
         "name": "Edifício Alvorada",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Alvorada/Principal.jpg",
@@ -820,7 +840,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 30,
+        "id": 32,
         "name": "Unieuro Águas Claras",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/OPORTUNIDADES/Unieuro Águas Claras/Principal.JPG",
@@ -850,7 +870,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 31,
+        "id": 33,
         "name": "Gran Imperial Residence",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/OPORTUNIDADES/Gran Imperial Residence/Principal.jpg",
@@ -877,7 +897,7 @@
         "estado": "Ceara"
     },
     {
-        "id": 32,
+        "id": 34,
         "name": "Residencial Maxximo Garden",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/OPORTUNIDADES/Residencial Maxximo Garden/Principal.jpg",
@@ -903,7 +923,7 @@
         "estado": "Brasilia"
     },
     {
-        "id": 33,
+        "id": 35,
         "name": "Edifício Vip Residence",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/OPORTUNIDADES/Edifício Vip Residence/Principal.jpg",
@@ -927,7 +947,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 34,
+        "id": 36,
         "name": "Edifício Ponta Negra",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/OPORTUNIDADES/Edifício Ponta Negra/Principal.jpg",
@@ -952,7 +972,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 35,
+        "id": 37,
         "name": "Easy Renascença",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/OPORTUNIDADES/Easy Renascença/Principal.jpg",

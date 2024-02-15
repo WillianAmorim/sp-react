@@ -29,9 +29,9 @@ const Header = () => {
                             <li id='locacoes' className='item-area-atuacao' onMouseEnter={() => setIsHoveredLoc(true)} onMouseLeave={() => setIsHoveredLoc(false)}>
                                 Locações
                                 <ul className='ul-locacoes' visible={isHoveredLoc} style={{ display: isHoveredLoc ? 'flex' : 'none' }}>
-                                    <li className='item-locacoes'><Link to={'/'}>Comercial</Link></li>
-                                    <li className='item-locacoes'><Link to={'/'}>Galpão Logístico</Link></li>
-                                    <li className='item-locacoes'><Link to={'/'}>Residencial</Link></li>
+                                    <li className='item-locacoes'><Link to={'/empreendimento/comercial'}>Comercial</Link></li>
+                                    <li className='item-locacoes'><Link to={'/empreendimento/galpao-logistico'}>Galpão Logístico</Link></li>
+                                    <li className='item-locacoes'><Link to={'/empreendimento/residencial'}>Residencial</Link></li>
                                 </ul>
                             </li>
                         </ul>

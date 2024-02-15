@@ -102,10 +102,38 @@ export const FormContatoContainer = styled.div`
 
             
         }
+
+        button {
+            background-color: #121D40;
+        }
         
     }
 
     @media only screen and (min-width: 767px) {
-        background-color: red;
+
+        gap: 40px;
+
+        section {
+            width: 450px;
+            margin-top: 50px;
+            margin-left: 50px;
+            align-items: start;
+            gap: 25px;
+
+            a {
+                width: 55%;
+            }
+        }
+
+        form {
+            width: 55%;
+            align-self: center;
+            margin-bottom: 40px;
+        }
+
+        label, input, textarea, div {
+            margin: 0 50px;
+        }
+        
     }
 `

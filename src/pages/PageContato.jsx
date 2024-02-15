@@ -13,7 +13,7 @@ const Home = () => {
             <Navbar />
             <Header />
             <FormContato />
-            <Cadastro />
+            {/* <Cadastro /> */}
             <Footer />
             <Termos />
         </>
