@@ -23,6 +23,7 @@ export const LocalizacaoContainer = styled.div`
 
         .div-textos {
             gap: 100px;
+            width: 50%;
         }
 
         iframe {

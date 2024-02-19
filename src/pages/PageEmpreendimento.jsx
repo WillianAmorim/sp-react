@@ -12,10 +12,11 @@ import Whatsapp from '../components/Whatsapp'
 
 import { useParams } from 'react-router-dom';
 
-const Drogasil = () => {
+const PageEmpreendimento = () => {
 
-    const { id } = useParams();
-    console.log(id)
+    const { pagEmpreendimento } = useParams();
+
+    console.log(data)
 
     const filterCard = data.find((empreendimento) => empreendimento.name.toLowerCase().replace(/ /g, "-") === pagEmpreendimento)
     return (
@@ -34,4 +35,4 @@ const Drogasil = () => {
     )
 }
 
-export default Drogasil;
+export default PageEmpreendimento;

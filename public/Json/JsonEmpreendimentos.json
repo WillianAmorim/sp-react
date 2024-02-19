@@ -19,10 +19,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8578785517684!2d-44.25274482614652!3d-2.5531058383206227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f6901fc473d463%3A0xcdebdca27694ac30!2sUniversidade%20CEUMA%20-%20Anil!5e0!3m2!1spt-BR!2sbr!4v1708312997333!5m2!1spt-BR!2sbr",
             "endereco": "Cohatrac"
         },
         "estado": "Maranhao"
@@ -51,10 +54,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4703190610076!2d-48.039575825887816!3d-15.831859423876674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f1c0339fd%3A0x110a7ff1821babec!2sCentro%20Universit%C3%A1rio%20Unieuro!5e0!3m2!1spt-BR!2sbr!4v1708313168806!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -85,10 +91,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.95470041292!2d-44.24901202614685!3d-2.521699438222043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691cc05bd0bd7%3A0x37cf11bd341d3d4e!2sUniversidade%20Ceuma%20-%20Cohama!5e0!3m2!1spt-BR!2sbr!4v1708313368770!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -117,10 +126,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.553973748596!2d-48.4959581761549!3d-1.4424660858144054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48ebc058210b3%3A0x574080abbcd2b8e5!2sUNIFAMAZ%20-%20Centro%20Universit%C3%A1rio%20Metropolitano%20da%20Amaz%C3%B4nia!5e0!3m2!1spt-BR!2sbr!4v1708313690567!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Para"
@@ -134,12 +146,11 @@
             "/FOTOS-NOVO/BTS/Unieuro Asa sul/UnieuroAsaSulPrincipal.JPG",
             "/FOTOS-NOVO/BTS/Unieuro Asa sul/01.JPG",
             "/FOTOS-NOVO/BTS/Unieuro Asa sul/02.JPG",
-            "/FOTOS-NOVO/BTS/Unieuro Asa sul/03.JPG",
-            "/FOTOS-NOVO/BTS/Unieuro Asa sul/04.JPG",
-            "/FOTOS-NOVO/BTS/Unieuro Asa sul/05.JPG",
-            "/FOTOS-NOVO/BTS/Unieuro Asa sul/06.JPG",
-            "/FOTOS-NOVO/BTS/Unieuro Asa sul/07.JPG",
-            "/FOTOS-NOVO/BTS/Unieuro Asa sul/08.JPG"
+            "/FOTOS-NOVO/BTS/Unieuro Asa sul/03.jpg",
+            "/FOTOS-NOVO/BTS/Unieuro Asa sul/05.jpg",
+            "/FOTOS-NOVO/BTS/Unieuro Asa sul/06.jpg",
+            "/FOTOS-NOVO/BTS/Unieuro Asa sul/07.jpg",
+            "/FOTOS-NOVO/BTS/Unieuro Asa sul/08.jpg"
         ],
         "category": "bts",
         "details": "",
@@ -147,41 +158,16 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.242229245066!2d-47.91833392588752!3d-15.843861224173093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a255d09a671fd%3A0xd29f9cb7f50f859d!2sUnieuro%20-%20Campus%20Asa%20Sul!5e0!3m2!1spt-BR!2sbr!4v1708316558698!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
-    },
-    {
-        "id": 6,
-        "name": "Uniceuma Anil",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG",
-        "images": [
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/CeumaCohamaPrincipal.JPG",
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/01.JPG.JPG",
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/02.JPG.JPG",
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/03.JPG.JPG",
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/04.JPG.JPG",
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/05.JPG.JPG",
-            "/FOTOS-NOVO/BTS/CEUMA ANIL/06.JPG.JPG"
-        ],
-        "category": "bts",
-        "details": "",
-        "sobre": {
-            "descricao": "",
-            "setor": "BTS (Built to Suit)"
-        },
-        "plantaBaixa": [],
-        "localizacao": {
-            "descricao": "",
-            "mapa": "",
-            "endereco": ""
-        },
-        "estado": "Maranhao"
     },
     {
         "id": 7,
@@ -192,11 +178,11 @@
             "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/CeumaRenascencaPrincipal.jpg",
             "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/01.jpeg",
             "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/02.jpeg",
-            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/03.jpeg",
-            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/04.jpeg",
-            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/05.jpeg",
-            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/06.jpeg",
-            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/07.jpeg"
+            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/03.JPG",
+            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/04.JPG",
+            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/05.JPG",
+            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/06.JPG",
+            "/FOTOS-NOVO/BTS/CEUMA RENASCENÇA/07.JPG"
         ],
         "category": "bts",
         "details": "",
@@ -204,10 +190,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0133609357986!2d-44.28773852614697!3d-2.502479938162498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d900f12e4fb%3A0x90d84ae668094ada!2sUniversidade%20Ceuma%20-%20Renascen%C3%A7a!5e0!3m2!1spt-BR!2sbr!4v1708317034104!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -229,10 +218,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.3563868064007!2d-47.475277126114065!3d-5.514006454859246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92c55fbed9947073%3A0x7c2095a88eb7caa0!2sUniversidade%20CEUMA%20-%20Campus%20Imperatriz!5e0!3m2!1spt-BR!2sbr!4v1708317094344!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -261,10 +253,13 @@
             "descricao": "",
             "setor": "BTS (Built to Suit)"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.929834241802!2d-44.228286526146576!3d-2.5298025382473273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691b909fc4073%3A0x6bbfdce0579a0aee!2sUniversidade%20Ceuma%20-%20Turu!5e0!3m2!1spt-BR!2sbr!4v1708317156252!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -277,10 +272,10 @@
         "images": [
             "/FOTOS-NOVO/SHOPPING-CENTERS/Principal.png",
             "/FOTOS-NOVO/SHOPPING-CENTERS/01.png",
-            "/FOTOS-NOVO/SHOPPING-CENTERS/02.png",
-            "/FOTOS-NOVO/SHOPPING-CENTERS/03.png",
-            "/FOTOS-NOVO/SHOPPING-CENTERS/04.png",
-            "/FOTOS-NOVO/SHOPPING-CENTERS/05.png"
+            "/FOTOS-NOVO/SHOPPING-CENTERS/02.jpeg",
+            "/FOTOS-NOVO/SHOPPING-CENTERS/03.jpeg",
+            "/FOTOS-NOVO/SHOPPING-CENTERS/04.jpeg",
+            "/FOTOS-NOVO/SHOPPING-CENTERS/05.jpeg"
         ],
         "category": "shopping-centers",
         "details": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
@@ -288,10 +283,13 @@
             "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
             "setor": "Shopping Centers"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.9175040986843!2d-44.22736922614673!3d-2.533810938259862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691b72bf7a009%3A0xde85c3d7eb90e8c4!2sRio%20Anil%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708317252083!5m2!1spt-BR!2sbr",
             "endereco": "Anil"
         },
         "estado": "Maranhao"
@@ -315,10 +313,13 @@
             "descricao": "",
             "setor": "Incorporações"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Ceará"
@@ -359,10 +360,13 @@
             "descricao": "",
             "setor": "Incorporações"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!4v1708317775005!6m8!1m7!1sQ7zxjz_ptWrM85APyiT5PA!2m2!1d-2.502342112141737!2d-44.28561404044997!3f344.9037046868111!4f15.591280110585984!5f0.7820865974627469",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -372,17 +376,29 @@
         "name": "JB Transportes e Logística Ltda",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg",
-        "images": [],
+        "images": [
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/01.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/02.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/03.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/04.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/05.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/06.jpg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/JB Transportes/07.jpg"
+        ],
         "category": "galpao-logistico",
         "details": "",
         "sobre": {
             "descricao": "",
             "setor": "Galpão Logístico"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.433360778748!2d-44.24942882614602!3d-2.603239338481348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69b1415745a4f%3A0x25b50cc4587f1eba!2sJB%20Transporte%20e%20Logistica%20Ltda!5e1!3m2!1spt-BR!2sbr!4v1708317928820!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -392,14 +408,22 @@
         "name": "Galpão Belém",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/GALPÃO-LOGISTICO/Galpao Belem/GalpãoBelemPrincipal.jpeg",
-        "images": [],
+        "images": [
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/Galpao Belem/GalpãoBelemPrincipal.jpeg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/Galpao Belem/01.jpeg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/Galpao Belem/02.jpeg",
+            "/FOTOS-NOVO/GALPÃO-LOGISTICO/Galpao Belem/02.jpeg"
+        ],
         "category": "galpao-logistico",
         "details": "",
         "sobre": {
             "descricao": "",
             "setor": "Galpão Logístico"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
             "mapa": "",
@@ -425,10 +449,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.473105998907!2d-48.04352402588789!3d-15.83171272387306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f42832ad3%3A0x59143e7a3f584efa!2sDF%20Plaza%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318594295!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -451,10 +478,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3037125103992!2d-48.047521525887525!3d-15.840626924093192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a328bece18aef%3A0xb9d85c12405a5347!2sConnect%20Towers!5e0!3m2!1spt-BR!2sbr!4v1708318666783!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -476,10 +506,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0163436580683!2d-44.29130812614684!3d-2.501498738159477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dcd47834b6f%3A0x1ea30db8487b8b7a!2sMonumental%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318733715!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -501,10 +534,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8988920740157!2d-44.20961432614665!3d-2.539849538278821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f690fe281503d3%3A0xf73d15ee801fba41!2sEletro%20Mateus!5e0!3m2!1spt-BR!2sbr!4v1708318788540!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -526,10 +562,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.595899583845!2d-44.21733917081659!3d-2.539822698797548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69139a918c7cf%3A0x8377140a85eb5608!2sMateus!5e0!3m2!1spt-BR!2sbr!4v1708319155218!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -541,11 +580,11 @@
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
-            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/1",
-            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/2",
-            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/3",
-            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/4",
-            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/5"
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/02.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/03.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/04.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Supermercado Mateus Anil/05.jpg"
         ],
         "category": "comercial",
         "details": "",
@@ -553,10 +592,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.423169374517!2d-44.266471744580095!3d-2.553778300000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68f288f0b402d%3A0xb4e1fad759c38e24!2sMateus%20Supermercados%20-%20Anil!5e0!3m2!1spt-BR!2sbr!4v1708319212664!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -569,6 +611,7 @@
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/02.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/02.jpg"
         ],
         "category": "comercial",
@@ -577,10 +620,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.486926784568!2d-48.03901628564258!3d-15.830985199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33c46c6c4def%3A0xbb47cb38bdaa381c!2sCosta%20Atacad%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1708319362373!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -606,10 +652,13 @@
             "descricao": "",
             "setor": "Locação Cormercial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30706.14383929431!2d-48.064927272192534!3d-15.842506700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a331a8d206b99%3A0xa184f574e4a51beb!2sMaple%20Bear!5e0!3m2!1spt-BR!2sbr!4v1708319483947!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -621,6 +670,8 @@
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg",
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/01.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/01.jpg"
         ],
         "category": "corporativo",
@@ -629,10 +680,13 @@
             "descricao": "",
             "setor": "Locação Corporativa"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!4v1708319596826!6m8!1m7!1sHkP6JS3n_giRlz8bRlo6dg!2m2!1d-2.502376046760268!2d-44.28616678470383!3f347.7286504523046!4f5.000356654843088!5f0.7820865974627469",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -644,6 +698,8 @@
         "imgPrincipal": "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Vive La Vie/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Vive La Vie/01.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Apartamento Vive La Vie/01.jpg"
         ],
         "category": "residencial",
@@ -652,10 +708,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4532397304074!2d-48.03972922588782!3d-15.83275842389893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33ae3a7204af%3A0xc3384c247cd083aa!2sResidencial%20Vive%20La%20Vie!5e0!3m2!1spt-BR!2sbr!4v1708319887430!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -682,10 +741,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -698,6 +760,7 @@
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Cidade do Porto/Principal.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Cidade do Porto/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Cidade do Porto/02.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Cidade do Porto/02.jpg"
         ],
         "category": "residencial",
@@ -706,13 +769,16 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127553.55935225807!2d-44.42861965664063!3d-2.490820099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68db4e1156c73%3A0xb98767fe5601d77b!2sEdif%C3%ADcio%20Cidade%20do%20Porto!5e0!3m2!1spt-BR!2sbr!4v1708320093263!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
-        "estado": "Brasilia"
+        "estado": "Maranhão"
     },
     {
         "id": 27,
@@ -722,6 +788,7 @@
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Vip Residence/Principal.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Vip Residence/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Vip Residence/02.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Vip Residence/02.jpg"
         ],
         "category": "residencial",
@@ -730,10 +797,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.011561678585!2d-44.29535832614686!3d-2.503071638164318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d00565f9633%3A0x49945be5ba5311f6!2sVIP%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708320254013!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -755,10 +825,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127552.50856742704!2d-44.429554656640605!3d-2.5016470999999934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dd258ead829%3A0xdd73433235bc018b!2sEdif%C3%ADcio%20Portinari!5e0!3m2!1spt-BR!2sbr!4v1708320172885!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -780,10 +853,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.027244407147!2d-44.294058126146915!3d-2.4979095381484133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68df58bdedbad%3A0xded5c439cd027697!2sCondom%C3%ADnio%20Ponta%20Negra!5e0!3m2!1spt-BR!2sbr!4v1708320400769!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -807,10 +883,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0447617123345!2d-44.30868622614697!3d-2.4921309381306815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68c1535d65045%3A0x764d16fd6179d5f!2sEdif%C3%ADcio%20Comodoro!5e0!3m2!1spt-BR!2sbr!4v1708320462423!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -823,6 +902,7 @@
         "images": [
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Alvorada/Principal.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Alvorada/01.jpg",
+            "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Alvorada/02.jpg",
             "/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS//RESIDENCIAL/Edifício Alvorada/02.jpg"
         ],
         "category": "residencial",
@@ -831,10 +911,13 @@
             "descricao": "",
             "setor": "Locação Residencial"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0431010284847!2d-44.30776112614708!3d-2.492679338132369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68c411955ea3f%3A0xed1301e5e9371bf4!2sEdif%C3%ADcio%20Alvorada!5e0!3m2!1spt-BR!2sbr!4v1708320528072!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Maranhao"
@@ -861,10 +944,13 @@
             "descricao": "",
             "setor": "Oportunidades"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4703190610076!2d-48.039575825887816!3d-15.831859423876674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f1c0339fd%3A0x110a7ff1821babec!2sCentro%20Universit%C3%A1rio%20Unieuro!5e0!3m2!1spt-BR!2sbr!4v1708313168806!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -888,10 +974,13 @@
             "descricao": "",
             "setor": "Oportunidades"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Ceara"
@@ -914,10 +1003,13 @@
             "descricao": "",
             "setor": "Oportunidades"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
-            "mapa": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3837.7485708593877!2d-47.76355902588664!3d-15.86980662481451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a1f53868f89a1%3A0x6a7db3766bc20a7a!2sResidencial%20Maxximo%20Garden!5e0!3m2!1spt-BR!2sbr!4v1708321585580!5m2!1spt-BR!2sbr",
             "endereco": ""
         },
         "estado": "Brasilia"
@@ -938,7 +1030,10 @@
             "descricao": "",
             "setor": "Oportunidades"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
             "mapa": "",
@@ -963,7 +1058,10 @@
             "descricao": "",
             "setor": "Oportunidades"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
             "mapa": "",
@@ -998,7 +1096,164 @@
             "descricao": "",
             "setor": "Oportunidades"
         },
-        "plantaBaixa": [],
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 38,
+        "name": "Gran Imperial Residence",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/GranImperialPrincipal.jpg",
+        "images": [
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/GranImperialPrincipal.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/01.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/02.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/03.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/04.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/05.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
+            "endereco": ""
+        },
+        "estado": "Ceará"
+    },
+    {
+        "id": 39,
+        "name": "Easy Renascença",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/INCORPORACOES/Easy Residence/EasyPrincipal.jpg",
+        "images": [
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/EasyPrincipal.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/01.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/02.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/03.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/04.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/05.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/06.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/07.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/08.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/09.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/10.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/11.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/12.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/13.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/14.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/15.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/16.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/17.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/18.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/19.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/20.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/21.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/22.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "",
+            "endereco": ""
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 40,
+        "name": "Gran Imperial Residence",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/GranImperialPrincipal.jpg",
+        "images": [
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/GranImperialPrincipal.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/01.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/02.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/03.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/04.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Gran Imperial Residence/05.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
+        "localizacao": {
+            "descricao": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
+            "endereco": ""
+        },
+        "estado": "Ceará"
+    },
+    {
+        "id": 41,
+        "name": "Easy Renascença",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/INCORPORACOES/Easy Residence/EasyPrincipal.jpg",
+        "images": [
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/EasyPrincipal.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/01.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/02.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/03.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/04.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/05.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/06.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/07.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/08.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/09.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/10.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/11.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/12.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/13.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/14.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/15.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/16.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/17.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/18.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/19.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/20.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/21.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Easy Residence/22.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "",
+            "setor": "Incorporações"
+        },
+        "plantaBaixa": [
+            "/FOTOS-NOVO/PLANTAS/PLANTA1.jpeg",
+            "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
+        ],
         "localizacao": {
             "descricao": "",
             "mapa": "",

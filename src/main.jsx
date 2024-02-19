@@ -3,6 +3,9 @@ import { createRoot } from 'react-dom/client';
 import App from './App.jsx';
 import GlobalStyle from './globalStyle.js';
 import { BrowserRouter } from 'react-router-dom';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 
 import { register } from 'swiper/element/bundle';
 

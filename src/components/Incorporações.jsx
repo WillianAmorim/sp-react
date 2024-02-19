@@ -24,7 +24,7 @@ const Incorporacoes = () => {
             <div>
                 <Swiper
                     modules={[Navigation, Pagination, Autoplay]}
-                    slidesPerView={5}
+                    slidesPerView={2}
                     centeredSlides={true}
                     spaceBetween={20}
                     grabCursor={true}
@@ -39,7 +39,7 @@ const Incorporacoes = () => {
                             slidesPerView: 1,
                         },
                         768: {
-                            slidesPerView: 2,
+                            slidesPerView: 1,
                         },
                         1024: {
                             slidesPerView: 5,
@@ -53,6 +53,7 @@ const Incorporacoes = () => {
                                 <p>{item.name}</p>
                             </SwiperSlide>
                         ))
+                        
                     }
                 </Swiper>
             </div>

@@ -15,7 +15,7 @@ const EmpresasParceiras = () => {
                     <h1>Empresas Parceiras</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
-                <a data-aos="fade-up-left" data-aos-duration="1500" href="">Conheça todos</a>
+                {/* <a data-aos="fade-up-left" data-aos-duration="1500" href="">Conheça todos</a> */}
             </div>
 
             <div>

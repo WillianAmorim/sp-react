@@ -32,6 +32,7 @@ const Header = () => {
                                     <li className='item-locacoes'><Link to={'/empreendimento/comercial'}>Comercial</Link></li>
                                     <li className='item-locacoes'><Link to={'/empreendimento/galpao-logistico'}>Galpão Logístico</Link></li>
                                     <li className='item-locacoes'><Link to={'/empreendimento/residencial'}>Residencial</Link></li>
+                                    <li className='item-locacoes'><Link to={'/empreendimento/corporativo'}>Corporativo</Link></li>
                                 </ul>
                             </li>
                         </ul>

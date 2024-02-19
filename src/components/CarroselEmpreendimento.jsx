@@ -8,7 +8,7 @@ import 'swiper/swiper-bundle.css';
 import { EmailShareButton, EmailIcon, FacebookShareButton, FacebookIcon, WhatsappShareButton, WhatsappIcon, LinkedinShareButton, LinkedinIcon } from 'react-share';
 
 const CarroselEmpreendimento = ({ images }) => {
-    const [clicked, setClicked] = useState(false);
+    // const [clicked, setClicked] = useState(false);
     const [thumbsSwiper, setThumbsSwiper] = useState(null);
 
     console.log(images[0])
@@ -54,7 +54,6 @@ const CarroselEmpreendimento = ({ images }) => {
                 spaceBetween={5}
                 slidesPerView={4}
                 freeMode={true}
-                watchSlidesVisibility={true}
                 watchSlidesProgress={true}
                 className="mySwiper2"
             >
