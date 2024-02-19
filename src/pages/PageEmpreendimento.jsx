@@ -14,7 +14,8 @@ import { useParams } from 'react-router-dom';
 
 const Drogasil = () => {
 
-    const { pagEmpreendimento } = useParams();
+    const { id } = useParams();
+    console.log(id)
 
     const filterCard = data.find((empreendimento) => empreendimento.name.toLowerCase().replace(/ /g, "-") === pagEmpreendimento)
     return (
@@ -26,7 +27,7 @@ const Drogasil = () => {
             <Sobre sobre={filterCard.sobre} />
             <PlantaBaixa plantas={filterCard.plantaBaixa} />
             <Localizacao localizacao={filterCard.localizacao} />
-            {/* <FormEmpreendimento objectName={filterCard} /> */}
+            <FormEmpreendimento objectName={filterCard} />
             <Footer />
             <Termos />
         </>

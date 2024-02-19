@@ -15,8 +15,11 @@ const PaginaRegional = () => {
     const { id } = useParams();
 
     const arrayRegional = Json.filter((empreendimento) => {
+        // return empreendimento
         return empreendimento.estado?.toLowerCase() == id
     })
+
+    console.log(id)
 
     return (
         <>

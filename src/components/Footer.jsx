@@ -19,9 +19,9 @@ const Footer = () => {
             <div className='div-ul'>
                 <ul>
                     {/* <li className='hover-black'>Ver todos os imóveis</li> */}
-                    <li className='hover-black'><Link to={'regiao/maranhao'}>Maranhão</Link></li>
-                    <li className='hover-black'><Link to={'regiao/para'}>Pará</Link></li>
-                    <li className='hover-black'><Link to={'regiao/brasilia'}>Brasília</Link></li>
+                    <li className='hover-black'><Link to={'/regiao/maranhao'}>Maranhão</Link></li>
+                    <li className='hover-black'><Link to={'/regiao/para'}>Pará</Link></li>
+                    <li className='hover-black'><Link to={'/regiao/brasilia'}>Brasília</Link></li>
                     <li className='hover-black'>Fale Conosco</li>
                     {/* <li className='hover-black'>Parcerias</li> */}
                 </ul>

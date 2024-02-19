@@ -14,7 +14,7 @@ const Cards = ({ arrayCards }) => {
     <CardsContainer>
       <section>
         {arrayCards.map((card) => (
-          <div className='div-card' key={card.id}>
+          <div className='div-card' key={card.id} data-aos="zoom-in" data-aos-duration="1500">
             <div className='div-details-mobile'>
               <a id='lancamento-mobile' href="">Lançamento</a>
               <h2>{card.name}</h2>

@@ -24,7 +24,7 @@ const App = () => {
         <Route path="/empreendimento/:id/:pagEmpreendimento/" element={<PaginaEmpreendimento />} />
         <Route path="/contato" element={<Contato />} />
         <Route path="/regiao/:id" element={<PaginaRegional />} />
-        <Route path="/locacoes/:id" element={<PaginaRegional />} />
+        <Route path="/empreendimento/:id" element={<PaginaRegional />} />
       </Routes>
     </>
   );

@@ -20,11 +20,11 @@ const theme = createTheme({
 const Cadastro = () => {
     return (
         <CadastroContainer>
-            <div className='div-info'>
+            <div className='div-info' data-aos="fade-right" data-aos-duration="1500">
                 <h1>Cadastre-se e receba as novidades​</h1>
                 <p>Assine nossa newsletter  e fique por dentro das noticias mais recentes em primeira mão.</p>
             </div>
-            <div className='div-inputs'>
+            <div className='div-inputs' data-aos="fade-left" data-aos-duration="1500">
                 <div>
                     <label htmlFor="">Nome <span>*</span></label>
                     <input type="text" />
