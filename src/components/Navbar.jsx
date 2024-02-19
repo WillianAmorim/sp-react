@@ -43,6 +43,7 @@ const Navbar = () => {
               <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/comercial'}>Comercial</Link></li>
               <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/galpao-logistico'}>Galpão Logístico</Link></li>
               <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/residencial'}>Residencial</Link></li>
+              <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/corporativo'}>Corporativo</Link></li>
             </ul>
           </ul>
 

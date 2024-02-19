@@ -12,8 +12,8 @@ const Footer = () => {
             <div className='div-logo'>
                 <img src={LogoFooter} alt="" />
                 <div className='div-icons'>
-                    <FaInstagram size={25}/>
-                    <FaLinkedinIn size={25}/>
+                    <a href="https://www.linkedin.com/company/grupo-s%C3%A3o-paulo/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn size={25}/></a>
+                    <a href="https://www.instagram.com/saopauloparticipacoes/" target="_blank" rel="noopener noreferrer"><FaInstagram size={25}/></a>
                 </div>
             </div>
             <div className='div-ul'>
