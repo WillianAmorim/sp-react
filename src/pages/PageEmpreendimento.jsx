@@ -27,7 +27,6 @@ const PageEmpreendimento = () => {
             <CarroselEmpreendimento images={filterCard.images}/>
             <Sobre sobre={filterCard.sobre} />
             {filterCard.plantaBaixa ? <PlantaBaixa plantas={filterCard.plantaBaixa} /> : ''}
-            {/* <PlantaBaixa plantas={filterCard.plantaBaixa} /> */}
             <Localizacao localizacao={filterCard.localizacao} />
             <FormEmpreendimento objectName={filterCard} />
             <Footer />

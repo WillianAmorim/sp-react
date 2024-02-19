@@ -30,9 +30,6 @@ const CarroselEmpreendimento = ({ images }) => {
                     <LinkedinShareButton url={shareUrl} title={title}>
                         <LinkedinIcon size={32} round />
                     </LinkedinShareButton>
-                    <FacebookShareButton url={shareUrl} quote={title}>
-                        <FacebookIcon size={32} round />
-                    </FacebookShareButton>
                 </div>
             </DivAbsolute>
 
