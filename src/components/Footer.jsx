@@ -2,7 +2,7 @@ import { FooterContainer } from '../styles/FooterContainer';
 import { FaInstagram } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa";
 
-import LogoFooter from '../assets/images/logo-footer.png'
+import LogoFooter from '/FOTOS-NOVO/Logo-sp.png'
 
 import { Link } from "react-router-dom";
 

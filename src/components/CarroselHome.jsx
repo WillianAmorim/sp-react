@@ -2,9 +2,9 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { EffectFade, Navigation, Pagination, Autoplay } from 'swiper/modules'
 
-import EasyResidence from '../assets/images/courses-05.jpg'
-import GranImperial from '../assets/images/courses-04.jpg'
-import IOA from '../assets/images/IOA-nova.jpeg'
+import EasyResidence from '../assets/Easy.jpg'
+import GranImperial from '../assets/Gran.jpg'
+import IOA from '../assets/IOA.jpeg'
 
 import { CarroselContainer } from '../styles/Carrosel-Primeiro';
 import { BsBuilding } from "react-icons/bs";
