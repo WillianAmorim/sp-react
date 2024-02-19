@@ -34,14 +34,15 @@ const Navbar = () => {
           <div className='list-menu-at item-menu-navbar' onClick={() => setAreaAtuacaoVisible(!areaAtuacaoVisible)}>Áreas de atuação <RiArrowDownSLine /></div>
 
           <ul className='areas-atuacao' visible={areaAtuacaoVisible} style={{ display: areaAtuacaoVisible ? 'flex' : 'none' }}>
-            <li className='item-menu-areasAtuacao'><Link to={"/empreendimento/strip-malls"}>Strip Malls</Link></li>
-            <li className='item-menu-areasAtuacao'><Link to={"/empreendimento/bts"}>BTS (Built to Suit)</Link></li>
-            <li className='item-menu-areasAtuacao'><Link to={"/empreendimento/incorporacoes"}>Incorporações</Link></li>
+            <li onClick={handleIconClick} className='item-menu-areasAtuacao'><Link to={"/empreendimento/shopping-centers"}>Shopping Centers</Link></li>
+            <li onClick={handleIconClick} className='item-menu-areasAtuacao'><Link to={"/empreendimento/strip-malls"}>Strip Malls</Link></li>
+            <li onClick={handleIconClick} className='item-menu-areasAtuacao'><Link to={"/empreendimento/bts"}>BTS (Built to Suit)</Link></li>
+            <li onClick={handleIconClick} className='item-menu-areasAtuacao'><Link to={"/empreendimento/incorporacao"}>Incorporações</Link></li>
             <li className='item-menu-areasAtuacao' id='li-locacao' onClick={() => setLocacaoVisible(!locacaoVisible)}>Locações <RiArrowDownSLine /></li>
             <ul visible={locacaoVisible} className='locacoes item-menu-areasAtuacao' style={{ display: locacaoVisible ? 'flex' : 'none' }}>
-              <li className='item-menu-locacao'><Link to={''}>Comercial</Link></li>
-              <li className='item-menu-locacao'><Link to={''}>Galpão Logístico</Link></li>
-              <li className='item-menu-locacao'><Link to={''}>Residencial</Link></li>
+              <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/comercial'}>Comercial</Link></li>
+              <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/galpao-logistico'}>Galpão Logístico</Link></li>
+              <li onClick={handleIconClick} className='item-menu-locacao'><Link to={'/empreendimento/residencial'}>Residencial</Link></li>
             </ul>
           </ul>
 
