@@ -7,13 +7,13 @@ const FormContato = () => {
     return (
         <FormContatoContainer>
             <section>
-                <h1>Fale Conosco</h1>
+                {/* <h1>Fale Conosco</h1>
                 <p>Se você já é nosso cliente, clique no botão abaixo para acessar o Portal do Cliente.</p>
-                <Link><IoHomeOutline /> Acessar o Portal</Link>
+                <Link><IoHomeOutline /> Acessar o Portal</Link> */}
                 <p>Se deseja abordar assuntos como venda de terreno, vizinhança de obras ou saber como se tornar fornecedor, preencha o formulário abaixo e em breve retornaremos.</p>
             </section>
 
-            <form target="_blank" action="https://formsubmit.co/villiamdesa@gmail.com" method="POST">
+            <form target="_blank" action="https://formsubmit.co/willian.amorim1@outlook.com" method="POST">
                 <input type="hidden" name="_captcha" value="false" />
                 <input type="hidden" name="_template" value="table" />
 
