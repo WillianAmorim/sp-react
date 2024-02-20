@@ -41,38 +41,53 @@ export const CadastroContainer = styled.div`
 
     }
 
-    .div-inputs {
+    .form-inputs {
         display: flex;
         flex-direction: column;
-        gap: 20px;
+        /* gap: 20px; */
     }
 
-    .div-inputs div {
+    /* .div-inputs div {
         display: flex;
         flex-direction: column;
         gap: 5px;
-    }
+    } */
 
-    .div-inputs div label {
+    label {
         font-size: 15px;
         font-weight: 300;
+        margin-bottom: 5px;
     }
 
-    .div-inputs div input {
+    input {
         border-radius: 5px;
         border: none;
         height: 35px;
 
         padding-left: 10px;
+        margin-bottom: 15px;
     }
 
-    .div-inputs span {
+    span {
         color: red;
     }
 
-    .div-inputs p {
+    p {
         font-size: 15px;
         font-weight: 300;
+
+        margin-bottom: 15px;
+    }
+
+    button {
+        width: max-content;
+        padding: 10px 15px;
+        display: flex;
+        align-self: center;
+        border-radius: 5px;
+        border: none;
+        background-color: #C19A29;
+        color: white;
     }
 
     @media only screen and (min-width: 767px) {

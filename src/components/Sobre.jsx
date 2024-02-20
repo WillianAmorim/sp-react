@@ -1,8 +1,7 @@
 import { H1Container, DivElements, HrMenor, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
-import { SobreContainer } from '../styles/Sobre'
 const Sobre = ({sobre}) => {
     return (
-        <>
+        <div data-aos="fade-right" data-aos-duration="1500">
             <H1Container>Sobre</H1Container>
             <DivElements className="div-elements">
                 <div className="div-apresentacao">
@@ -15,7 +14,7 @@ const Sobre = ({sobre}) => {
                     <Paragraph>Tipo de Imóvel: {sobre.setor}</Paragraph>
                 </div>
             </DivElements>
-        </>
+        </div>
     );
 }
 

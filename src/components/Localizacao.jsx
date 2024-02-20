@@ -3,7 +3,7 @@ import { LocalizacaoContainer } from "../styles/Localizacao";
 
 const Localizacao = ({localizacao}) => {
     return (
-        <LocalizacaoContainer>
+        <LocalizacaoContainer data-aos="fade-left" data-aos-duration="1500">
             <H1Container>Localização</H1Container>
             <div className="div-elements">
                 <div className='div-textos'>

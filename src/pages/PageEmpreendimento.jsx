@@ -9,6 +9,7 @@ import CarroselEmpreendimento from '../components/CarroselEmpreendimento'
 import Navbar from '../components/Navbar'
 import data from '../../public/Json/JsonEmpreendimentos.json'
 import Whatsapp from '../components/Whatsapp'
+import Cadastro from '../components/Cadastro'
 
 import { useParams } from 'react-router-dom';
 
@@ -28,6 +29,7 @@ const PageEmpreendimento = () => {
             <Sobre sobre={filterCard.sobre} />
             {filterCard.plantaBaixa ? <PlantaBaixa plantas={filterCard.plantaBaixa} /> : ''}
             <Localizacao localizacao={filterCard.localizacao} />
+            {/* <Cadastro /> */}
             <FormEmpreendimento objectName={filterCard} />
             <Footer />
             <Termos />

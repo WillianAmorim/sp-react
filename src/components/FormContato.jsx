@@ -13,7 +13,7 @@ const FormContato = () => {
                 <p>Se deseja abordar assuntos como venda de terreno, vizinhança de obras ou saber como se tornar fornecedor, preencha o formulário abaixo e em breve retornaremos.</p>
             </section>
 
-            <form target="_blank" action="https://formsubmit.co/willian.amorim1@outlook.com" method="POST">
+            <form target="_blank" action="https://formsubmit.co/comercial@saopauloparticipacoes.com.br" method="POST">
                 <input type="hidden" name="_captcha" value="false" />
                 <input type="hidden" name="_template" value="table" />
 

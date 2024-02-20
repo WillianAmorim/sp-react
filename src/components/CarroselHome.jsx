@@ -1,6 +1,8 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { EffectFade, Navigation, Pagination, Autoplay } from 'swiper/modules'
+import { Link } from 'react-router-dom'
+
 
 import EasyResidence from '../assets/Easy.jpg'
 import GranImperial from '../assets/Gran.jpg'
@@ -12,7 +14,7 @@ import { IoCarSharp } from "react-icons/io5";
 import { GiShower } from "react-icons/gi";
 
 
-const CarroselPrimeiro = () => {
+const CarroselHome = () => {
   return (
     <CarroselContainer style={{ width: '100%' }}>
       <Swiper
@@ -36,7 +38,7 @@ const CarroselPrimeiro = () => {
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
             </ul>
-            <a href="">Conheça o imóvel</a>
+            <Link to={'/empreendimento/oportunidades/easy-renascença'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={EasyResidence} alt="" />
         </SwiperSlide>
@@ -50,7 +52,7 @@ const CarroselPrimeiro = () => {
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
             </ul>
-            <a href="">Conheça o imóvel</a>
+            <Link to={'/empreendimento/oportunidades/gran-imperial-residence'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={GranImperial} alt="" />
         </SwiperSlide>
@@ -64,7 +66,7 @@ const CarroselPrimeiro = () => {
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
             </ul>
-            <a href="">Conheça o imóvel</a>
+            <Link to={'/empreendimento/bts/ioa'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={IOA} alt="" />
 
@@ -75,60 +77,4 @@ const CarroselPrimeiro = () => {
   );
 }
 
-export default CarroselPrimeiro;
-
-// return (
-//   <>
-//       <Swiper
-//           modules={[EffectFade, Navigation, Pagination, Autoplay]}
-//           effect={'fade'}
-//           slidesPerView={1}  // Ajuste o número de slides por view conforme necessário
-//           pagination={{ clickable: true }}
-//           loop={true}
-//           speed={2000}
-//           autoplay={{
-//               delay: 2500,
-//               disableOnInteraction: false,
-//           }}
-//       >
-//           {images.map((image, index) => (
-//               <SwiperSlide key={index}>
-//                   <DivAbsolute>
-//                       {/* ... (seu código para ícones de compartilhamento) */}
-//                   </DivAbsolute>
-//                   <ImgDrogasil src={image} alt="" width="100%" />
-//               </SwiperSlide>
-//           ))}
-//       </Swiper>
-//   </>
-// );
-
-
-{/* <DivAbsolute >
-  <StyledGoShare onClick={handleIconClick} style={{ display: clicked ? 'none' : 'block' }}>
-    <GoShare />
-  </StyledGoShare>
-
-  <CSSTransition
-    in={clicked}
-    timeout={9000}
-    classNames="fade"
-    unmountOnExit
-  >
-
-    <div className='links-share' style={{ display: clicked ? 'flex' : 'none' }}>
-      <WhatsappShareButton url={shareUrl} title={title}>
-        <WhatsappIcon size={32} round />
-      </WhatsappShareButton>
-      <EmailShareButton url={shareUrl} subject={title}>
-        <EmailIcon size={32} round />
-      </EmailShareButton>
-      <LinkedinShareButton url={shareUrl} title={title}>
-        <LinkedinIcon size={32} round />
-      </LinkedinShareButton>
-      <FacebookShareButton url={shareUrl} quote={title}>
-        <FacebookIcon size={32} round />
-      </FacebookShareButton>
-    </div>
-  </CSSTransition>
-</DivAbsolute> */}
+export default CarroselHome;
