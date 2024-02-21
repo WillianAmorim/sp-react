@@ -8,19 +8,19 @@ const Locacoes = () => {
     return (
         <LocacaoContainer>
             <section className='section-cards'>
-                <div>
+                <div data-aos="fade-right" data-aos-duration="1500">
                     <Link to={'/empreendimento/comercial'}>Comercial</Link>
                     <img src="../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg" alt="" />
                 </div>
-                <div>
+                <div data-aos="fade-right" data-aos-duration="1500">
                     <Link to={'/empreendimento/corporativo'}>Corporativo</Link>
                     <img src="../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg" alt="" />
                 </div>
-                <div>
+                <div data-aos="fade-left" data-aos-duration="1500">
                     <Link to={'/empreendimento/galpao-logistico'}>Galpão Logístico</Link>
                     <img src="../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/GALPÃO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg" alt="" />
                 </div>
-                <div>
+                <div data-aos="fade-left" data-aos-duration="1500">
                     <Link to={'/empreendimento/residencial'}>Residencial</Link>
                     <img src="../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Ponta Negra/Principal.jpg" alt="" />
                 </div>

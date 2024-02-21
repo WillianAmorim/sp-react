@@ -70,7 +70,7 @@ export const AreasAtuacaoContainer = styled.section`
         }
 
         a {
-            transition: background-color 0.3s ease, color 0.3s ease; /* Adicionando transição de cor */
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
         
         a:hover {
