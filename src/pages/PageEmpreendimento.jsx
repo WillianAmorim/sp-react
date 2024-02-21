@@ -17,8 +17,6 @@ const PageEmpreendimento = () => {
 
     const { pagEmpreendimento } = useParams();
 
-    console.log(data)
-
     const filterCard = data.find((empreendimento) => empreendimento.name.toLowerCase().replace(/ /g, "-") === pagEmpreendimento)
     return (
         <>  
