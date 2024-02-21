@@ -100,7 +100,7 @@ export const OportunidadesContainer = styled.section`
         color: #121D40;
 
         font-size: 15px;
-        font-weight: 300;        
+        font-weight: 400;        
     }
 
     

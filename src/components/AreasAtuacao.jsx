@@ -32,7 +32,7 @@ const AreasAtuacao = () => {
                     </li>
                 ))}
                 <li>
-                    <Link className="hrv-rectangle-out" to={'/empreendimento/locacoes'}>Locações</Link>
+                    <Link className="hrv-rectangle-out" to={'/locacoes'}>Locações</Link>
                     <img src={Locacoes} alt="" />
                 </li>
             </ul>

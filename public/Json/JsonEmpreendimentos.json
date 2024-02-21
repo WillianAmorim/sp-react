@@ -1158,7 +1158,7 @@
         "estado": "Maranhao"
     },
     {
-        "id": 42,
+        "id": 43,
         "name": "IOA",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO/BTS/IOA/IOA.jpeg",
@@ -1170,6 +1170,94 @@
             "/FOTOS-NOVO/BTS/IOA/IOA.jpeg"
         ],
         "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "setor": "BTS (Built to Suit)"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 44,
+        "name": "Amiral Península",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/INCORPORACOES/Amiral Península/Amiral-Principal.jpg",
+        "images": [
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/01.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/02.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/03.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/04.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/05.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/06.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/07.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/08.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/09.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/10.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/11.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/12.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/13.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/14.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/15.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/16.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/17.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/18.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/19.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/20.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/21.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/22.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/23.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Amiral Península/24.jpg"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "sobre": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "setor": "BTS (Built to Suit)"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 45,
+        "name": "Residencial Marina",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/Marina-Principal.jpg",
+        "images": [
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/01.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/02.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/03.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/04.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/05.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/06.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/07.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/08.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/09.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/10.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/11.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/12.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/13.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/14.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/15.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/16.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/17.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/18.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/19.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/20.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/21.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/22.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/23.jpg",
+            "/FOTOS-NOVO/INCORPORACOES/Residencial Marina/24.jpg"
+        ],
+        "category": "incorporacao",
         "details": "",
         "sobre": {
             "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",

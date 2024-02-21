@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Contato from './pages/PageContato'
 import Empreendimento from './pages/PageCategorias'
 import PaginaEmpreendimento from './pages/PageEmpreendimento'
+import PaginaLocacoes from './pages/PageLocacoes'
 
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/contato" element={<Contato />} />
         <Route path="/regiao/:id" element={<PaginaRegional />} />
         <Route path="/empreendimento/:id" element={<PaginaRegional />} />
+        <Route path="/locacoes" element={<PaginaLocacoes />} />
       </Routes>
     </>
   );
