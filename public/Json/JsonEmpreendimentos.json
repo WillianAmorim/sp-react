@@ -278,7 +278,8 @@
             "/FOTOS-NOVO/PLANTAS/planta2.jpeg"
         ],
         "sobre": {
-            "descricao": "O Condomínio está localizado na Av. Recreio, 361 no bairro Lagoa Redonda, Fortaleza/Ce , a 6 minutos do Shopping Iguatemi, próximo de supermercados, farmácias, escolas, a 3 minutos da Av. Washington Soares, e a 5 minutos do Beach Park da Praia do Porto das Dunas."
+            "descricao": "O Condomínio está localizado na Av. Recreio, 361 no bairro Lagoa Redonda, Fortaleza/Ce , a 6 minutos do Shopping Iguatemi, próximo de supermercados, farmácias, escolas, a 3 minutos da Av. Washington Soares, e a 5 minutos do Beach Park da Praia do Porto das Dunas.",
+            "setor": "Incorporações"
         },
         "localizacao": {
             "descricao": "O condomínio está localizado na Avenida Recreio, 361, no bairro Lagoa Redonda, Fortaleza, em uma área estratégica, próximo a vários supermercados, farmácias e escolas, a apenas 3 minutos da avenida Washington Soares, a 6 minutos do Shopping Iguatemi e a 5 minutos do Beach Park e da Praia do Porto das Dunas.",

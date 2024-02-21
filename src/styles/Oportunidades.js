@@ -88,7 +88,7 @@ export const OportunidadesContainer = styled.section`
         filter: brightness(0.7);
     }
 
-    .swiper-slide p {
+    .swiper-slide a {
         position: absolute;
         bottom: 0;
         margin-bottom: 50px;

@@ -26,8 +26,8 @@ export const FooterContainer = styled.div`
     }
 
     img {
-        width: 100%;
-        height: 200px;
+        width: 60%;
+        height: auto;
 
         align-self: center;
     }

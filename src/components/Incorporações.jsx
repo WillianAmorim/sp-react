@@ -50,7 +50,7 @@ const Incorporacoes = () => {
                         filteredIncorporacao.map((item) => (
                             <SwiperSlide key={item.id}>
                                 <img src={item.imgPrincipal} alt="" />
-                                <p>{item.name}</p>
+                                <Link to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-")}`}>{item.name}</Link>
                             </SwiperSlide>
                         ))
                         
