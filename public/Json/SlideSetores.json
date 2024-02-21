@@ -20,15 +20,15 @@
         "id": 2,
         "setorName": "comercial",
         "arrayImg": [
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/2.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/3.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/4.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/5.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/6.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/7.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/8.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/9.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/10.png"
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/2.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/3.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/4.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/5.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/6.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/7.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/8.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/9.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/10.png"
             
         ]
     },
@@ -97,8 +97,8 @@
         "id": 8,
         "setorName": "corporativo",
         "arrayImg": [
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Corporativo/11.png",
-            "../FOTOS-NOVO/Slide - LOCACAO/Slide - Corporativo/12.png"
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Corporativo/11.png",
+            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Corporativo/12.png"
            
         ]
     },

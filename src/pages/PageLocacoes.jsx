@@ -8,14 +8,14 @@ import dataSlide from '../../public/Json/SlideSetores.json'
 
 const PageLocacoes = () => {
 
-    const [filterSlide] = dataSlide.filter((objSlide) => objSlide.setorName === 'locacoes')
-
+  const [filterSlide] = dataSlide.filter((objSlide) => objSlide.setorName === 'locacoes')
+  console.log(filterSlide)
   return (
     <div>
-        <Header />
-        <SlideSetor slide={filterSlide.arrayImg} />
-        <Locacoes />
-        <Footer />
+      <Header />
+      <SlideSetor slide={filterSlide.arrayImg} />
+      <Locacoes />
+      <Footer />
     </div>
   )
 }

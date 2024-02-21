@@ -10,8 +10,6 @@ import { EmailShareButton, EmailIcon, FacebookShareButton, FacebookIcon, Whatsap
 const CarroselEmpreendimento = ({ images }) => {
     const [thumbsSwiper, setThumbsSwiper] = useState(null);
 
-    console.log(images[0])
-
     const shareUrl = window.location.href;
     const title = document.title;
 
