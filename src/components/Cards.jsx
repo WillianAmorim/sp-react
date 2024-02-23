@@ -21,17 +21,17 @@ const Cards = ({ arrayCards }) => {
               <p>Península | São Luís-MA</p>
 
               <div className='section-details-mobile'>
-                <p><SlSizeFullscreen size={15} />65 a 131 m²</p>
+                {/* <p><SlSizeFullscreen size={15} />65 a 131 m²</p>
                 <p><FaBed size={15} color='white' />3 a 4 dorm.</p>
                 <p><GiShower size={15} />1 a 4 suítes</p>
-                <p><IoCarSharp size={15} />1 a 2 vagas</p>
+                <p><IoCarSharp size={15} />1 a 2 vagas</p> */}
               </div>
             </div>
             <section className='section-details-web'>
-              <div><SlSizeFullscreen size={15} />65 a 131 m²</div>
+              {/* <div><SlSizeFullscreen size={15} />65 a 131 m²</div>
               <div><FaBed size={15} color='white' />3 a 4 dorm.</div>
               <div><GiShower size={15} />1 a 4 suítes</div>
-              <div><IoCarSharp size={15} />1 a 2 vagas</div>
+              <div><IoCarSharp size={15} />1 a 2 vagas</div> */}
             </section>
             <a id='lancamento-web' href="">Lançamento</a>
             <Link id='link-img' to={card.name.toLowerCase().replace(/ /g, "-")}><img src={card.imgPrincipal} alt="" /></Link>
