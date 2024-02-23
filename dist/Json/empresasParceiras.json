@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Ceuma",
+        "src": "/Parceiros/ceuma.png"
+    },
+    {
+        "id": 2,
+        "name": "Drogasil",
+        "src": "/Parceiros/drogasil.png"
+    },
+    {
+        "id": 3,
+        "name": "Easy",
+        "src": "/Parceiros/easy.png"
+    },
+    {
+        "id": 4,
+        "name": "Mateus",
+        "src": "/Parceiros/mateus.png"
+    },
+    {
+        "id": 5,
+        "name": "Rio Anil",
+        "src": "/Parceiros/rio anil.png"
+    }
+]
