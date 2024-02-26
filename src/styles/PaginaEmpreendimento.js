@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const H1Container = styled.h1`
     /* background-color: #676767; */
-    background-color: #A78534;
+    background-color: black;
+    /* background-color: #A78534; */
     /* background-color: #121D40; */
     width: 100%;
     height: 50px;
