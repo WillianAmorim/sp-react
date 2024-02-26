@@ -34,16 +34,16 @@ const Cards = ({ arrayCards }) => {
               <div><IoCarSharp size={15} />1 a 2 vagas</div> */}
             </section>
             <a id='lancamento-web' href="">Lançamento</a>
-            <Link id='link-img' to={card.name.toLowerCase().replace(/ /g, "-")}><img src={card.imgPrincipal} alt="" /></Link>
+            <Link id='link-img' to={card.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}><img src={card.imgPrincipal} alt="" /></Link>
 
             <div className='div-details-web'>
               <div>
                 <h2>{card.name}</h2>
                 <p>Península | São Luís-MA</p>
               </div>
-              <Link to={card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
+              <Link to={card.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
             </div>
-            <Link to={card.name.toLowerCase().replace(/ /g, "-")} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
+            <Link to={card.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")} id='conhecer-imovel-mobile' href="">CONHECER IMÓVEL</Link>
           </div>
         ))}
       </section>

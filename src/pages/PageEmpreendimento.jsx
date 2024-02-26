@@ -17,7 +17,7 @@ const PageEmpreendimento = () => {
 
     const { pagEmpreendimento } = useParams();
 
-    const [filterCard] = data.filter((empreendimento) => empreendimento.name.toLowerCase().replace(/ /g, "-") === pagEmpreendimento)
+    const [filterCard] = data.filter((empreendimento) => empreendimento.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "") === pagEmpreendimento)
     console.log(filterCard)
     
 
