@@ -112,6 +112,7 @@ export const InputNavbar = styled.div`
         height: 50px;
 
         border-radius: 10px;
+        padding-left: 5px;
     }
 
     .ul-filter {
