@@ -23,6 +23,10 @@ const Navbar = () => {
       item.name.toLowerCase().startsWith(filterText)
   );
 
+  const cleanInput = ()  => {
+    setFilterText('')
+  }
+
 
   const handleIconClick = () => {
     setSidebarVisible(!isSidebarVisible);
@@ -44,7 +48,7 @@ const Navbar = () => {
           />
           <ul className='ul-filter' style={{ display: filterText && filteredItems.length > 0 ? 'block' : 'none' }}>
             {filteredItems.slice(0, 5).map((item) => (
-              <Link to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}><li key={item.id}>{item.name}</li></Link>
+              <Link onClick={cleanInput} to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}><li key={item.id}>{item.name}</li></Link>
             ))}
           </ul>
         </InputNavbar>

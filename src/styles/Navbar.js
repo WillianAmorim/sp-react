@@ -110,6 +110,8 @@ export const InputNavbar = styled.div`
     input {
         width: 200px;
         height: 50px;
+
+        border-radius: 10px;
     }
 
     .ul-filter {
@@ -133,6 +135,10 @@ export const InputNavbar = styled.div`
             font-size: 16px;
 
             color: black;
+        }
+
+        li:active {
+            border: none;
         }
     }
 `
