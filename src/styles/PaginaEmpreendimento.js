@@ -17,6 +17,23 @@ export const H1Container = styled.h1`
     font-size: 25px;
 `
 
+export const FormContainer = styled.h1`
+    /* background-color: #676767; */
+    /* background-color: black; */
+    background-color: #A78534;
+    /* background-color: #121D40; */
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
+    color: white;
+    padding-left: 15px;
+
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+`
+
 export const DivElements = styled.div`
     display: flex;
     flex-direction: column;

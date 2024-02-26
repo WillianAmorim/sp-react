@@ -1,12 +1,12 @@
 import React from 'react';
 import { ContatoContainer } from '../styles/FormCadastro';
-import { H1Container, Paragraph } from '../styles/PaginaEmpreendimento';
+import { H1Container, Paragraph, FormContainer } from '../styles/PaginaEmpreendimento';
 
 const FormCadastro = () => {
     return (
         <>
             <ContatoContainer>
-                <H1Container>Contato</H1Container>
+                <FormContainer>Contato</FormContainer>
                 <div className='div-contato'>
 
                     <div className='div-p'>
