@@ -9,6 +9,8 @@ export const HeaderContainer = styled.div`
         a {
             text-decoration: none;
             color: inherit;
+
+            /* background-color: red; */
         }
 
         .img-header {
@@ -20,13 +22,13 @@ export const HeaderContainer = styled.div`
             width: 100%;
             position: absolute;
             z-index: 999;
-            padding: 40px 15px;
+            padding: 40px 5px;
             background-color: rgba(0,0,0,0.3);
             color: white;
 
             display: flex;
             align-items: center;
-            justify-content: center;
+            justify-content: space-around;
             position: fixed;
         }
 
@@ -39,6 +41,8 @@ export const HeaderContainer = styled.div`
             font-family: 'Inter', sans-serif;
             font-weight: 400;
             font-size: 16px;
+
+            margin-left: 300px;
         }
 
         .ul-header li a{
@@ -130,6 +134,39 @@ export const HeaderContainer = styled.div`
         .hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
             left: 0;
             right: 0;
+        }
+
+        .input-header {
+            width: 200px;
+            height: 40px;
+            border-radius: 5px;
+            border: none;
+            padding-left: 10px;
+        }
+
+        .ul-filter {
+            position: absolute;
+            list-style: none;
+
+            background-color: white;
+            color: black;
+            margin-top: 10px;
+            width: 200px;
+
+            li {
+                border: 1px solid black;
+                padding: 15px 0px;
+                padding-left: 5px;
+
+                font-family: 'Inter', sans-serif;
+                font-weight: 400;
+                font-size: 16px;
+            }
+
+            li:hover {
+                background-color: black;
+                color: white;
+            }
         }
     }
     

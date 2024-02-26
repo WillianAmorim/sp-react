@@ -1,14 +1,28 @@
 import React, { useState } from 'react'
-import { IconNavbarOpen, NavbarContainer, Sidebar, IconNavbarClose, ContainerNav } from '../styles/Navbar'
+import { IconNavbarOpen, NavbarContainer, Sidebar, IconNavbarClose, ContainerNav, InputNavbar } from '../styles/Navbar'
 import LogoNavbar from '../../public/FOTOS-NOVO/sao paulo.png'
 import LogoNavbarBlack from '../../public/FOTOS-NOVO/logo-nome-sp.png'
 import { RiArrowDownSLine } from "react-icons/ri";
 import { Link } from 'react-router-dom';
 
+import data from '../../public/Json/JsonEmpreendimentos.json'
+
 const Navbar = () => {
   const [isSidebarVisible, setSidebarVisible] = useState(false);
   const [areaAtuacaoVisible, setAreaAtuacaoVisible] = useState(false);
   const [locacaoVisible, setLocacaoVisible] = useState(false);
+
+  const [filterText, setFilterText] = useState('');
+
+  const handleInputChange = (event) => {
+      const searchText = event.target.value.toLowerCase();
+      setFilterText(searchText);
+  };
+
+  const filteredItems = data.filter((item) =>
+      item.name.toLowerCase().startsWith(filterText)
+  );
+
 
   const handleIconClick = () => {
     setSidebarVisible(!isSidebarVisible);
@@ -19,7 +33,22 @@ const Navbar = () => {
   return (
     <ContainerNav>
       <NavbarContainer>
-        <Link to={'/'}><img src={LogoNavbar} alt="" /></Link>
+        <h1>Foto</h1>
+        <InputNavbar>
+          <input
+            placeholder="Digite aqui"
+            className="input-header"
+            type="text"
+            value={filterText}
+            onChange={handleInputChange}
+          />
+          <ul className='ul-filter' style={{ display: filterText && filteredItems.length > 0 ? 'block' : 'none' }}>
+            {filteredItems.slice(0, 5).map((item) => (
+              <Link to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}><li key={item.id}>{item.name}</li></Link>
+            ))}
+          </ul>
+        </InputNavbar>
+        {/* <Link to={'/'}><img src={LogoNavbar} alt="" /></Link> */}
         <IconNavbarOpen onClick={handleIconClick} />
       </NavbarContainer>
 

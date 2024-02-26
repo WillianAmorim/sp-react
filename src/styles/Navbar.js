@@ -19,6 +19,7 @@ export const NavbarContainer = styled.header`
     justify-content: space-between;
     z-index: 99;
     padding-right: 10px;
+    padding-left: 10px;
 `
 
 export const IconNavbarOpen = styled(FiAlignJustify)`
@@ -99,5 +100,40 @@ export const Sidebar = styled.div`
 
 export const IconNavbarClose = styled(AiOutlineClose)`
     font-size: 30px;
+`
+
+export const InputNavbar = styled.div`
+    a {
+        text-decoration: none;
+    }
+
+    input {
+        width: 200px;
+        height: 50px;
+    }
+
+    .ul-filter {
+        position: absolute;
+        list-style: none;
+        left: 0;
+
+        background-color: white;
+        color: black;
+        margin-top: 10px;
+        width: 100vw;
+        text-align: center;
+
+        li {
+            border: 1px solid black;
+            padding: 15px 0px;
+            padding-left: 5px;
+
+            font-family: 'Inter', sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+
+            color: black;
+        }
+    }
 `
 

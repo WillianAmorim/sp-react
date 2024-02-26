@@ -5,9 +5,26 @@ import LogoHeader from '../../public/FOTOS-NOVO/sao paulo.png';
 import { Link } from 'react-router-dom'
 import { RiArrowDownSLine } from "react-icons/ri";
 
+import data from '../../public/Json/JsonEmpreendimentos.json'
+
 const Header = () => {
     const [isHoveredAt, setIsHoveredAt] = useState(false)
     const [isHoveredLoc, setIsHoveredLoc] = useState(false)
+
+    const [filterText, setFilterText] = useState('');
+
+    const handleInputChange = (event) => {
+        const searchText = event.target.value.toLowerCase();
+        setFilterText(searchText);
+    };
+
+    const filteredItems = data.filter((item) =>
+        item.name.toLowerCase().startsWith(filterText)
+    );
+
+
+
+
 
     return (
         <HeaderContainer>
@@ -42,6 +59,20 @@ const Header = () => {
                     <p>|</p>
                     <li className='hvr-underline-from-center'><Link to={'/contato'}>Contato</Link></li>
                 </ul>
+                <div>
+                    <input
+                        placeholder="Digite aqui"
+                        className="input-header"
+                        type="text"
+                        value={filterText}
+                        onChange={handleInputChange}
+                    />
+                    <ul className='ul-filter' style={{ display: filterText && filteredItems.length > 0 ? 'block' : 'none' }}>
+                        {filteredItems.slice(0, 5).map((item) => (
+                            <Link to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}><li key={item.id}>{item.name}</li></Link>
+                        ))}
+                    </ul>
+                </div>
             </header>
         </HeaderContainer>
     );
