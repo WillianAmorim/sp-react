@@ -5,6 +5,8 @@ import LogoNavbarBlack from '../../public/FOTOS-NOVO/logo-nome-sp.png'
 import { RiArrowDownSLine } from "react-icons/ri";
 import { Link } from 'react-router-dom';
 
+// import { RiSearch2Line } from "react-icons/ri";
+
 import data from '../../public/Json/JsonEmpreendimentos.json'
 
 const Navbar = () => {
@@ -46,6 +48,7 @@ const Navbar = () => {
             value={filterText}
             onChange={handleInputChange}
           />
+          {/* <RiSearch2Line className="search-icon" /> */}
           <ul className='ul-filter' style={{ display: filterText && filteredItems.length > 0 ? 'block' : 'none' }}>
             {filteredItems.slice(0, 5).map((item) => (
               <Link onClick={cleanInput} to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}><li key={item.id}>{item.name}</li></Link>

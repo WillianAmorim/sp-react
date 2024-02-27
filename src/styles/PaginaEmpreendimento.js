@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const H1Container = styled.h1`
     /* background-color: #676767; */
-    background-color: black;
+    /* background-color: black; */
     /* background-color: #A78534; */
     /* background-color: #121D40; */
     width: 100%;
@@ -10,7 +10,7 @@ export const H1Container = styled.h1`
     display: flex;
     align-items: center;
     clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
-    color: white;
+    color: black;
     padding-left: 15px;
 
     font-family: 'Inter', sans-serif;
