@@ -41,7 +41,7 @@ const Navbar = () => {
   return (
     <ContainerNav>
       <NavbarContainer>
-        <img className='logo-sp-mobile' src={LogoSp} alt="" />
+        <Link to={'/'}><img className='logo-sp-mobile' src={LogoSp} alt="" /></Link>
         <InputNavbar>
           <CiSearch color='black'/>
           <input
