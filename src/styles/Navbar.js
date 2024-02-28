@@ -20,6 +20,10 @@ export const NavbarContainer = styled.header`
     z-index: 99;
     padding-right: 10px;
     padding-left: 10px;
+
+    .logo-sp-mobile {
+        width: 60px;
+    }
 `
 
 export const IconNavbarOpen = styled(FiAlignJustify)`

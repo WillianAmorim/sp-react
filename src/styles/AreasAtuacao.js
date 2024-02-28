@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const AreasAtuacaoContainer = styled.section`
+    
     padding: 50px 25px;
 
     display: flex;

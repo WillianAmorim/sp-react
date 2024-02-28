@@ -1,9 +1,10 @@
 import React, { useState } from 'react'
 import { IconNavbarOpen, NavbarContainer, Sidebar, IconNavbarClose, ContainerNav, InputNavbar } from '../styles/Navbar'
-import LogoNavbar from '../../public/FOTOS-NOVO/sao paulo.png'
+// import LogoNavbar from '../../public/FOTOS-NOVO/sao paulo.png'
 import LogoNavbarBlack from '../../public/FOTOS-NOVO/logo-nome-sp.png'
 import { RiArrowDownSLine } from "react-icons/ri";
 import { Link } from 'react-router-dom';
+import LogoSp from '../../public/FOTOS-NOVO/logo-sp-mobile.png'
 
 // import { RiSearch2Line } from "react-icons/ri";
 
@@ -39,7 +40,7 @@ const Navbar = () => {
   return (
     <ContainerNav>
       <NavbarContainer>
-        <h1>Foto</h1>
+        <img className='logo-sp-mobile' src={LogoSp} alt="" />
         <InputNavbar>
           <input
             placeholder="Digite aqui"
