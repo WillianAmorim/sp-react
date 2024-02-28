@@ -116,6 +116,9 @@ export const InputNavbar = styled.div`
     border-radius: 5px;
     padding-left: 10px;
 
+    display: flex;
+    align-items: center;
+
     .input-header {
         width: 200px;
         height: 50px;
