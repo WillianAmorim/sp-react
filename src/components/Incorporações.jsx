@@ -32,7 +32,7 @@ const Incorporacoes = () => {
                         delay: 0,
                     }}
                     loop={true}
-                    speed={2000}
+                    speed={2200}
                     className="mySwiper"
                     breakpoints={{
                         320: {

@@ -33,7 +33,7 @@ const Oportunidades = () => {
                         delay: 0,
                     }}
                     loop={true}
-                    speed={2000}
+                    speed={1800}
                     className="mySwiper"
                     breakpoints={{
                         320: {

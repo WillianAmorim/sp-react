@@ -10,6 +10,7 @@ import Footer from '../components/Footer'
 import Termos from '../components/Termos'
 import Navbar from '../components/Navbar'
 import Whatsapp from '../components/Whatsapp'
+import AreasAtuacaoMobile from '../components/AreasAtuacaoMobile'
 
 const Home = () => {
     return (
@@ -21,6 +22,7 @@ const Home = () => {
             <QuemSomos />
             <Oportunidades />
             <AreasAtuacao />
+            <AreasAtuacaoMobile />
             <Incorporacao />
             <EmpresasParceiras />
             <Cadastro />

@@ -2,6 +2,10 @@ import React from 'react'
 import data from '../../public/Json/JsonEmpreendimentos.json'
 import Locacoes from '../../public/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg'
 import { Link } from "react-router-dom";
+import { AreasAtuacaoMobileContainer } from '../styles/AreasAtuacaoMobile';
+
+import { Swiper, SwiperSlide } from 'swiper/react'
+import { Navigation, Pagination, Autoplay } from 'swiper/modules'
 
 const AreasAtuacaoMobile = () => {
 
@@ -21,21 +25,47 @@ const AreasAtuacaoMobile = () => {
     let result = Object.values(firstObjects);
 
     return (
-        <>
+        <AreasAtuacaoMobileContainer>
             <h1>Áreas de atuação</h1>
-            <ul>
-                {result.map((empreendimento) => (
-                    <li key={empreendimento.id}>
-                        <Link className="hrv-rectangle-out" to={`/empreendimento/${empreendimento.category}`}>{empreendimento.sobre.setor}</Link>
-                        <img src={empreendimento.imgPrincipal} alt="" />
-                    </li>
-                ))}
-                <li>
-                    <Link className="hrv-rectangle-out" to={'/locacoes'}>Locações</Link>
-                    <img src={Locacoes} alt="" />
-                </li>
-            </ul>
-        </>
+            <div>
+                <Swiper
+                    modules={[Navigation, Pagination, Autoplay]}
+                    slidesPerView={5}
+                    centeredSlides={true}
+                    spaceBetween={20}
+                    grabCursor={true}
+                    autoplay={{
+                        delay: 0,
+                    }}
+                    loop={true}
+                    speed={2000}
+                    className="mySwiper"
+                    breakpoints={{
+                        320: {
+                            slidesPerView: 1,
+                        },
+                        768: {
+                            slidesPerView: 2,
+                        },
+                        1024: {
+                            slidesPerView: 5,
+                        },
+                    }}>
+
+
+                    {result.map((empreendimento) => (
+                        <SwiperSlide key={empreendimento.id}>
+                            <Link className="hrv-rectangle-out" to={`/empreendimento/${empreendimento.category}`}>{empreendimento.sobre.setor}</Link>
+                            <img src={empreendimento.imgPrincipal} alt="" />
+                        </SwiperSlide>
+                    ))}
+                    <SwiperSlide>
+                        <Link className="hrv-rectangle-out" to={'/locacoes'}>Locações</Link>
+                        <img src={Locacoes} alt="" />
+                    </SwiperSlide>
+                </Swiper>
+            </div>
+        </ AreasAtuacaoMobileContainer>
     )
 }
 
