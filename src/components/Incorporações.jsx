@@ -42,7 +42,7 @@ const Incorporacoes = () => {
                             slidesPerView: 1,
                         },
                         1024: {
-                            slidesPerView: 5,
+                            slidesPerView: 3,
                         },
                     }}
                 >
