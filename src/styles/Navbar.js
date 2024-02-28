@@ -112,18 +112,18 @@ export const InputNavbar = styled.div`
     }
 
     background-color: white;
-    height: 50px;
-    border-radius: 5px;
+    height: 40px;
+    border-radius: 15px;
     padding-left: 10px;
 
     display: flex;
     align-items: center;
 
     .input-header {
-        width: 200px;
-        height: 50px;
+        width: 160px;
+        height: 40px;
 
-        border-radius: 10px;
+        border-radius: 15px;
         padding-left: 5px;
         border: none;
     }

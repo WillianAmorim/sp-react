@@ -5,6 +5,7 @@ import Termos from '../components/Termos'
 import Navbar from '../components/Navbar'
 import FormContato from '../components/FormContato'
 import Whatsapp from '../components/Whatsapp'
+import BannerSp from '../components/BannerSp'
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <Whatsapp/>
             <Navbar />
             <Header />
+            <BannerSp/>
             <FormContato />
             {/* <Cadastro /> */}
             <Footer />

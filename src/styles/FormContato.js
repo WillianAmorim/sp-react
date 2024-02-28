@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const FormContatoContainer = styled.div`
     font-family: 'Nunito Sans', sans-serif;
-    padding: 100px 25px 0px 25px;
+    padding: 20px 25px 0px 25px;
     display: flex;
     flex-direction: column;
     gap: 30px;

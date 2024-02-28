@@ -45,7 +45,7 @@ const Navbar = () => {
         <InputNavbar>
           <CiSearch color='black'/>
           <input
-            placeholder="Digite aqui"
+            placeholder="Pesquise aqui"
             className="input-header"
             type="text"
             value={filterText}
