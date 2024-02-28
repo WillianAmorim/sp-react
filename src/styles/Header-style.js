@@ -136,22 +136,31 @@ export const HeaderContainer = styled.div`
             right: 0;
         }
 
-        .input-header {
-            width: 200px;
-            height: 40px;
-            border-radius: 5px;
-            border: none;
-            padding-left: 10px;
-        }
-
-        .ul-filter {
-            position: absolute;
-            list-style: none;
-
+        .div-input {
             background-color: white;
-            color: black;
-            margin-top: 10px;
-            width: 200px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            padding-left: 10px;
+            position: relative;
+
+            .input-header {
+                width: 200px;
+                height: 40px;
+                border-radius: 5px;
+                border: none;
+                padding-left: 10px;
+            }
+
+            .ul-filter {
+                position: absolute;
+                list-style: none;
+
+                background-color: white;
+                color: black;
+                margin-top: 10px;
+                width: 210px;
+                top: 40px;
 
             li {
                 border: 1px solid black;
@@ -168,6 +177,15 @@ export const HeaderContainer = styled.div`
                 color: white;
             }
         }
+        }
+
+        
+
+        .input-header:focus {
+            outline: none;
+        }
+
+        
     }
     
 `

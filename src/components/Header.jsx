@@ -4,6 +4,7 @@ import LogoHeader from '../../public/FOTOS-NOVO/sao paulo.png';
 
 import { Link } from 'react-router-dom'
 import { RiArrowDownSLine } from "react-icons/ri";
+import { CiSearch } from "react-icons/ci";
 
 import data from '../../public/Json/JsonEmpreendimentos.json'
 
@@ -59,9 +60,10 @@ const Header = () => {
                     <p>|</p>
                     <li className='hvr-underline-from-center'><Link to={'/contato'}>Contato</Link></li>
                 </ul>
-                <div>
+                <div className='div-input'>
+                    <CiSearch color='black'/>
                     <input
-                        placeholder="Digite aqui"
+                        placeholder="Pesquise aqui"
                         className="input-header"
                         type="text"
                         value={filterText}

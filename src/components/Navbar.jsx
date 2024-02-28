@@ -3,6 +3,7 @@ import { IconNavbarOpen, NavbarContainer, Sidebar, IconNavbarClose, ContainerNav
 // import LogoNavbar from '../../public/FOTOS-NOVO/sao paulo.png'
 import LogoNavbarBlack from '../../public/FOTOS-NOVO/logo-nome-sp.png'
 import { RiArrowDownSLine } from "react-icons/ri";
+import { CiSearch } from "react-icons/ci";
 import { Link } from 'react-router-dom';
 import LogoSp from '../../public/FOTOS-NOVO/logo-sp-mobile.png'
 
@@ -42,6 +43,7 @@ const Navbar = () => {
       <NavbarContainer>
         <img className='logo-sp-mobile' src={LogoSp} alt="" />
         <InputNavbar>
+          <CiSearch color='black'/>
           <input
             placeholder="Digite aqui"
             className="input-header"

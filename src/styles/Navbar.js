@@ -111,12 +111,22 @@ export const InputNavbar = styled.div`
         text-decoration: none;
     }
 
-    input {
+    background-color: white;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 10px;
+
+    .input-header {
         width: 200px;
         height: 50px;
 
         border-radius: 10px;
         padding-left: 5px;
+        border: none;
+    }
+
+    .input-header:focus {
+        outline: none;
     }
 
     .ul-filter {
