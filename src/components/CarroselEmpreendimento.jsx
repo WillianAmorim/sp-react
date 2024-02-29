@@ -31,10 +31,15 @@ const CarroselEmpreendimento = ({ images }) => {
             </DivAbsolute>
 
             <Swiper
-                loop={true}
                 thumbs={{ swiper: thumbsSwiper }}
                 modules={[Thumbs, Navigation]}
                 className="mySwiper"
+                loop={true}
+                speed={500}
+                autoplay={{
+                    delay: 2500,
+                    disableOnInteraction: false,
+                }}
             >
                 {images.map((image, index) => (
                     <SwiperSlide key={index}>
