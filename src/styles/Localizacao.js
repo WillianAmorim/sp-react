@@ -15,10 +15,12 @@ export const LocalizacaoContainer = styled.div`
     }
 
     @media only screen and (min-width: 767px) {
+        /* background-color: red; */
         .div-elements {
+            /* background-color: blue; */
             flex-direction: row;
             align-items: center;
-            justify-content: space-around;
+            justify-content: space-between;
         }
 
         .div-textos {

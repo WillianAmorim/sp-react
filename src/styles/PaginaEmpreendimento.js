@@ -5,13 +5,13 @@ export const H1Container = styled.h1`
     /* background-color: black; */
     /* background-color: #A78534; */
     /* background-color: #121D40; */
-    width: 100%;
-    height: 50px;
+    /* width: 100%; */
+    /* height: 50px; */
     display: flex;
-    align-items: center;
-    clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%);
+    /* align-items: center; */
+    /* clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%); */
     color: black;
-    padding-left: 15px;
+    /* padding-left: 15px; */
 
     font-family: 'Inter', sans-serif;
     font-size: 25px;

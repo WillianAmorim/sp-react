@@ -2,9 +2,10 @@ import { H1Container, DivElements, HrMenor, HrMaior, Paragraph } from "../styles
 const Sobre = ({sobre}) => {
     return (
         <div data-aos="fade-right" data-aos-duration="1500">
-            <H1Container>Sobre</H1Container>
             <DivElements className="div-elements">
+            
                 <div className="div-apresentacao">
+                    <H1Container>Sobre</H1Container>
                     <HrMenor id="hr-menor" />
                     <Paragraph>{sobre.descricao}</Paragraph>
                 </div>
