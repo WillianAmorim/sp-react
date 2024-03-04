@@ -22,6 +22,7 @@ const Footer = () => {
                     <li className='hover-black'><Link to={'/regiao/maranhao'}>Maranhão</Link></li>
                     <li className='hover-black'><Link to={'/regiao/para'}>Pará</Link></li>
                     <li className='hover-black'><Link to={'/regiao/brasilia'}>Brasília</Link></li>
+                    <li className='hover-black'><Link to={'/regiao/ceara'}>Ceará</Link></li>
                     <li className='hover-black'><Link to={'/contato'}>Fale Conosco</Link></li>
                     {/* <li className='hover-black'>Parcerias</li> */}
                 </ul>
