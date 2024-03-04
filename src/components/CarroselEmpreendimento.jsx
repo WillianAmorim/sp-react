@@ -5,7 +5,9 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Thumbs, Navigation } from 'swiper/modules';
 import 'swiper/swiper-bundle.css';
 
-import { EmailShareButton, EmailIcon, FacebookShareButton, FacebookIcon, WhatsappShareButton, WhatsappIcon, LinkedinShareButton, LinkedinIcon } from 'react-share';
+import { MdEmail } from "react-icons/md";
+
+import { EmailShareButton, EmailIcon, WhatsappShareButton, WhatsappIcon, LinkedinShareButton, LinkedinIcon } from 'react-share';
 
 const CarroselEmpreendimento = ({ images }) => {
     const [thumbsSwiper, setThumbsSwiper] = useState(null);
@@ -18,7 +20,7 @@ const CarroselEmpreendimento = ({ images }) => {
     const toggleVisibility = () => {
         setIsVisibleLinks(!isVisibleLinks); // Inverte o estado de visibilidade
         setIsVisibleButton(!isVisibleButton)
-      };
+    };
 
     return (
         <div style={{ marginBottom: '10px' }}>
@@ -29,7 +31,7 @@ const CarroselEmpreendimento = ({ images }) => {
                         <WhatsappIcon size={32} round />
                     </WhatsappShareButton>
                     <EmailShareButton url={shareUrl} subject={title}>
-                        <EmailIcon size={32} round />
+                        <MdEmail className='icon-email' size={32} round style={{ color: 'rgb(255, 255, 255)' }} />
                     </EmailShareButton>
                     <LinkedinShareButton url={shareUrl} title={title}>
                         <LinkedinIcon size={32} round />

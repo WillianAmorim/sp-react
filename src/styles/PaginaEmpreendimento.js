@@ -133,6 +133,12 @@ export const DivAbsolute = styled.div`
         gap: 10px;  
     }
 
+    .icon-email {
+        padding: 5px;
+        background-color: red;
+        border-radius: 25px;
+    }
+
     @media only screen and (min-width: 767px) {
         top: 70vh;
         right: 50px;
