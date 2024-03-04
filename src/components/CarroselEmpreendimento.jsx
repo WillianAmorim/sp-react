@@ -9,15 +9,22 @@ import { EmailShareButton, EmailIcon, FacebookShareButton, FacebookIcon, Whatsap
 
 const CarroselEmpreendimento = ({ images }) => {
     const [thumbsSwiper, setThumbsSwiper] = useState(null);
+    const [isVisibleLinks, setIsVisibleLinks] = useState(false);
+    const [isVisibleButton, setIsVisibleButton] = useState(true);
 
     const shareUrl = window.location.href;
     const title = document.title;
 
+    const toggleVisibility = () => {
+        setIsVisibleLinks(!isVisibleLinks); // Inverte o estado de visibilidade
+        setIsVisibleButton(!isVisibleButton)
+      };
+
     return (
         <div style={{ marginBottom: '10px' }}>
             <DivAbsolute>
-
-                <div className='links-share'>
+                <div className='button-compartilhar' onClick={toggleVisibility} id={isVisibleButton ? 'visible' : 'invisible'}>Compartilhar</div>
+                <div id={isVisibleLinks ? 'visible' : 'invisible'} className='links-share'>
                     <WhatsappShareButton url={shareUrl} title={title}>
                         <WhatsappIcon size={32} round />
                     </WhatsappShareButton>

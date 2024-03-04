@@ -110,27 +110,27 @@ export const DivAbsolute = styled.div`
     right: 25px;
     top: 40vh;
 
+    .button-compartilhar {
+        color: black;
+        background-color: white;
+        padding: 10px 15px;
+        border-radius: 15px;
+        font-size: 15px;
+
+        cursor: pointer;
+    }
+
+    #visible {
+        display: flex; /* Elemento visível */
+    }
+
+    #invisible {
+        display: none; /* Elemento invisível */
+    }
+
     .links-share {
         display: flex;
-        gap: 10px;
-    }
-
-    .fade-enter {
-        opacity: 0;
-    }
-
-    .fade-enter-active {
-        opacity: 1;
-        transition: opacity 2000ms;
-    }
-
-    .fade-exit {
-        opacity: 1;
-    }
-
-    .fade-exit-active {
-        opacity: 0;
-        transition: opacity 2000ms;
+        gap: 10px;  
     }
 
     @media only screen and (min-width: 767px) {
