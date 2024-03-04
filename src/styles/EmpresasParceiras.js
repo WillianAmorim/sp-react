@@ -42,6 +42,12 @@ export const EmpresasParceirasContainer = styled.section`
         font-weight: 400;
     }
 
+    .swiper-slide {
+        height: 200px;
+        display: flex;
+        align-items: center;
+    }
+
     .swiper-slide img {
         width: 300px;
     }

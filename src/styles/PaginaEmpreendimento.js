@@ -12,9 +12,12 @@ export const H1Container = styled.h1`
     /* clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%); */
     color: black;
     /* padding-left: 15px; */
+    max-width: min-content;
 
     font-family: 'Inter', sans-serif;
     font-size: 25px;
+    border-bottom: 5px solid black;
+    border-radius: 3px;
 `
 
 export const FormContainer = styled.h1`
@@ -46,14 +49,6 @@ export const DivElements = styled.div`
     }
 `
 
-export const HrMenor = styled.hr`
-    width: 70px;
-    height: 7px;
-    background-color: black;
-    border-radius: 5px;
-    margin-bottom: 10px;
-`
-
 export const HrMaior = styled.hr`
     height: 5px;
     background-color: black;
@@ -63,6 +58,7 @@ export const HrMaior = styled.hr`
 export const Paragraph = styled.p`
     font-family: 'Inter', sans-serif;
     font-size: 15px;
+    margin-top: 10px;
 `
 
 export const DivPlanta = styled.div`

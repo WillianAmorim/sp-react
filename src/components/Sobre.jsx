@@ -1,4 +1,4 @@
-import { H1Container, DivElements, HrMenor, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
+import { H1Container, DivElements, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
 const Sobre = ({sobre}) => {
     return (
         <div data-aos="fade-right" data-aos-duration="1500">
@@ -6,7 +6,6 @@ const Sobre = ({sobre}) => {
             
                 <div className="div-apresentacao">
                     <H1Container>Sobre</H1Container>
-                    <HrMenor id="hr-menor" />
                     <Paragraph>{sobre.descricao}</Paragraph>
                 </div>
 

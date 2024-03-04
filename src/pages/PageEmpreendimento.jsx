@@ -1,3 +1,6 @@
+import React, { useState, useEffect } from 'react';
+import { useTimeout } from 'react-use'; // Importe o hook useTimeout
+
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
@@ -18,8 +21,13 @@ const PageEmpreendimento = () => {
     const { pagEmpreendimento } = useParams();
 
     const [filterCard] = data.filter((empreendimento) => empreendimento.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "") === pagEmpreendimento)
-    console.log(filterCard)
-    
+    console.log(filterCard)   
+
+    const [pageLoaded, setPageLoaded] = useState(false);
+
+    useTimeout(() => {
+        setPageLoaded(true);
+    }, 15000); // Tempo de simulação: 15 segundos
 
     return (
         <>  

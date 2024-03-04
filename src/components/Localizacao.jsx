@@ -1,4 +1,4 @@
-import { H1Container, Paragraph, HrMenor, HrMaior } from "../styles/PaginaEmpreendimento";
+import { H1Container, Paragraph, HrMaior } from "../styles/PaginaEmpreendimento";
 import { LocalizacaoContainer } from "../styles/Localizacao";
 
 const Localizacao = ({localizacao}) => {
@@ -9,7 +9,6 @@ const Localizacao = ({localizacao}) => {
                 <div className='div-textos'>
                     <H1Container>Localização</H1Container>
                     <div className="div-apresentacao">
-                        <HrMenor id="hr-menor" />
                     <Paragraph>{localizacao.descricao}</Paragraph>
                     </div>
 
