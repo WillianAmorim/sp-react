@@ -32,6 +32,20 @@ const CarroselHome = () => {
       >
         <SwiperSlide>
           <div className='div-absolute'>
+            <h1>Medical Center</h1>
+            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+            <ul>
+              <li className="li-swiper-container1"><BsBuilding />15 andares</li>
+              <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
+              <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
+            </ul>
+            <Link to={'/empreendimento/bts/ioa'}>Conheça o imóvel</Link>
+          </div>
+          <img className='slide-item' src={Medical} alt="" />
+
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className='div-absolute'>
             <h1>Easy Renascença</h1>
             <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
             <ul>
@@ -70,21 +84,6 @@ const CarroselHome = () => {
             <Link to={'/empreendimento/bts/ioa'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={IOA} alt="" />
-
-        </SwiperSlide>
-
-        <SwiperSlide>
-          <div className='div-absolute'>
-            <h1>IOA</h1>
-            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
-            <ul>
-              <li className="li-swiper-container1"><BsBuilding />15 andares</li>
-              <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
-              <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
-            </ul>
-            <Link to={'/empreendimento/bts/ioa'}>Conheça o imóvel</Link>
-          </div>
-          <img className='slide-item' src={Medical} alt="" />
 
         </SwiperSlide>
       </Swiper>
