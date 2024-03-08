@@ -11,7 +11,8 @@ import CarroselEmpreendimento from '../components/CarroselEmpreendimento';
 import Navbar from '../components/Navbar';
 import data from '../../public/Json/JsonEmpreendimentos.json';
 import Whatsapp from '../components/Whatsapp';
-import Cadastro from '../components/Cadastro';
+// import Cadastro from '../components/Cadastro';
+import LoadingAnimation from '../components/LoadingAnimation';
 
 import { useParams } from 'react-router-dom';
 
@@ -46,7 +47,7 @@ const PageEmpreendimento = () => {
 
     if (!filterCard) {
         // Se as imagens ainda estiverem sendo carregadas, pode-se exibir uma mensagem de carregamento ou um indicador de progresso
-        return <div>Loading...</div>;
+        return <LoadingAnimation/>;
     }
 
     return (
