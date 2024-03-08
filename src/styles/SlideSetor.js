@@ -4,8 +4,6 @@ export const SlideSetorContainer = styled.div`
     img {
         width: 100vw;
         height: 50vh;
-
-        object-fit: scale-down;
     }
 
     .swiper-button-next,
