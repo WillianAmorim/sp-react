@@ -3,32 +3,14 @@
         "id": 1,
         "setorName": "bts",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/1.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/2.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/3.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/4.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/5.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/6.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/7.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/8.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/9.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/10.png",
-            "/FOTOS-NOVO/Slide - BULT TO SUIT/11.png"
+            "/FOTOS-NOVO-GUI/Slide - BULT TO SUIT/bts.jpeg"
         ]
     },
     {
         "id": 2,
         "setorName": "comercial",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/2.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/3.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/4.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/5.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/6.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/7.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/8.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/9.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Comercial/10.png"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Comercial/locacaoComercial.jpeg"
             
         ]
     },
@@ -36,81 +18,60 @@
         "id": 3,
         "setorName": "galpao-logistico",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Galpao-Logistico/1.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Galpao-Logistico/2.png"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Galpao-Logistico/galpaoLogistico.jpeg"
         ]
     },
     {
         "id": 4,
         "setorName": "residencial",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/1.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/2.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/3.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/4.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/5.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/6.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/7.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Residencial/8.png"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Residencial/locacaoResidencial.jpeg"
         ]
     },
     {
         "id": 5,
         "setorName": "shopping-centers",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - Shoppings centers/1.png",
-            "/FOTOS-NOVO/Slide - Shoppings centers/2.png"
+            "/FOTOS-NOVO-GUI/Slide - Shoppings centers/shoppingCenter.jpeg"
         ]
     },
     {
         "id": 6,
         "setorName": "strip-malls",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - strip malls/1.png",
-            "/FOTOS-NOVO/Slide - strip malls/2.png",
-            "/FOTOS-NOVO/Slide - strip malls/3.png"
+            "/FOTOS-NOVO-GUI/Slide - strip malls/stripMalls.jpeg"
         ]
     },
     {
         "id": 7,
         "setorName": "oportunidades",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/1.png",
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/2.png",
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/3.png",
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/4.png",
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/5.png",
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/6.png",
-            "/FOTOS-NOVO/Slide - OPORTUNIDADES/7.png"
+            "/FOTOS-NOVO-GUI/Slide - OPORTUNIDADES/oportunidades.jpeg"
         ]
     },
     {
         "id": 8,
         "setorName": "incorporacao",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - INCORPORAÇÕES/1.png",
-            "/FOTOS-NOVO/Slide - INCORPORAÇÕES/2.png",
-            "/FOTOS-NOVO/Slide - INCORPORAÇÕES/3.png"
+            "/FOTOS-NOVO-GUI/Slide - INCORPORAÇÕES/incorporacao.jpeg"
         ]
     },
     {
         "id": 8,
         "setorName": "corporativo",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Corporativo/11.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/Slide - Corporativo/12.png"
-           
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Corporativo/locacaoCorporativa.jpeg"
         ]
     },
     {
         "id": 8,
         "setorName": "locacoes",
         "arrayImg": [
-            "/FOTOS-NOVO/Slide - LOCACAO/1.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/2.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/12.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/14.png",
-            "/FOTOS-NOVO/Slide - LOCACAO/3.png",
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/1.jpg",
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/2.jpg",
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/12.jpg",
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/14.jpg",
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/3.jpg",
             ""
            
         ]
