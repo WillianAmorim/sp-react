@@ -1,5 +1,5 @@
 // import Mapa from '../assets/images/mapa.png'
-import Mapa from '/FOTOS-NOVO/Mapa.png'
+import Mapa from '/FOTOS-NOVO-GUI/Mapa.jpg'
 
 import { QuemSomosContainer } from '../styles/QuemSomos-style';
 

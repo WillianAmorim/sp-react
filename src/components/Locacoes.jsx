@@ -1,10 +1,10 @@
 import React from 'react'
 import { LocacaoContainer } from '../styles/Locacoes'
 
-import ImgComercial from '/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/COMERCIAL/Costa Atacadão - Águas Claras, DF/AtacadaoPrincipal.jpg'
-import ImgCorporativo from '/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/CORPORATIVO/Defensoria Pública da União (DPU)/Principal.jpg'
-import ImgGalpao from '/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/GALPÃO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg'
-import ImgResidencial from '/FOTOS-NOVO/LOCAÇÃO DE IMÓVEIS/RESIDENCIAL/Edifício Ponta Negra/Principal.jpg'
+import ImgComercial from '/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.jpg'
+import ImgCorporativo from '/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/Principal.jpg'
+import ImgGalpao from '/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg'
+import ImgResidencial from '/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Ponta Negra/Principal.jpg'
 
 
 import { Link } from 'react-router-dom'
