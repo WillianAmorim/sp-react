@@ -1,11 +1,13 @@
 import React from 'react';
 import { ClipLoader } from 'react-spinners';
+import { LoaderContainer } from '../styles/Loader';
 
 const LoadingAnimation = () => {
   return (
-    <div id='loader' className="loader-container">
-      <ClipLoader color="#121D40" loading={true} size={35} />
-    </div>
+    <LoaderContainer className="loader-container">
+      <ClipLoader id='loader' color="#121D40" loading={true} size={55} />
+      <p>Carregando...</p>
+    </LoaderContainer>
   );
 };
 
