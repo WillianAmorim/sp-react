@@ -4,6 +4,8 @@ export const SlideSetorContainer = styled.div`
     img {
         width: 100vw;
         height: 50vh;
+
+        object-fit: scale-down;
     }
 
     .swiper-button-next,
@@ -21,6 +23,7 @@ export const SlideSetorContainer = styled.div`
     @media only screen and (min-width: 767px) {
         img {
             height: 100vh;
+            object-fit: fill;
         }
     }
 `
