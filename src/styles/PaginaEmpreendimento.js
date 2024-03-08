@@ -12,7 +12,7 @@ export const H1Container = styled.h1`
     /* clip-path: polygon(0% 0%, 60% 0%, 67% 100%, 0% 100%); */
     color: black;
     /* padding-left: 15px; */
-    max-width: min-content;
+    max-width: max-content;
 
     font-family: 'Inter', sans-serif;
     font-size: 25px;
@@ -62,15 +62,30 @@ export const Paragraph = styled.p`
 `
 
 export const DivPlanta = styled.div`
-
     display: flex;
     flex-direction: column;
-    padding: 25px 50px;
     gap: 50px;
+    margin-left: 25px;
+
+    #div-planta {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    h1 {
+        border-bottom: 5px solid black;
+        max-width: max-content;
+        border-radius: 3px;
+    }
+
 
     @media only screen and (min-width: 767px) {
-        flex-direction: row;
-        justify-content: space-around;
+        #div-planta {
+            flex-direction: row;
+            justify-content: space-around;
+        }
+
         img {
             width: 25%;
         }

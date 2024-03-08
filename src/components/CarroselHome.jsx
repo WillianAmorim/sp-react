@@ -6,7 +6,8 @@ import { Link } from 'react-router-dom'
 
 import EasyResidence from '../assets/Easy.jpg'
 import GranImperial from '../assets/Gran.jpg'
-import IOA from '../assets/IOA.jpeg'
+import IOA from '../assets/IOA.jpg'
+import Medical from '../assets/MedicalCenter.jpg'
 
 import { CarroselContainer } from '../styles/Carrosel-Primeiro';
 import { BsBuilding } from "react-icons/bs";
@@ -69,6 +70,21 @@ const CarroselHome = () => {
             <Link to={'/empreendimento/bts/ioa'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={IOA} alt="" />
+
+        </SwiperSlide>
+
+        <SwiperSlide>
+          <div className='div-absolute'>
+            <h1>IOA</h1>
+            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
+            <ul>
+              <li className="li-swiper-container1"><BsBuilding />15 andares</li>
+              <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
+              <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
+            </ul>
+            <Link to={'/empreendimento/bts/ioa'}>Conheça o imóvel</Link>
+          </div>
+          <img className='slide-item' src={Medical} alt="" />
 
         </SwiperSlide>
       </Swiper>

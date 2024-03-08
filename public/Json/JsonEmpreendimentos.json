@@ -97,13 +97,13 @@
         "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/UnifamazPrincipal.jpg",
         "images": [
             "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/UnifamazPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/01.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/02.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/03.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/04.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/05.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/06.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/07.jpeg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/01.jpg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/02.jpg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/03.jpg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/04.jpg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/05.jpg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/06.jpg",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/07.jpg",
             "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/08.jpg",
             "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/09.jpg",
             "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/10.jpg"
@@ -208,16 +208,16 @@
         "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/CeumaTuruPrincipal 5.jpg",
         "images": [
             "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/CeumaTuruPrincipal 5.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/01.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/02.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/03.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/04.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/05.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/06.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/07.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/08.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/09.jpeg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/10.jpeg"
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/01.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/02.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/03.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/04.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/05.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/06.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/07.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/08.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/09.jpg",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/10.jpg"
         ],
         "category": "bts",
         "details": "",
@@ -1118,6 +1118,31 @@
         "sobre": {
             "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
             "setor": "BTS (Built to Suit)"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao"
+    },
+    {
+        "id": 46,
+        "name": "Medical Center",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.JPG",
+        "images": [
+            "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.JPG",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01.jpg",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02.JPG",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03.JPG",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04.JPG"
+        ],
+        "category": "strip-malls",
+        "details": "",
+        "sobre": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "setor": "Strip Malls"
         },
         "localizacao": {
             "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
