@@ -73,6 +73,8 @@ export const OportunidadesContainer = styled.section`
         border-radius: 15px;
         border: none;
 
+        width: 100%;
+
     }
 
     .swiper-slide img {
