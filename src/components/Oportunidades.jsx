@@ -43,7 +43,7 @@ const Oportunidades = () => {
                             slidesPerView: 2,
                         },
                         1024: {
-                            slidesPerView: 5,
+                            slidesPerView: 3,
                         },
                     }}
                 >

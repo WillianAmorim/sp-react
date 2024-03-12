@@ -12,7 +12,7 @@ const Whatsapp = () => {
 
     const handleWhatsappClick = () => {
         const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-        const phoneNumber = '98981752548';
+        const phoneNumber = '98991207960';
         const message = 'Tenho Uma Dúvida.';
 
         if (isMobile) {

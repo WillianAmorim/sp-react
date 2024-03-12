@@ -18,7 +18,7 @@ const Cards = ({ arrayCards }) => {
             <div className='div-details-mobile'>
               <a id='lancamento-mobile' href="">Lançamento</a>
               <h2>{card.name}</h2>
-              <p>Península | São Luís-MA</p>
+              <p>{card.bairro}</p>
 
               <div className='section-details-mobile'>
                 {/* <p><SlSizeFullscreen size={15} />65 a 131 m²</p>
@@ -33,13 +33,13 @@ const Cards = ({ arrayCards }) => {
               <div><GiShower size={15} />1 a 4 suítes</div>
               <div><IoCarSharp size={15} />1 a 2 vagas</div> */}
             </section>
-            <a id='lancamento-web' href="">Lançamento</a>
+            {/* <a id='lancamento-web' href="">Lançamento</a> */}
             <Link id='link-img' to={card.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}><img src={card.imgPrincipal} alt="" /></Link>
 
             <div className='div-details-web'>
               <div>
                 <h2>{card.name}</h2>
-                <p>Península | São Luís-MA</p>
+                <p>{card.bairro}</p>
               </div>
               <Link to={card.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")} id='conhecer-imovel-web' href="">CONHECER IMÓVEL</Link>
             </div>

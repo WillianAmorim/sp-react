@@ -6,7 +6,7 @@ import data from '../../public/Json/JsonEmpreendimentos.json'
 
 const AreasAtuacao = () => {
 
-    let categoriasParaExcluir = ['comercial', 'corporativo', 'residencial', 'galpao-logistico', ];
+    let categoriasParaExcluir = ['comercial', 'corporativo', 'residencial', 'galpao-logistico', 'oportunidades'];
 
     let firstObjects = data.reduce((acc, obj) => {
         // Verificar se a categoria do objeto não está na lista de categorias para excluir
