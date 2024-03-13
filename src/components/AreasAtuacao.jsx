@@ -1,6 +1,6 @@
 import { AreasAtuacaoContainer } from "../styles/AreasAtuacao";
 
-import Locacoes from '../../public/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.jpg'
+import Locacoes from '../../public/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.webp'
 import { Link } from "react-router-dom";
 import data from '../../public/Json/JsonEmpreendimentos.json'
 
