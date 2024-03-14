@@ -3,14 +3,14 @@
         "id": 1,
         "setorName": "bts",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - BULT TO SUIT/bts.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - BULT TO SUIT/bts.webp"
         ]
     },
     {
         "id": 2,
         "setorName": "comercial",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Comercial/locacaoComercial.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Comercial/locacaoComercial.webp"
             
         ]
     },
@@ -18,56 +18,56 @@
         "id": 3,
         "setorName": "galpao-logistico",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Galpao-Logistico/galpaoLogistico.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Galpao-Logistico/galpaoLogistico.webp"
         ]
     },
     {
         "id": 4,
         "setorName": "residencial",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Residencial/locacaoResidencial.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Residencial/locacaoResidencial.webp"
         ]
     },
     {
         "id": 5,
         "setorName": "shopping-centers",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - Shoppings centers/shoppingCenter.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - Shoppings centers/shoppingCenter.webp"
         ]
     },
     {
         "id": 6,
         "setorName": "strip-malls",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - strip malls/stripMalls.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - strip malls/stripMalls.webp"
         ]
     },
     {
         "id": 7,
         "setorName": "oportunidades",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - OPORTUNIDADES/oportunidades.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - OPORTUNIDADES/oportunidades.webp"
         ]
     },
     {
         "id": 8,
         "setorName": "incorporacao",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - INCORPORAÇÕES/incorporacao.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - INCORPORAÇÕES/incorporacao.webp"
         ]
     },
     {
         "id": 8,
         "setorName": "corporativo",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Corporativo/locacaoCorporativa.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/Slide - Corporativo/locacaoCorporativa.webp"
         ]
     },
     {
         "id": 8,
         "setorName": "locacoes",
         "arrayImg": [
-            "/FOTOS-NOVO-GUI/Slide - LOCACAO/locacoes.jpeg"
+            "/FOTOS-NOVO-GUI/Slide - LOCACAO/locacoes.webp"
            
         ]
     }
