@@ -28,7 +28,7 @@ const Footer = () => {
                 </ul>
                 <ul>
                     {/* <li className='hover-black'>Fale com um corretor</li> */}
-                    <li className='hover-black'>Fornecedores</li>
+                    <li className='hover-black'><Link to={'/fornecedores'}>Fornecedores</Link></li>
                     <li className='hover-black'>Grupo São Paulo</li>
                     {/* <li className='hover-black'>Sobre</li> */}
                 </ul>
