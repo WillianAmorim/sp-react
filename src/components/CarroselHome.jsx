@@ -39,7 +39,7 @@ const CarroselHome = () => {
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
             </ul>
-            <Link to={'/empreendimento/bts/sp-mall---cohama'}>Conheça o imóvel</Link>
+            <Link to={'/empreendimento/strip-malls/sp-mall-cohama'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={Medical} alt="" />
 
@@ -67,7 +67,7 @@ const CarroselHome = () => {
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
             </ul>
-            <Link to={'/empreendimento/oportunidades/gran-imperial-residence'}>Conheça o imóvel</Link>
+            <Link to={'/empreendimento/oportunidades/grand-imperial-residence'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={GranImperial} alt="" />
         </SwiperSlide>

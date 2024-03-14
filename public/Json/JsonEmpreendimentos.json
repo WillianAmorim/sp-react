@@ -835,13 +835,13 @@
         "id": 43,
         "name": "IOA ITC",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp",
         "images": [
+            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp",
             "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
+            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp",
             "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
-            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
-            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
-            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg"
+            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp"
         ],
         "category": "bts",
         "details": "",
@@ -919,10 +919,10 @@
         "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
         "images": [
             "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/01.jpg",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/02.JPG",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/03.JPG",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/04.JPG"
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04.webp"
         ],
         "category": "strip-malls",
         "details": "",
