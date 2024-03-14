@@ -10,7 +10,7 @@ export const QuemSomosContainer = styled.div`
 
     img {
         width: 50%;
-        transform: scale(2.8)
+        transform: scale(1.8)
     }
 
     div h1 {
@@ -44,7 +44,7 @@ export const QuemSomosContainer = styled.div`
         
 
         img {
-            transform: scale(1.6)
+            transform: scale(1)
         }
     }
 `

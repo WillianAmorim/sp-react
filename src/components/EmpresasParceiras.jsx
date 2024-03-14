@@ -11,11 +11,10 @@ const EmpresasParceiras = () => {
     return (
         <EmpresasParceirasContainer>
             <div className='div-container'>
-                <div className='div-title' data-aos="fade-up-right" data-aos-duration="1500">
+                <div className='div-title'>
                     <h1>Empresas Parceiras</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
-                {/* <a data-aos="fade-up-left" data-aos-duration="1500" href="">Conheça todos</a> */}
             </div>
 
             <div>

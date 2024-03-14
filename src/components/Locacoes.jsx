@@ -13,19 +13,19 @@ const Locacoes = () => {
     return (
         <LocacaoContainer>
             <section className='section-cards'>
-                <div data-aos="fade-right" data-aos-duration="1500">
+                <div>
                     <Link to={'/empreendimento/comercial'}>Comercial</Link>
                     <img src={ImgComercial} alt="" />
                 </div>
-                <div data-aos="fade-right" data-aos-duration="1500">
+                <div>
                     <Link to={'/empreendimento/corporativo'}>Corporativo</Link>
                     <img src={ImgCorporativo} alt="" />
                 </div>
-                <div data-aos="fade-left" data-aos-duration="1500">
+                <div>
                     <Link to={'/empreendimento/galpao-logistico'}>Galpão Logístico</Link>
                     <img src={ImgGalpao} alt="" />
                 </div>
-                <div data-aos="fade-left" data-aos-duration="1500">
+                <div>
                     <Link to={'/empreendimento/residencial'}>Residencial</Link>
                     <img src={ImgResidencial} alt="" />
                 </div>

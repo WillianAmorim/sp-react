@@ -19,12 +19,12 @@ const theme = createTheme({
 const Cadastro = () => {
   return (
     <CadastroContainer>
-      <div className='div-info' data-aos="fade-right" data-aos-duration="1500">
+      <div className='div-info'>
         <h1>Cadastre-se e receba as novidades​</h1>
         <p>Assine nossa newsletter  e fique por dentro das noticias mais recentes em primeira mão.</p>
       </div>
 
-      <form className='form-inputs' data-aos="fade-left" data-aos-duration="1500" target="_blank" action="https://formsubmit.co/comercial@saopauloparticipacoes.com.br" method="POST">
+      <form className='form-inputs' target="_blank" action="https://formsubmit.co/comercial@saopauloparticipacoes.com.br" method="POST">
         <input type="hidden" name="_captcha" value="false" />
         <input type="hidden" name="_template" value="table" />
 

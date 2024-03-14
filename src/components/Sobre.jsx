@@ -1,7 +1,7 @@
 import { H1Container, DivElements, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
 const Sobre = ({sobre}) => {
     return (
-        <div data-aos="fade-right" data-aos-duration="1500">
+        <div>
             <DivElements className="div-elements">
             
                 <div className="div-apresentacao">
