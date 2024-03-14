@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const SlideSetorContainer = styled.div`
     img {
         width: 100vw;
-        height: 50vh;
+        height: auto;
     }
 
     .swiper-button-next,
