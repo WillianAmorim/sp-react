@@ -136,6 +136,7 @@ export const InputNavbar = styled.div`
         position: absolute;
         list-style: none;
         left: 0;
+        top: 50px;
 
         background-color: white;
         color: black;
