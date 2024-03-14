@@ -8,7 +8,7 @@ export const BannerSpContainer = styled.div`
 
     @media only screen and (min-width: 767px) {
         img {
-            height: 400px;
+            height: auto;
         }
     }
 `

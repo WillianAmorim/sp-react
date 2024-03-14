@@ -1,5 +1,5 @@
 import React from 'react'
-import ImgBannerSp from '../../public/FOTOS-NOVO-GUI/banner-sp.png'
+import ImgBannerSp from '../../public/FOTOS-NOVO-GUI/BannerFornecedores.webp'
 import { BannerSpContainer } from '../styles/BannerSp'
 
 const BannerSp = () => {

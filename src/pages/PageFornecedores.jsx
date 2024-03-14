@@ -2,9 +2,9 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Termos from '../components/Termos'
 import Navbar from '../components/Navbar'
-import FormContato from '../components/FormContato'
+import FormFornecedores from '../components/FormFornecedores'
 import Whatsapp from '../components/Whatsapp'
-import BannerSp from '../components/BannerSpContato'
+import BannerSpFornecedores from '../components/BannerSpFornecedores'
 
 const Home = () => {
     return (
@@ -12,8 +12,8 @@ const Home = () => {
             <Whatsapp/>
             <Navbar />
             <Header />
-            <BannerSp/>
-            <FormContato />
+            <BannerSpFornecedores/>
+            <FormFornecedores />
             <Footer />
             <Termos />
         </>
