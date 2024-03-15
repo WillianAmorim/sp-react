@@ -3,15 +3,15 @@
         "id": 1,
         "name": "Ceuma Anil",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/CeumaAnilPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/CeumaAnilPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/CeumaAnilPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/06.jpg"
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/CeumaAnilPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA ANIL/06.webp"
         ],
         "category": "bts",
         "details": "",
@@ -24,25 +24,24 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8578785517684!2d-44.25274482614652!3d-2.5531058383206227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f6901fc473d463%3A0xcdebdca27694ac30!2sUniversidade%20CEUMA%20-%20Anil!5e0!3m2!1spt-BR!2sbr!4v1708312997333!5m2!1spt-BR!2sbr",
             "endereco": "Cohatrac"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro": "Anil | São Luís - MA"
     },
     {
         "id": 2,
         "name": "Unieuro Águas Claras",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/Principal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/07.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/08.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/09.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/10.jpg"
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/Principal.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/06.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/07.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO AGUAS CLARAS/08.webp"
         ],
         "category": "bts",
         "details": "",
@@ -55,58 +54,23 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4703190610076!2d-48.039575825887816!3d-15.831859423876674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f1c0339fd%3A0x110a7ff1821babec!2sCentro%20Universit%C3%A1rio%20Unieuro!5e0!3m2!1spt-BR!2sbr!4v1708313168806!5m2!1spt-BR!2sbr",
             "endereco": "Av. das Castanheiras, s/n - Lote 3700 - Águas Claras, Brasília - DF, 70297-400"
         },
-        "estado": "Brasilia"
-    },
-    {
-        "id": 3,
-        "name": "Av. Jerônimo de Albuquerque",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/CeumaCohamaPrincipal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/CeumaCohamaPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/07.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/08.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/09.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/10.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/11.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA COHAMA/12.jpg"
-        ],
-        "category": "bts",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "BTS (Built to Suit)"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.95470041292!2d-44.24901202614685!3d-2.521699438222043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691cc05bd0bd7%3A0x37cf11bd341d3d4e!2sUniversidade%20Ceuma%20-%20Cohama!5e0!3m2!1spt-BR!2sbr!4v1708313368770!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
+        "estado": "Brasilia",
+        "bairro":"Águas Claras | Brasília - DF"
     },
     {
         "id": 4,
         "name": "Unifamaz",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/UnifamazPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/UnifamazPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/UnifamazPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/07.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/08.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/09.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/10.jpg"
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/UnifamazPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/06.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIFAMAZ/07.webp"
         ],
         "category": "bts",
         "details": "",
@@ -119,22 +83,21 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.553973748596!2d-48.4959581761549!3d-1.4424660858144054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48ebc058210b3%3A0x574080abbcd2b8e5!2sUNIFAMAZ%20-%20Centro%20Universit%C3%A1rio%20Metropolitano%20da%20Amaz%C3%B4nia!5e0!3m2!1spt-BR!2sbr!4v1708313690567!5m2!1spt-BR!2sbr",
             "endereco": "Av. Visc. de Souza Franco, 72 - Reduto, Belém - PA, 66053-000"
         },
-        "estado": "Para"
+        "estado": "Para",
+        "bairro": "Reduto | Belém - PA"
     },
     {
         "id": 5,
         "name": "Unieuro Asa Sul",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/UnieuroAsaSulPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/UnieuroAsaSulPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/UnieuroAsaSulPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/07.jpg",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/08.jpg"
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/UnieuroAsaSulPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA SUL/06.webp"
         ],
         "category": "bts",
         "details": "",
@@ -147,22 +110,23 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.242229245066!2d-47.91833392588752!3d-15.843861224173093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a255d09a671fd%3A0xd29f9cb7f50f859d!2sUnieuro%20-%20Campus%20Asa%20Sul!5e0!3m2!1spt-BR!2sbr!4v1708316558698!5m2!1spt-BR!2sbr",
             "endereco": "St. de Clubes Esportivos Sul Núcleo de Prática Jurídica Assistência à Comunidade - Asa Sul, Brasília - DF, 70200-001"
         },
-        "estado": "Brasilia"
+        "estado": "Brasilia",
+        "bairro":"Asa Sul | Brasília - DF"
     },
     {
         "id": 7,
         "name": "Uniceuma Renascença",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/CeumaRenascencaPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/CeumaRenascencaPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/CeumaRenascencaPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/07.jpg"
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/CeumaRenascencaPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/06.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA RENASCENCA/07.webp"
         ],
         "category": "bts",
         "details": "",
@@ -175,18 +139,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0133609357986!2d-44.28773852614697!3d-2.502479938162498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d900f12e4fb%3A0x90d84ae668094ada!2sUniversidade%20Ceuma%20-%20Renascen%C3%A7a!5e0!3m2!1spt-BR!2sbr!4v1708317034104!5m2!1spt-BR!2sbr",
             "endereco": "R. Anapurus, 1 - Renascença II, São Luís - MA, 65075-120"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Renascença | São Luís - MA"
     },
     {
         "id": 8,
         "name": "Uniceuma Imperatriz",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/CampusImperatrizPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/CampusImperatrizPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/CampusImperatrizPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/03.jpg"
+            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/CampusImperatrizPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA IMPERATRIZ/03.webp"
         ],
         "category": "bts",
         "details": "",
@@ -199,25 +164,22 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.3563868064007!2d-47.475277126114065!3d-5.514006454859246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92c55fbed9947073%3A0x7c2095a88eb7caa0!2sUniversidade%20CEUMA%20-%20Campus%20Imperatriz!5e0!3m2!1spt-BR!2sbr!4v1708317094344!5m2!1spt-BR!2sbr",
             "endereco": "R. Barão do Rio Branco, quadra 12 - nº 100 - Maranhão Novo, Imperatriz - MA, 65903-093"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Maranhão Novo | Imperatriz - MA"
     },
     {
         "id": 9,
         "name": "Uniceuma Campus Turu",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/CeumaTuruPrincipal 5.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/CeumaTuruPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/CeumaTuruPrincipal 5.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/07.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/08.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/09.jpg",
-            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/10.jpg"
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/CeumaTuruPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/CEUMA TURU/06.webp"
         ],
         "category": "bts",
         "details": "",
@@ -230,20 +192,21 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.929834241802!2d-44.228286526146576!3d-2.5298025382473273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691b909fc4073%3A0x6bbfdce0579a0aee!2sUniversidade%20Ceuma%20-%20Turu!5e0!3m2!1spt-BR!2sbr!4v1708317156252!5m2!1spt-BR!2sbr",
             "endereco": "644, Av. São Luís Rei de França, 336 - Turu, São Luís - MA"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Turu | São Luís - MA"
     },
     {
         "id": 10,
         "name": "Rio Anil Shopping",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/Principal.jpg",
-            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/01.jpg",
-            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/02.jpg",
-            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/03.jpg",
-            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/04.jpg",
-            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/05.jpg"
+            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/Principal.webp",
+            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/01.webp",
+            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/02.webp",
+            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/03.webp",
+            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/04.webp",
+            "/FOTOS-NOVO-GUI/SHOPPING-CENTERS/05.webp"
         ],
         "category": "shopping-centers",
         "details": "Seguindo a tendência dos grandes centros comerciais modernos, o Rio Anil Shopping conta com um mix planejado de lojas, oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento. O empreendimento fica em uma das regiões mais populosas de São Luís, junto ao cruzamento de duas das avenidas de maior fluxo da cidade, a Av. São Luís Rei de França e a Av. Jerônimo de Albuquerque.",
@@ -256,20 +219,21 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.9175040986843!2d-44.22736922614673!3d-2.533810938259862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691b72bf7a009%3A0xde85c3d7eb90e8c4!2sRio%20Anil%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708317252083!5m2!1spt-BR!2sbr",
             "endereco": "São Luís Rei de França, 8 - Turu, São Luís - MA, 65065-470"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro": "Turu | São Luís - MA"
     },
     {
         "id": 11,
         "name": "Grand Imperial Residence",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/01.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/02.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/03.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/04.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/05.jpg"
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/05.webp"
         ],
         "category": "incorporacao",
         "details": "",
@@ -286,37 +250,21 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
             "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
         },
-        "estado": "Ceará"
+        "estado": "Ceará",
+        "bairro": "Lagoa Redonda | Fortaleza - CE"
     },
     {
         "id": 12,
         "name": "Easy Renascença",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/EasyPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/EasyPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/EasyPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/01.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/02.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/03.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/04.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/06.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/07.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/08.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/09.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/10.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/11.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/12.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/13.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/14.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/15.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/16.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/17.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/18.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/19.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/20.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/21.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/22.jpg"
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/EasyPrincipal.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.webp"
         ],
         "category": "incorporacao",
         "details": "",
@@ -333,22 +281,23 @@
             "mapa": "https://www.google.com/maps/embed?pb=!4v1708317775005!6m8!1m7!1sQ7zxjz_ptWrM85APyiT5PA!2m2!1d-2.502342112141737!2d-44.28561404044997!3f344.9037046868111!4f15.591280110585984!5f0.7820865974627469",
             "endereco": " Esquina com - Rua das Sucupiras, R. dos Ipês, 32 - Qd 54, Loja 03 - Jardim Renascença, São Luís - MA, 65075-400"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Renascença | São Luís - MA"
     },
     {
         "id": 13,
         "name": "JB Transportes e Logística Ltda",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/JBTransportesPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/JBTransportesPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/04.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/05.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/06.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/07.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/JBTransportesPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/03.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/04.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/05.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/06.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/07.webp"
         ],
         "category": "galpao-logistico",
         "details": "",
@@ -361,43 +310,20 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.433360778748!2d-44.24942882614602!3d-2.603239338481348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69b1415745a4f%3A0x25b50cc4587f1eba!2sJB%20Transporte%20e%20Logistica%20Ltda!5e1!3m2!1spt-BR!2sbr!4v1708317928820!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
-    },
-    {
-        "id": 14,
-        "name": "Galpão Belém",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/Galpao Belem/GalpaoBelemPrincipal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/Galpao Belem/GalpaoBelemPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/Galpao Belem/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/Galpao Belem/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/Galpao Belem/01.jpg"
-        ],
-        "category": "galpao-logistico",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Galpão Logístico"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Vila Funil | São Luís - MA"
     },
     {
         "id": 15,
         "name": "Sala Ed. DF Plaza",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/04.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/EdPlazaPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/03.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/SALA ED.DF PLAZA/04.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -414,19 +340,20 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.473105998907!2d-48.04352402588789!3d-15.83171272387306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f42832ad3%3A0x59143e7a3f584efa!2sDF%20Plaza%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318594295!5m2!1spt-BR!2sbr",
             "endereco": "R. Copaíba, lote 01 - Águas Claras, Brasília - DF, 71919-540"
         },
-        "estado": "Brasilia"
+        "estado": "Brasilia",
+        "bairro":"Águas Claras | Brasília - MA"
     },
     {
         "id": 16,
         "name": "Salas Edifício Connect Towers",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/ConnectPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/ConnectPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/ConnectPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/04.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/ConnectPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/03.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Salas Edificio Connect Towers/04.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -443,18 +370,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3037125103992!2d-48.047521525887525!3d-15.840626924093192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a328bece18aef%3A0xb9d85c12405a5347!2sConnect%20Towers!5e0!3m2!1spt-BR!2sbr!4v1708318666783!5m2!1spt-BR!2sbr",
             "endereco": "QS 1 - Taguatinga, Brasília - DF, 71950-550"
         },
-        "estado": "Brasilia"
+        "estado": "Brasilia",
+        "bairro":"Taguatinga | Brasília - MA"
     },
     {
         "id": 17,
         "name": "Loja Shopping Monumental",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Loja Shopping Monumental/MonumentalPrincipal.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -471,18 +399,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0163436580683!2d-44.29130812614684!3d-2.501498738159477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dcd47834b6f%3A0x1ea30db8487b8b7a!2sMonumental%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318733715!5m2!1spt-BR!2sbr",
             "endereco": "Jardim Renascença, São Luís - MA"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Renascença | São Luís - MA"
     },
     {
         "id": 18,
         "name": "Eletro Mateus Cohatrac",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/EletroPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Eletro Mateus Cohatrac/01.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -499,18 +428,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8988920740157!2d-44.20961432614665!3d-2.539849538278821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f690fe281503d3%3A0xf73d15ee801fba41!2sEletro%20Mateus!5e0!3m2!1spt-BR!2sbr!4v1708318788540!5m2!1spt-BR!2sbr",
             "endereco": "Av. Contôrno Leste Oeste, 360 - Cohatrac I, São Luís - MA, 65053-700"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Cohatrac | São Luís - MA"
     },
     {
         "id": 19,
-        "name": "Supermercado Mateus Cohatrac IV",
+        "name": "Supermercado Mateus",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/03.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/MateusPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Cohatrac IV/03.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -527,20 +457,21 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.595899583845!2d-44.21733917081659!3d-2.539822698797548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69139a918c7cf%3A0x8377140a85eb5608!2sMateus!5e0!3m2!1spt-BR!2sbr!4v1708319155218!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Cohatrav IV | São Luís - MA"
     },
     {
         "id": 20,
-        "name": "Supermercado Mateus Anil",
+        "name": "Supermercado Mateus",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/04.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/05.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/MateusPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/03.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/04.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Supermercado Mateus Anil/05.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -553,18 +484,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.423169374517!2d-44.266471744580095!3d-2.553778300000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68f288f0b402d%3A0xb4e1fad759c38e24!2sMateus%20Supermercados%20-%20Anil!5e0!3m2!1spt-BR!2sbr!4v1708319212664!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Anil | São Luís - MA"
     },
     {
         "id": 21,
-        "name": "Costa Atacadão - Águas Claras, DF",
+        "name": "Costa Atacadão",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/02.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/AtacadaoPrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Costa Atacadao/02.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -577,22 +509,23 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.486926784568!2d-48.03901628564258!3d-15.830985199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33c46c6c4def%3A0xbb47cb38bdaa381c!2sCosta%20Atacad%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1708319362373!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Águas Claras | Brasília - DF"
     },
     {
         "id": 22,
-        "name": "Imóvel Asa Norte",
+        "name": "MapleBear",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/AsaNortePrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/AsaNortePrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/AsaNortePrincipal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/04.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/05.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/06.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/07.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/AsaNortePrincipal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/03.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/04.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/05.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/06.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/COMERCIAL/Imovel Asa Norte/07.webp"
         ],
         "category": "comercial",
         "details": "",
@@ -605,18 +538,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30706.14383929431!2d-48.064927272192534!3d-15.842506700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a331a8d206b99%3A0xa184f574e4a51beb!2sMaple%20Bear!5e0!3m2!1spt-BR!2sbr!4v1708319483947!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Brasilia"
+        "estado": "Brasilia",
+        "bairro":"Asa Norte | Brasília - DF"
     },
     {
         "id": 23,
         "name": "Defensoria Pública da União (DPU)",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/01.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/Principal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/CORPORATIVO/Defensoria Publica da Uniao (DPU)/01.webp"
         ],
         "category": "corporativo",
         "details": "",
@@ -629,18 +563,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!4v1708319596826!6m8!1m7!1sHkP6JS3n_giRlz8bRlo6dg!2m2!1d-2.502376046760268!2d-44.28616678470383!3f347.7286504523046!4f5.000356654843088!5f0.7820865974627469",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Renascença | São Luís - MA"
     },
     {
         "id": 24,
         "name": "Apartamento Vive La Vie",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/01.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/Principal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Vive La Vie/01.webp"
         ],
         "category": "residencial",
         "details": "",
@@ -653,23 +588,24 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4532397304074!2d-48.03972922588782!3d-15.83275842389893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33ae3a7204af%3A0xc3384c247cd083aa!2sResidencial%20Vive%20La%20Vie!5e0!3m2!1spt-BR!2sbr!4v1708319887430!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Brasilia"
+        "estado": "Brasilia",
+        "bairro":"Águas Claras | Brasília - DF"
     },
     {
         "id": 25,
         "name": "Apartamento Hotel Bonaparte",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/04.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/05.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/06.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/07.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/08.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/Principal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/03.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/04.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/05.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/06.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/07.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Hotel Bonaparte/08.webp"
         ],
         "category": "residencial",
         "details": "",
@@ -682,18 +618,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Brasilia"
+        "estado": "Brasilia",
+        "bairro":"Asa Sul | Brasília - DF"
     },
     {
         "id": 26,
         "name": "Edifício Cidade do Porto",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/02.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/Principal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Cidade do Porto/02.webp"
         ],
         "category": "residencial",
         "details": "",
@@ -706,42 +643,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127553.55935225807!2d-44.42861965664063!3d-2.490820099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68db4e1156c73%3A0xb98767fe5601d77b!2sEdif%C3%ADcio%20Cidade%20do%20Porto!5e0!3m2!1spt-BR!2sbr!4v1708320093263!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhão"
-    },
-    {
-        "id": 27,
-        "name": "Edifício Vip Residence",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Vip Residence/Principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Vip Residence/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Vip Residence/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Vip Residence/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Vip Residence/02.jpg"
-        ],
-        "category": "residencial",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Locação Residencial"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.011561678585!2d-44.29535832614686!3d-2.503071638164318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d00565f9633%3A0x49945be5ba5311f6!2sVIP%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708320254013!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
+        "estado": "Maranhão",
+        "bairro":"Jardim Renascença | São Luís - MA"
     },
     {
         "id": 28,
         "name": "Edifício Portinari",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/03.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/Principal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Portinari/03.webp"
         ],
         "category": "residencial",
         "details": "",
@@ -754,68 +668,19 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127552.50856742704!2d-44.429554656640605!3d-2.5016470999999934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dd258ead829%3A0xdd73433235bc018b!2sEdif%C3%ADcio%20Portinari!5e0!3m2!1spt-BR!2sbr!4v1708320172885!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
-    },
-    {
-        "id": 29,
-        "name": "Edifício Ponta Negra",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Ponta Negra/Principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Ponta Negra/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Ponta Negra/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Ponta Negra/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Ponta Negra/03.jpg"
-        ],
-        "category": "residencial",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Locação Residencial"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.027244407147!2d-44.294058126146915!3d-2.4979095381484133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68df58bdedbad%3A0xded5c439cd027697!2sCondom%C3%ADnio%20Ponta%20Negra!5e0!3m2!1spt-BR!2sbr!4v1708320400769!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
-    },
-    {
-        "id": 30,
-        "name": "Edifício Comodoro",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/Principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/03.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/04.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Comodoro/05.jpg"
-        ],
-        "category": "residencial",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Locação Residencial"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0447617123345!2d-44.30868622614697!3d-2.4921309381306815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68c1535d65045%3A0x764d16fd6179d5f!2sEdif%C3%ADcio%20Comodoro!5e0!3m2!1spt-BR!2sbr!4v1708320462423!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Renascença | São Luís - MA"
     },
     {
         "id": 31,
         "name": "Edifício Alvorada",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/Principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/01.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/02.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/02.jpg"
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/Principal.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/01.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/02.webp",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Edificio Alvorada/02.webp"
         ],
         "category": "residencial",
         "details": "",
@@ -828,23 +693,24 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0431010284847!2d-44.30776112614708!3d-2.492679338132369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68c411955ea3f%3A0xed1301e5e9371bf4!2sEdif%C3%ADcio%20Alvorada!5e0!3m2!1spt-BR!2sbr!4v1708320528072!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Ponta D'areia | São Luís - MA"
     },
     {
         "id": 32,
         "name": "Unieuro Águas Claras",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/Principal.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/01.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/03.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/04.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/05.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/06.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/07.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Unieuro Aguas Claras/08.jpg"
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/Principal.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/01.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/02.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/03.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/04.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/05.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/06.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/07.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/08.webp"
         ],
         "category": "oportunidades",
         "details": "",
@@ -861,16 +727,16 @@
     },
     {
         "id": 33,
-        "name": "Gran Imperial Residence",
+        "name": "Grand Imperial Residence",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/Principal.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/01.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/03.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/04.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Gran Imperial Residence/05.jpg"
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/Principal.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/01.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/02.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/03.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/04.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/GRAN IMPERIAL RESIDENCE/05.webp"
         ],
         "category": "oportunidades",
         "details": "",
@@ -889,13 +755,13 @@
         "id": 34,
         "name": "Residencial Maxximo Garden",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/Principal.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/01.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/03.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/04.jpg"
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/Principal.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/01.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/02.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/03.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Residencial Maxximo Garden/04.webp"
         ],
         "category": "oportunidades",
         "details": "",
@@ -911,75 +777,17 @@
         "estado": "Brasilia"
     },
     {
-        "id": 35,
-        "name": "Edifício Vip Residence",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/Principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/Principal.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/01.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Vip Residence/02.jpg"
-        ],
-        "category": "oportunidades",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Oportunidades"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
-    },
-    {
-        "id": 36,
-        "name": "Edifício Ponta Negra",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Ponta Negra/Principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Ponta Negra/Principal.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Ponta Negra/01.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Ponta Negra/02.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Edificio Ponta Negra/03.jpg"
-        ],
-        "category": "oportunidades",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Oportunidades"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
-    },
-    {
         "id": 37,
         "name": "Easy Renascença",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/EasyPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/Principal.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/1.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/2.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/3.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/4.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/5.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/6.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/7.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/8.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/9.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/10.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/11.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/12.jpg",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/Easy Renascença/13.jpg"
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/EasyPrincipal.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/1.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/2.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/3.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/4.webp",
+            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/5.webp"
         ],
         "category": "oportunidades",
         "details": "",
@@ -998,16 +806,16 @@
         "id": 42,
         "name": "Drogasil",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/DROGASIL/DrogasilPrincipal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/DROGASIL/DrogasilPrincipal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/DrogasilPrincipal.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/01.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/02.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/03.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/04.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/05.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/06.jpg",
-            "/FOTOS-NOVO-GUI/BTS/DROGASIL/07.jpg"
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/DrogasilPrincipal.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/06.webp",
+            "/FOTOS-NOVO-GUI/BTS/DROGASIL/07.webp"
         ],
         "category": "bts",
         "details": "",
@@ -1020,19 +828,20 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8942049163657!2d-44.20940615236756!3d-2.541368008364741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1708322435858!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Cohatrac | São Luís - MA"
     },
     {
         "id": 43,
-        "name": "IOA",
+        "name": "IOA ITC",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp",
         "images": [
+            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp",
             "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
+            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp",
             "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
-            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
-            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg",
-            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.jpg"
+            "/FOTOS-NOVO-GUI/BTS/IOA/IOA.webp"
         ],
         "category": "bts",
         "details": "",
@@ -1045,73 +854,49 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Renascença | São Luís - MA"
     },
     {
         "id": 44,
         "name": "Amiral Peninsula",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/Amiral-Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/Amiral-Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/01.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/02.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/03.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/04.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/05.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/06.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/07.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/08.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/09.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/10.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/11.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/12.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/13.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/14.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/15.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/16.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/17.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/18.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/19.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/20.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/21.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/22.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/23.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/24.jpg"
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/05.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/06.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/AMIRAL PENINSULA/07.webp"
         ],
         "category": "incorporacao",
         "details": "",
         "sobre": {
             "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "BTS (Built to Suit)"
+            "setor": "Incorporação"
         },
         "localizacao": {
             "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Peninsula | São Luís - MA"
     },
     {
         "id": 45,
         "name": "Residencial Marina",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/Marina-Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/Marina-Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/01.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/02.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/03.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/04.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/05.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/06.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/07.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/08.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/09.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/10.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/11.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/12.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/13.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/14.jpg",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/15.jpg"
+            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/05.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/RESIDENCIAL MARINA/06.webp"
         ],
         "category": "incorporacao",
         "details": "",
@@ -1124,19 +909,20 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro":"Peninsula | São Luís - MA"
     },
     {
         "id": 46,
-        "name": "Medical Center",
+        "name": "SP Mall Cohama",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.JPG",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.JPG",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/01.jpg",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/02.JPG",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/03.JPG",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/04.JPG"
+            "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04.webp"
         ],
         "category": "strip-malls",
         "details": "",
@@ -1149,6 +935,62 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
-        "estado": "Maranhao"
+        "estado": "Maranhao",
+        "bairro": "Cohama | São Luís - MA"
+    },
+    {
+        "id": 46,
+        "name": "Unieuro Asa Norte",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/Principal.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/Principal.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/04.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/05.webp",
+            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/06.webp"
+
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "setor": "BTS (Built to Suit)"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao",
+        "bairro": "Cohama | São Luís - MA"
+    },
+    {
+        "id": 47,
+        "name": "Burguer King",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/Burguer King/Principal.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/Principal.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/04.webp"  
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "setor": "BTS (Built to Suit)"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao",
+        "bairro": "Asa Sul | Brasília - DF"
     }
 ]
