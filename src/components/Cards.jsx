@@ -16,7 +16,6 @@ const Cards = ({ arrayCards }) => {
         {arrayCards.map((card) => (
           <div className='div-card' key={card.id}>
             <div className='div-details-mobile'>
-              <a id='lancamento-mobile' href="">Lançamento</a>
               <h2>{card.name}</h2>
               <p>{card.bairro}</p>
 

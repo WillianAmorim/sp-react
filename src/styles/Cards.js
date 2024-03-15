@@ -54,8 +54,8 @@ export const CardsContainer = styled.div`
         position: absolute;
         z-index: 9;
 
-        top: 40%;
-        left: 25px;
+        bottom: 20%;
+        left: 10px;
         color: white;
 
         display: flex;

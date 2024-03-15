@@ -966,5 +966,31 @@
         },
         "estado": "Maranhao",
         "bairro": "Cohama | São Luís - MA"
+    },
+    {
+        "id": 47,
+        "name": "Burguer King",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/Burguer King/Principal.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/Principal.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/01.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/02.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/03.webp",
+            "/FOTOS-NOVO-GUI/BTS/Burguer King/04.webp"  
+        ],
+        "category": "bts",
+        "details": "",
+        "sobre": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "setor": "BTS (Built to Suit)"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao",
+        "bairro": "Asa Sul | Brasília - DF"
     }
 ]
