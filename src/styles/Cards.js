@@ -38,6 +38,9 @@ export const CardsContainer = styled.div`
         align-items: center;
         gap: 15px;
         padding-bottom: 25px;
+        max-height: max-content;
+
+        /* background-color: red; */
     }
 
     #lancamento-mobile {
@@ -50,7 +53,7 @@ export const CardsContainer = styled.div`
     }
 
     .div-details-mobile {
-        width: 100%;
+        max-width: max-content;
         position: absolute;
         z-index: 9;
 
@@ -61,6 +64,24 @@ export const CardsContainer = styled.div`
         display: flex;
         flex-direction: column;
         gap: 20px;
+    }
+
+    .vendido {
+        position: absolute;
+        z-index: 9;
+        color: white;
+        right: 15px;
+        top: 15px;
+        border: 1px solid white;
+        padding: 10px;
+        font-size: 15px;
+        max-width: max-content;
+    }
+
+    .construcao {
+        border: 1px solid white;
+        max-width: max-content;
+        padding: 10px 15px;
     }
 
     #conhecer-imovel-mobile {
@@ -145,12 +166,8 @@ export const CardsContainer = styled.div`
             display: flex;
         }
 
-        .section-details-web div {
-            display: flex;
-            gap: 5px;
-        }
-
         .div-details-web {
+            padding-top: 15px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -164,7 +181,7 @@ export const CardsContainer = styled.div`
         }
 
         .div-card {
-            row-gap: 20px;
+            row-gap: 0px;
             width: 600px;
         }
 
@@ -194,6 +211,24 @@ export const CardsContainer = styled.div`
             border: 1px solid white;
             padding: 10px;
             font-size: small;
+        }
+
+        .construcao {
+            position: absolute;
+            color: white;
+            z-index: 9;
+            top: 316px;
+            left: 0px;
+            font-size: 10px;
+            background-color: white;
+            color: black;
+            font-weight: 500;
+        }
+
+        .vendido {
+            font-size: 10px;
+            top: 10px;
+            right: 10px;
         }
 
 

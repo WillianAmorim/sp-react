@@ -2,21 +2,41 @@
     {
         "id": 1,
         "name": "Ceuma",
-        "src": "/Parceiros/ceuma.png"
+        "src": "/Parceiros/1.png"
     },
     {
         "id": 2,
         "name": "Drogasil",
-        "src": "/Parceiros/drogasil.png"
+        "src": "/Parceiros/2.png"
     },
     {
         "id": 3,
         "name": "Alpha",
-        "src": "/Parceiros/alpha.svg"
+        "src": "/Parceiros/3.png"
     },
     {
         "id": 4,
         "name": "Mateus",
-        "src": "/Parceiros/mateus.png"
+        "src": "/Parceiros/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Bk",
+        "src": "/Parceiros/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Costa Atacadão",
+        "src": "/Parceiros/6.svg"
+    },
+    {
+        "id": 7,
+        "name": "JB",
+        "src": "/Parceiros/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Maple Bear",
+        "src": "/Parceiros/8.png"
     }
 ]

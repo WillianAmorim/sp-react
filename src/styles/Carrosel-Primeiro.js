@@ -34,6 +34,10 @@ export const CarroselContainer = styled.div`
         flex-direction: column;
         gap: 10px;
 
+        p {
+            width: 350px;
+        }
+
         ul {
             list-style: none;
             

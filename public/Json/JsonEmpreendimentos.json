@@ -20,7 +20,7 @@
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": " Av. Edson Brandão, s/n - Anil, São Luís - MA, 65045-380.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8578785517684!2d-44.25274482614652!3d-2.5531058383206227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f6901fc473d463%3A0xcdebdca27694ac30!2sUniversidade%20CEUMA%20-%20Anil!5e0!3m2!1spt-BR!2sbr!4v1708312997333!5m2!1spt-BR!2sbr",
             "endereco": "Cohatrac"
         },
@@ -102,7 +102,7 @@
         "category": "bts",
         "details": "",
         "sobre": {
-            "descricao": "Em 1998, nasce o segundo empreendimento do Grupo Ceuma e o primeiro na região Centro-Oeste. Em sede própria, a unidade Asa Sul, na capital Brasília, amplia e muito a oferta de cursos da Graduação para suprir a demanda crescente de jovens profissionais à busca de credibilidade e qualidade em sua formação superior. Em 2005, é inaugurada a sede do Campus Águas Claras, descentralizando para além do Plano Piloto a oferta de cursos superiores nas áreas de Exatas, Saúde e Humanas.",
+            "descricao": "Explore a Unieuro Asa Sul, sua instituição de ensino superior em Brasília, oferecendo uma variedade de cursos de qualidade e uma experiência acadêmica enriquecedora. Com uma equipe dedicada de professores e instalações modernas, estamos comprometidos em ajudá-lo a alcançar seus objetivos educacionais e profissionais. Junte-se a nós enquanto embarcamos juntos em sua jornada educacional.",
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
@@ -184,7 +184,7 @@
         "category": "bts",
         "details": "",
         "sobre": {
-            "descricao": "Forma a rede de cinco instituições de ensino superior sediadas em quatro capitais e mais duas cidades de três regiões brasileiras. Essa estrutura física e pedagógica foi concebida para impulsionar e padronizar a gestão do Grupo com o foco de investir na educação superior de excelência no Brasil. Um dos desafios é transformar, definitivamente, a realidade social das regiões geográficas carentes de profissionais preparados em escala suficiente para suprir as demandas da população.",
+            "descricao": "Conheça o Campus Turu da UNICEUMA, sua porta de entrada para uma educação superior de excelência em São Luís. Com uma ampla gama de cursos, instalações modernas e corpo docente qualificado, estamos comprometidos em fornecer uma experiência acadêmica enriquecedora. Junte-se a nós enquanto embarcamos juntos em sua jornada educacional, preparando-o para um futuro de sucesso.",
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
@@ -211,11 +211,11 @@
         "category": "shopping-centers",
         "details": "Seguindo a tendência dos grandes centros comerciais modernos, o Rio Anil Shopping conta com um mix planejado de lojas, oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento. O empreendimento fica em uma das regiões mais populosas de São Luís, junto ao cruzamento de duas das avenidas de maior fluxo da cidade, a Av. São Luís Rei de França e a Av. Jerônimo de Albuquerque.",
         "sobre": {
-            "descricao": "A Drogasil S.A. é uma rede de drogarias do Estado de São Paulo, pertencente ao grupo RaiaDrogasil. A atividade da Drogasil consiste no comércio varejista de produtos farmacêuticos e cosméticos.",
+            "descricao": "Seguindo a tendência dos grandes centros comerciais modernos, o Rio Anil Shopping conta com um mix planejado de lojas, oferecendo de forma prática e confortável, locais para compras, serviços, lazer, alimentação e entretenimento.",
             "setor": "Shopping Centers"
         },
         "localizacao": {
-            "descricao": "Com uma localização privilegiada, no cruzamento de duas das avenidas de maior fluxo de São Luís, o Rio Anil Shopping oferece à capital maranhense um mix planejado de lojas com grandes marcas queridas do público, como C&A, Centauro, Casas Bahia, Lojas Americanas, Renner, Riachuelo e muito mais. Junto às opções de serviços, alimentação e lazer, o shopping proporciona facilidade, conveniência e uma experiência completa para o consumidor.",
+            "descricao": "O empreendimento fica em uma das regiões mais populosas de São Luís, junto ao cruzamento de duas das avenidas de maior fluxo da cidade, a Av. São Luís Rei de França e a Av. Jerônimo de Albuquerque. Com uma localização privilegiada, no cruzamento de duas das avenidas de maior fluxo de São Luís, o Rio Anil Shopping oferece à capital maranhense um mix planejado de lojas com grandes marcas queridas do público, como C&A, Centauro, Casas Bahia, Lojas Americanas, Renner, Riachuelo e muito mais. Junto às opções de serviços, alimentação e lazer, o shopping proporciona facilidade, conveniência e uma experiência completa para o consumidor.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.9175040986843!2d-44.22736922614673!3d-2.533810938259862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691b72bf7a009%3A0xde85c3d7eb90e8c4!2sRio%20Anil%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708317252083!5m2!1spt-BR!2sbr",
             "endereco": "São Luís Rei de França, 8 - Turu, São Luís - MA, 65065-470"
         },
@@ -237,12 +237,8 @@
         ],
         "category": "incorporacao",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
-            "descricao": "O Condomínio está localizado na Av. Recreio, 361 no bairro Lagoa Redonda, Fortaleza/Ce , a 6 minutos do Shopping Iguatemi, próximo de supermercados, farmácias, escolas, a 3 minutos da Av. Washington Soares, e a 5 minutos do Beach Park da Praia do Porto das Dunas.",
+            "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
             "setor": "Incorporações"
         },
         "localizacao": {
@@ -267,11 +263,8 @@
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.webp"
         ],
         "category": "incorporacao",
+        "seloEntrega": "Entregue",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
             "descricao": "Planejado com os mais modernos conceitos de tecnologia e sustentabilidade, o Easy Renascença une diferenciais que irão te encantar em cada detalhe. Um empreendimento que vem para dar mais liberdade ao jeito millennial de viver.",
             "setor": "Incorporações"
@@ -306,7 +299,7 @@
             "setor": "Galpão Logístico"
         },
         "localizacao": {
-            "descricao": "A empresa com a razão social J B TRANSPORTE E LOGISTICA LTDA, tem sua sede localizada na Avenida Engenheiro Emiliano Macieira, 116 - Tibiri, Sao Luis - MA, 65.095-601. Seu foco principal de atuação é de Transporte rodoviário de carga, exceto produtos perigosos e mudanças.",
+            "descricao": " Vila Funil, São Luís - MA.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.433360778748!2d-44.24942882614602!3d-2.603239338481348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69b1415745a4f%3A0x25b50cc4587f1eba!2sJB%20Transporte%20e%20Logistica%20Ltda!5e1!3m2!1spt-BR!2sbr!4v1708317928820!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -327,10 +320,6 @@
         ],
         "category": "comercial",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
             "descricao": "Shopping moderno com um mix de grandes redes, lojas locais e restaurantes.",
             "setor": "Locação Cormercial"
@@ -357,16 +346,12 @@
         ],
         "category": "comercial",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
             "descricao": "O empreendimento dispõe de alta tecnologia, design moderno e diferenciado e conta com recepção 24 horas, salas de reuniões, paisagismo exclusivo, jardins pilotis e controle de acesso com sistema de biometria que oferece mais segurança aos usuários.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "QS 1 - Taguatinga, Brasília - DF, 71950-550",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3037125103992!2d-48.047521525887525!3d-15.840626924093192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a328bece18aef%3A0xb9d85c12405a5347!2sConnect%20Towers!5e0!3m2!1spt-BR!2sbr!4v1708318666783!5m2!1spt-BR!2sbr",
             "endereco": "QS 1 - Taguatinga, Brasília - DF, 71950-550"
         },
@@ -386,16 +371,12 @@
         ],
         "category": "comercial",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
             "descricao": "O Monumental Shopping Center fica localizado ao lado ao Tropical Shopping Center, muitas das vezes fazem campanhas publicitárias juntos. O Shopping Monumental foi inaugurado em agosto de 1995 com a inovadora forma de shopping e salas comerciais, o monumental possui um andar mais uma sobre loja de shopping e seis andares de salas comerciais. Sua fachada é visivelmente marcante tornando-se referência pela cor azul, ele é todo revestido em mini pastilhas azuis e todos os vidros seguem o mesmo tom de azul tonando-o bem arrojado e único.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "O Monumental Shopping Center fica localizado ao lado ao Tropical Shopping Center, muitas das vezes fazem campanhas publicitárias juntos. O Shopping Monumental foi inaugurado em agosto de 1995 com a inovadora forma de shopping e salas comerciais, o monumental possui um andar mais uma sobre loja de shopping e seis andares de salas comerciais. Sua fachada é visivelmente marcante tornando-se referência pela cor azul, ele é todo revestido em mini pastilhas azuis e todos os vidros seguem o mesmo tom de azul tonando-o bem arrojado e único.",
+            "descricao": " Jardim Renascença, São Luís - MA",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0163436580683!2d-44.29130812614684!3d-2.501498738159477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dcd47834b6f%3A0x1ea30db8487b8b7a!2sMonumental%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318733715!5m2!1spt-BR!2sbr",
             "endereco": "Jardim Renascença, São Luís - MA"
         },
@@ -415,16 +396,12 @@
         ],
         "category": "comercial",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O Grupo Eletro Mateus é uma das principais referências no varejo e distribuição no Brasil, com uma trajetória de sucesso desde sua fundação em 1986. Reconhecido por sua ampla rede de supermercados e hipermercados, o Grupo expandiu seus negócios para o segmento de eletrodomésticos e eletrônicos, proporcionando aos clientes uma experiência de compra completa e diversificada. Com um compromisso com a qualidade, variedade e preços competitivos, o Grupo Eletro Mateus continua a ser uma escolha preferida para consumidores em busca de produtos de alta qualidade e atendimento excepcional.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Av. Contôrno Leste Oeste, 360 - Cohatrac I, São Luís - MA, 65053-700",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8988920740157!2d-44.20961432614665!3d-2.539849538278821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f690fe281503d3%3A0xf73d15ee801fba41!2sEletro%20Mateus!5e0!3m2!1spt-BR!2sbr!4v1708318788540!5m2!1spt-BR!2sbr",
             "endereco": "Av. Contôrno Leste Oeste, 360 - Cohatrac I, São Luís - MA, 65053-700"
         },
@@ -444,16 +421,12 @@
         ],
         "category": "comercial",
         "details": "",
-        "plantaBaixa": [
-            "/FOTOS-NOVO-GUI/PLANTAS/PLANTA1.jpeg",
-            "/FOTOS-NOVO-GUI/PLANTAS/planta2.jpeg"
-        ],
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O Grupo Mateus é uma das maiores redes varejistas do Brasil, com uma forte presença no nordeste. Desde sua fundação em 1986 como uma pequena mercearia, cresceu para se tornar uma rede de supermercados e hipermercados amplamente reconhecida.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Av. Contôrno Norte, 58 - Cohatrac IV, São Luís - MA, 65054-310.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.595899583845!2d-44.21733917081659!3d-2.539822698797548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69139a918c7cf%3A0x8377140a85eb5608!2sMateus!5e0!3m2!1spt-BR!2sbr!4v1708319155218!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -476,11 +449,10 @@
         "category": "comercial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Locação Cormercial"
+            "descricao": "O Grupo Mateus é uma das maiores redes varejistas do Brasil, com uma forte presença no nordeste. Desde sua fundação em 1986 como uma pequena mercearia, cresceu para se tornar uma rede de supermercados e hipermercados amplamente reconhecida."
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Av. Edson Brandão, SN - Cutim Anil, São Luís - MA, 65045-380",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.423169374517!2d-44.266471744580095!3d-2.553778300000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68f288f0b402d%3A0xb4e1fad759c38e24!2sMateus%20Supermercados%20-%20Anil!5e0!3m2!1spt-BR!2sbr!4v1708319212664!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -501,11 +473,11 @@
         "category": "comercial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Uma das maiores redes de atacarejo da região Centro-Oeste, o Costa Atacadão mantém uma política combinada de qualidade, variedade e preço baixo, sempre pensando em vantagens para o cliente. O ambiente como um todo é focado na experiência do cliente e de seus colaboradores. Com lojas em Goiás e Distrito Federal, somando 15 lojas ao todo e com foco em constante expansão, a rede Costa Atacadão se orgulha em ter clientes e fornecedores fiéis e sempre trazendo economia e qualidade.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": " Avenida T-63, R. 1034, 251 - Quadra 73 A - St. Pedro Ludovico, Goiânia - GO, 74823-080",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.486926784568!2d-48.03901628564258!3d-15.830985199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33c46c6c4def%3A0xbb47cb38bdaa381c!2sCosta%20Atacad%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1708319362373!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -530,11 +502,10 @@
         "category": "comercial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Locação Cormercial"
+            "descricao": "Maple Bear é uma rede de escolas internacionais presente em diversos países, conhecida por oferecer um ensino de alta qualidade com base no currículo canadense. A Maple Bear Brasília - Asa Norte é uma das unidades dessa rede na capital brasileira. Oferece uma educação bilíngue (inglês-português) desde a Educação Infantil até o Ensino Fundamental, seguindo os padrões educacionais canadenses."
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": " St. de Grandes Áreas Norte 916 Conjunto D - Asa Norte, Brasília - DF, 70790-160.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30706.14383929431!2d-48.064927272192534!3d-15.842506700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a331a8d206b99%3A0xa184f574e4a51beb!2sMaple%20Bear!5e0!3m2!1spt-BR!2sbr!4v1708319483947!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -555,11 +526,11 @@
         "category": "corporativo",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "A Defensoria Pública da União (DPU) no Renascença, São Luís, MA, é uma importante instituição que oferece assistência jurídica gratuita a indivíduos que necessitam de apoio legal e não têm condições financeiras para arcar com os custos de um advogado particular.",
             "setor": "Locação Corporativa"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "R. Anapurus - Jardim Renascença, São Luís - MA, 65075-670",
             "mapa": "https://www.google.com/maps/embed?pb=!4v1708319596826!6m8!1m7!1sHkP6JS3n_giRlz8bRlo6dg!2m2!1d-2.502376046760268!2d-44.28616678470383!3f347.7286504523046!4f5.000356654843088!5f0.7820865974627469",
             "endereco": "São Luis"
         },
@@ -580,11 +551,11 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O Apartamento Vive La Vie em Águas Claras, Brasília, é parte de um empreendimento imobiliário conhecido por oferecer residências com conforto e qualidade de vida. Localizado em uma região estratégica da cidade, esse empreendimento pode ser uma excelente opção para quem busca morar ou investir em imóveis na capital federal.",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": " R. 36 Norte - Águas Claras, Brasília - DF, 71919-180.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4532397304074!2d-48.03972922588782!3d-15.83275842389893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33ae3a7204af%3A0xc3384c247cd083aa!2sResidencial%20Vive%20La%20Vie!5e0!3m2!1spt-BR!2sbr!4v1708319887430!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -610,11 +581,11 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Apartamento Hotel Bonaparte é uma opção de hospedagem localizada em Brasília, no Distrito Federal. Geralmente, este tipo de estabelecimento oferece acomodações que combinam as comodidades de um apartamento com os serviços de um hotel, como limpeza diária, serviço de quarto, recepção 24 horas, entre outros.",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "St. Hoteleiro Sul Q. 2 - Asa Sul, Brasília - DF, 70312-000.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -635,11 +606,11 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O Edifício Cidade do Porto, situado no Jardim Renascença em São Luís, Maranhão, é um elegante empreendimento residencial que oferece uma combinação de conforto e conveniência para seus moradores. Com sua localização privilegiada, próximo a diversas facilidades urbanas, este edifício proporciona uma excelente qualidade de vida.",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Jardim Renascença, São Luís - MA, 65071-395",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127553.55935225807!2d-44.42861965664063!3d-2.490820099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68db4e1156c73%3A0xb98767fe5601d77b!2sEdif%C3%ADcio%20Cidade%20do%20Porto!5e0!3m2!1spt-BR!2sbr!4v1708320093263!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -660,11 +631,11 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O Edifício Portinari, situado no Renascença em São Luís, Maranhão, é uma destacada opção residencial na cidade. Com sua arquitetura moderna e elegante, oferece uma atmosfera de conforto e sofisticação aos seus moradores. Seus apartamentos espaçosos e bem planejados proporcionam um estilo de vida conveniente e acolhedor, perfeito para famílias e indivíduos que buscam qualidade de vida.",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "R. Perdizes, 8 - Jardim Renascença, São Luís - MA, 65075-365.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127552.50856742704!2d-44.429554656640605!3d-2.5016470999999934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dd258ead829%3A0xdd73433235bc018b!2sEdif%C3%ADcio%20Portinari!5e0!3m2!1spt-BR!2sbr!4v1708320172885!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -685,45 +656,16 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O Edifício Alvorada, situado na Ponta D'areia em São Luís, Maranhão, é uma notável opção residencial que combina conforto e conveniência em uma das áreas mais desejadas da cidade. Com sua arquitetura contemporânea e design elegante, oferece um ambiente acolhedor e moderno para seus moradores.",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": " ED Alvorada - Av. dos Holandeses, 11 - Jardim Renascença, São Luís - MA, 65075-650.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0431010284847!2d-44.30776112614708!3d-2.492679338132369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68c411955ea3f%3A0xed1301e5e9371bf4!2sEdif%C3%ADcio%20Alvorada!5e0!3m2!1spt-BR!2sbr!4v1708320528072!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
         "estado": "Maranhao",
         "bairro":"Ponta D'areia | São Luís - MA"
-    },
-    {
-        "id": 32,
-        "name": "Unieuro Águas Claras",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/Principal.webp",
-        "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/Principal.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/01.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/02.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/03.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/04.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/05.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/06.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/07.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/UNIEURO AGUAS CLARAS/08.webp"
-        ],
-        "category": "oportunidades",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Oportunidades"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4703190610076!2d-48.039575825887816!3d-15.831859423876674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f1c0339fd%3A0x110a7ff1821babec!2sCentro%20Universit%C3%A1rio%20Unieuro!5e0!3m2!1spt-BR!2sbr!4v1708313168806!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Brasilia"
     },
     {
         "id": 33,
@@ -741,11 +683,11 @@
         "category": "oportunidades",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
             "setor": "Oportunidades"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O condomínio está localizado na Avenida Recreio, 361, no bairro Lagoa Redonda, Fortaleza, em uma área estratégica, próximo a vários supermercados, farmácias e escolas, a apenas 3 minutos da avenida Washington Soares, a 6 minutos do Shopping Iguatemi e a 5 minutos do Beach Park e da Praia do Porto das Dunas.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -777,32 +719,6 @@
         "estado": "Brasilia"
     },
     {
-        "id": 37,
-        "name": "Easy Renascença",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/EasyPrincipal.webp",
-        "images": [
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/EasyPrincipal.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/1.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/2.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/3.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/4.webp",
-            "/FOTOS-NOVO-GUI/OPORTUNIDADES/EASY RESIDENCE/5.webp"
-        ],
-        "category": "oportunidades",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Oportunidades"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao"
-    },
-    {
         "id": 42,
         "name": "Drogasil",
         "date": "",
@@ -824,7 +740,7 @@
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "R. H, 58 - Cohatrac I, São Luís - MA, 65053-650",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8942049163657!2d-44.20940615236756!3d-2.541368008364741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f691bf1ac99f73%3A0xd4726c9c245b4d2b!2sDrogasil!5e0!3m2!1spt-BR!2sbr!4v1708322435858!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -846,11 +762,11 @@
         "category": "bts",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "O IOA/ITC São Luís é uma instituição de ensino premium no Brasil, especializadas em saúde. Eles oferecem alta qualificação profissional e técnica, com treinamento prático em cadáveres frescos, visando um aprendizado realístico e consistente.",
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "R. Carutapera, 5 - Jardim Renascença, São Luís - MA,",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -873,13 +789,15 @@
         ],
         "category": "incorporacao",
         "details": "",
+        "seloVenda": "100% Vendido",
+        "seloEntrega": "Em Construção",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Incorporação"
+            "descricao": "Um verdadeiro amante e colecionador de experiências únicas. Foi inspirado neste conceito e na arte de viver bem que criamos o Amiral Península: empreendimento residencial de luxo pensado para tornar cada um dos seus dias, uma experiência única como navegar.",
+            "setor": "Incorporações"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "descricao": "Com uma das melhores localizações de São Luís, o empreendimento está situado na região da Península, próximo aos melhores restaurantes, shoppings, academias e escolas. E além de estar perto de tudo aquilo que importa, você e sua família poderão desfrutar dessa região e morar com muita segurança e conforto.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0172119297167!2d-44.31644642634385!3d-2.501213038158193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d2c95089e0d%3A0xbd6acc10559fdc3d!2sAmiral%20Pen%C3%ADnsula!5e0!3m2!1spt-BR!2sbr!4v1715867040401!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
         "estado": "Maranhao",
@@ -901,12 +819,12 @@
         "category": "incorporacao",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "BTS (Built to Suit)"
+            "descricao": "Depois de um tempo no mar agitado, tudo que se busca é um pouco de paz e calmaria. É justamente isso que uma marina oferece aos barcos que lá se atracam. E também é o que o Marina Península oferece aos seus futuros moradores. Um lar de paz e tranquilidade. Um verdadeiro porto seguro.",
+            "setor": "Incorporações"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "descricao": "Localizado na quadra da praia de uma das melhores regiões de São Luís, na Península da Ponta D’Areia. Bem próximo aos melhores restaurantes, bares, empórios, spas, salões de beleza, academias, pet shoppings e escolas. Perto de tudo aquilo que você e sua família mais gostam.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.015082253901!2d-44.31583452634372!3d-2.501913738160335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d0b3a06be25%3A0x7acef349625dbb7e!2sMarina%20Pen%C3%ADnsula!5e0!3m2!1spt-BR!2sbr!4v1715867148982!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
         "estado": "Maranhao",
@@ -927,40 +845,11 @@
         "category": "strip-malls",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "Strip Malls"
+            "descricao": "Bem-vindo à Clínica Integrada de Saúde, o seu destino completo para cuidados médicos abrangentes e especializados. Nossa clínica representa a união de renomadas instituições médicas, incluindo Gastrocentro, Cedro, Uroclínica, Diagnose, CT Trauma, Procardio e Clínica do Intestino, unindo forças para oferecer uma gama completa de serviços de saúde.",
+            "setor": "Strip Malls/Oportunidades"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao",
-        "bairro": "Cohama | São Luís - MA"
-    },
-    {
-        "id": 46,
-        "name": "Unieuro Asa Norte",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/Principal.webp",
-        "images": [
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/Principal.webp",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/01.webp",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/02.webp",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/03.webp",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/04.webp",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/05.webp",
-            "/FOTOS-NOVO-GUI/BTS/UNIEURO ASA NORTE/06.webp"
-
-        ],
-        "category": "bts",
-        "details": "",
-        "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
-            "setor": "BTS (Built to Suit)"
-        },
-        "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Av. Jerônimo de Albuquerque, 5946-5974 - Cantinho do Céu, São Luís - MA, 65074-115",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -979,10 +868,10 @@
             "/FOTOS-NOVO-GUI/BTS/Burguer King/03.webp",
             "/FOTOS-NOVO-GUI/BTS/Burguer King/04.webp"  
         ],
-        "category": "bts",
+        "category": "comercial",
         "details": "",
         "sobre": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "descricao": "Burger King é uma das maiores cadeias de restaurantes de fast food do mundo, especializada em hambúrgueres, batatas fritas e refrigerantes. Fundada em 1954 nos Estados Unidos, a empresa expandiu-se globalmente e está presente em muitos países, incluindo o Brasil.",
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
@@ -992,5 +881,56 @@
         },
         "estado": "Maranhao",
         "bairro": "Asa Sul | Brasília - DF"
+    },
+    {
+        "id": 48,
+        "name": "Cap Ferrat Residence",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/principal.jpg",
+        "images": [
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/principal.jpg",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/1.jpg",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/2.jpg",
+            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/3.jpg"
+        ],
+        "category": "residencial",
+        "details": "",
+        "sobre": {
+            "descricao": "O Cap Ferrat Residence, situado na Asa Sul em Brasília, DF, destaca-se como uma opção residencial de alto padrão na capital federal. Com uma localização privilegiada e uma arquitetura sofisticada, este empreendimento oferece um ambiente luxuoso e exclusivo para seus moradores.",
+            "setor": "Locação Residencial"
+        },
+        "localizacao": {
+            "descricao": " R. Jorn. Dondon, 2933 - Horto, Teresina - PI, 64052-850",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Brasilia",
+        "bairro":"Asa Sul | Brasília - DF"
+    },
+    {
+        "id": 49,
+        "name": "SP Mall Cohama",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04.webp"
+        ],
+        "category": "oportunidades",
+        "details": "",
+        "sobre": {
+            "descricao": " à Clínica Integrada de Saúde, o seu destino completo para cuidados médicos abrangentes e especializados. Nossa clínica representa a união de renomadas instituições médicas, incluindo Gastrocentro, Cedro, Uroclínica, Diagnose, CT Trauma, Procardio e Clínica do Intestino, unindo forças para oferecer uma gama completa de serviços de saúde.",
+            "setor": "Oportunidades/Strip Malls"
+        },
+        "localizacao": {
+            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao",
+        "bairro": "Cohama | São Luís - MA"
     }
 ]

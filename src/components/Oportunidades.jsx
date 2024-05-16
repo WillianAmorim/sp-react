@@ -25,9 +25,9 @@ const Oportunidades = () => {
             <div>
                 <Swiper
                     modules={[Navigation, Pagination, Autoplay]}
-                    slidesPerView={5}
-                    centeredSlides={true}
-                    spaceBetween={20}
+                    slidesPerView={2}
+                    centeredSlides={false}
+                    spaceBetween={30}
                     grabCursor={true}
                     autoplay={{
                         delay: 0,
@@ -43,7 +43,7 @@ const Oportunidades = () => {
                             slidesPerView: 2,
                         },
                         1024: {
-                            slidesPerView: 3,
+                            slidesPerView: 2,
                         },
                     }}
                 >

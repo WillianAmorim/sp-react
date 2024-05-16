@@ -33,12 +33,12 @@ const CarroselHome = () => {
         <SwiperSlide>
           <div className='div-absolute'>
             <h1>Medical Center</h1>
-            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
-            <ul>
+            <p>Experimente a Clínica Integrada de Saúde, reunindo as melhores instituições médicas para cuidados abrangentes e especializados em um ambiente moderno e acolhedor.</p>
+            {/* <ul>
               <li className="li-swiper-container1"><BsBuilding />15 andares</li>
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
-            </ul>
+            </ul> */}
             <Link to={'/empreendimento/strip-malls/sp-mall-cohama'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={Medical} alt="" />
@@ -61,12 +61,12 @@ const CarroselHome = () => {
         <SwiperSlide>
           <div className='div-absolute'>
             <h1>Gran Imperial</h1>
-            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
-            <ul>
+            <p>Explore o Grand Imperial Residence: o máximo em luxo e comodidade em um condomínio exclusivo.</p>
+            {/* <ul>
               <li className="li-swiper-container1"><BsBuilding />15 andares</li>
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
-            </ul>
+            </ul> */}
             <Link to={'/empreendimento/oportunidades/grand-imperial-residence'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={GranImperial} alt="" />
@@ -75,12 +75,12 @@ const CarroselHome = () => {
         <SwiperSlide>
           <div className='div-absolute'>
             <h1>IOA</h1>
-            <p>Uma nova ideia de espaço, conforto, lazer e sustentabilidade</p>
-            <ul>
+            <p>O IOA/ITC São Luís é uma instituição de ensino premium no Brasil, especializadas em educação e saúde.</p>
+            {/* <ul>
               <li className="li-swiper-container1"><BsBuilding />15 andares</li>
               <li className="li-swiper-container1"><IoCarSharp />1 ou 2 vagas</li>
               <li className="li-swiper-container1"><GiShower />1 ou duas suítes</li>
-            </ul>
+            </ul> */}
             <Link to={'/empreendimento/bts/ioa-itc'}>Conheça o imóvel</Link>
           </div>
           <img className='slide-item' src={IOA} alt="" />

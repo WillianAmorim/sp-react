@@ -15,28 +15,19 @@ const Cards = ({ arrayCards }) => {
       <section>
         {arrayCards.map((card) => (
           <div className='div-card' key={card.id}>
+            <div className={card.seloVenda ? 'vendido' : ''}>
+              {card.seloVenda && <p>{card.seloVenda}</p>}
+            </div>
             <div className='div-details-mobile'>
               <h2>{card.name}</h2>
               <p>{card.bairro}</p>
-
-              <div className='section-details-mobile'>
-                {/* <p><SlSizeFullscreen size={15} />65 a 131 m²</p>
-                <p><FaBed size={15} color='white' />3 a 4 dorm.</p>
-                <p><GiShower size={15} />1 a 4 suítes</p>
-                <p><IoCarSharp size={15} />1 a 2 vagas</p> */}
-              </div>
+              {card.seloEntrega && <p className='construcao'>{card.seloEntrega}</p>}
             </div>
-            <section className='section-details-web'>
-              {/* <div><SlSizeFullscreen size={15} />65 a 131 m²</div>
-              <div><FaBed size={15} color='white' />3 a 4 dorm.</div>
-              <div><GiShower size={15} />1 a 4 suítes</div>
-              <div><IoCarSharp size={15} />1 a 2 vagas</div> */}
-            </section>
-            {/* <a id='lancamento-web' href="">Lançamento</a> */}
             <Link id='link-img' to={card.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}><img src={card.imgPrincipal} alt="" /></Link>
 
             <div className='div-details-web'>
               <div>
+                {card.seloEntrega && <p className='construcao'>{card.seloEntrega}</p>}
                 <h2>{card.name}</h2>
                 <p>{card.bairro}</p>
               </div>
