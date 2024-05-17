@@ -237,6 +237,7 @@
         ],
         "category": "incorporacao",
         "details": "",
+        "conhecaMais": "https://www.grandimperialresidence.com.br/",
         "sobre": {
             "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
             "setor": "Incorporações"
@@ -264,6 +265,7 @@
         ],
         "category": "incorporacao",
         "seloEntrega": "Entregue",
+        "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/easy/",
         "details": "",
         "sobre": {
             "descricao": "Planejado com os mais modernos conceitos de tecnologia e sustentabilidade, o Easy Renascença une diferenciais que irão te encantar em cada detalhe. Um empreendimento que vem para dar mais liberdade ao jeito millennial de viver.",
@@ -789,9 +791,9 @@
         ],
         "category": "incorporacao",
         "details": "",
-        "conhecaMais": "Conheça Mais",
-        "seloVenda": "100% Vendido",
-        "seloEntrega": "Em Construção",
+        "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/amiral/",
+        "__seloVenda": "100% Vendido",
+        "__seloEntrega": "Em Construção",
         "sobre": {
             "descricao": "Um verdadeiro amante e colecionador de experiências únicas. Foi inspirado neste conceito e na arte de viver bem que criamos o Amiral Península: empreendimento residencial de luxo pensado para tornar cada um dos seus dias, uma experiência única como navegar.",
             "setor": "Incorporações"
@@ -819,6 +821,7 @@
         ],
         "category": "incorporacao",
         "details": "",
+        "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/marina/",
         "sobre": {
             "descricao": "Depois de um tempo no mar agitado, tudo que se busca é um pouco de paz e calmaria. É justamente isso que uma marina oferece aos barcos que lá se atracam. E também é o que o Marina Península oferece aos seus futuros moradores. Um lar de paz e tranquilidade. Um verdadeiro porto seguro.",
             "setor": "Incorporações"
@@ -851,7 +854,7 @@
         },
         "localizacao": {
             "descricao": "Av. Jerônimo de Albuquerque, 5946-5974 - Cantinho do Céu, São Luís - MA, 65074-115",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.954091917527!2d-44.24884502634357!3d-2.521898038222251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69140290e74b3%3A0x317344cb387342a9!2sSP%20Mall%20Cohama%20Medical%20Center!5e0!3m2!1spt-BR!2sbr!4v1715955018653!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
         "estado": "Maranhao",
