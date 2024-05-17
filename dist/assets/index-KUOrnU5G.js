@@ -265,7 +265,7 @@ Error generating stack: `+a.message+`
     .slide-item {
         width: 100%;
         height: 400px;
-        filter: brightness(0.7);
+        filter: brightness(0.5);
     }
 
     .swiper-button-next,
@@ -281,8 +281,9 @@ Error generating stack: `+a.message+`
     }
 
     .div-absolute {
-        width: 80%;
+        max-width: 80%;
         position: absolute;
+        padding: 20px;
         z-index: 9;
         color: white;
         left: 20px;
@@ -291,6 +292,9 @@ Error generating stack: `+a.message+`
         display: flex;
         flex-direction: column;
         gap: 10px;
+
+        /* background-color: red; */
+        /* background-color: rgba(0, 0, 0, 0.6); */
 
         p {
             width: 350px;
