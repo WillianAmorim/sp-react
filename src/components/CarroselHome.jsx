@@ -4,7 +4,7 @@ import { EffectFade, Navigation, Pagination, Autoplay } from 'swiper/modules'
 import { Link } from 'react-router-dom'
 
 
-import EasyResidence from '../assets/Easy.webp'
+import EasyResidence from '../assets/Principal.jpg'
 import GranImperial from '../assets/Gran.webp'
 import IOA from '../assets/IOA.webp'
 import Medical from '../assets/MedicalCenter.webp'

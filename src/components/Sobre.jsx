@@ -1,5 +1,5 @@
-import { H1Container, DivElements, HrMaior, Paragraph } from "../styles/PaginaEmpreendimento";
-const Sobre = ({sobre}) => {
+import { H1Container, DivElements, HrMaior, Paragraph, ConhecaMais } from "../styles/PaginaEmpreendimento";
+const Sobre = ({sobre, conhecaMais}) => {
     return (
         <div>
             <DivElements className="div-elements">
@@ -7,6 +7,7 @@ const Sobre = ({sobre}) => {
                 <div className="div-apresentacao">
                     <H1Container>Sobre</H1Container>
                     <Paragraph>{sobre.descricao}</Paragraph>
+                    {conhecaMais && conhecaMais && <ConhecaMais className='button-conheca-mais'>{conhecaMais}</ConhecaMais>}
                 </div>
 
                 <div>

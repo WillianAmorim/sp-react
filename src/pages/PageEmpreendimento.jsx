@@ -56,7 +56,7 @@ const PageEmpreendimento = () => {
             <Navbar />
             <Header />
             <CarroselEmpreendimento images={filterCard.images}/>
-            <Sobre sobre={filterCard.sobre} />
+            <Sobre sobre={filterCard.sobre} conhecaMais={filterCard.conhecaMais} />
             {filterCard.plantaBaixa ? <PlantaBaixa plantas={filterCard.plantaBaixa} /> : ''}
             <Localizacao localizacao={filterCard.localizacao} />
             {/* <Cadastro /> */}

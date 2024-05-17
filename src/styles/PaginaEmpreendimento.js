@@ -168,3 +168,13 @@ export const StyledGoShare = styled.div`
   border-radius: 10px;
   padding: 3px 8px;
 `;
+
+export const ConhecaMais = styled.div`
+    margin-top: 25px;
+    background-color: #121D40;
+    color: white;
+    max-width: max-content;
+    padding: 15px 25px;
+    border-radius: 25px;
+`;
+

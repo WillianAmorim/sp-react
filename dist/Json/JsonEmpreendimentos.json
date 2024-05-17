@@ -253,9 +253,9 @@
         "id": 12,
         "name": "Easy Renascença",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/EasyPrincipal.webp",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/EasyPrincipal.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/01.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/02.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/03.webp",
@@ -789,6 +789,7 @@
         ],
         "category": "incorporacao",
         "details": "",
+        "conhecaMais": "Conheça Mais",
         "seloVenda": "100% Vendido",
         "seloEntrega": "Em Construção",
         "sobre": {
