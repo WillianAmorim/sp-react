@@ -59,6 +59,7 @@ export const Paragraph = styled.p`
     font-family: 'Inter', sans-serif;
     font-size: 15px;
     margin-top: 10px;
+    margin-bottom: 30px;
 `
 
 export const DivPlanta = styled.div`
@@ -169,12 +170,18 @@ export const StyledGoShare = styled.div`
   padding: 3px 8px;
 `;
 
-export const ConhecaMais = styled.div`
-    margin-top: 25px;
+export const ConhecaMais = styled.a`
+    &:hover {
+        cursor: pointer;
+    }
+
     background-color: #121D40;
     color: white;
     max-width: max-content;
     padding: 15px 25px;
     border-radius: 25px;
+    text-decoration: none;
+
+    
 `;
 

@@ -7,7 +7,7 @@ const Sobre = ({sobre, conhecaMais}) => {
                 <div className="div-apresentacao">
                     <H1Container>Sobre</H1Container>
                     <Paragraph>{sobre.descricao}</Paragraph>
-                    {conhecaMais && conhecaMais && <ConhecaMais className='button-conheca-mais'>{conhecaMais}</ConhecaMais>}
+                    {conhecaMais && <ConhecaMais href={conhecaMais} target="_blank" className='button-conheca-mais'>Conheça Mais</ConhecaMais>}
                 </div>
 
                 <div>
