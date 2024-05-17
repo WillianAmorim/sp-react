@@ -7,7 +7,7 @@ export const CarroselContainer = styled.div`
     .slide-item {
         width: 100%;
         height: 400px;
-        filter: brightness(0.4);
+        filter: brightness(0.7);
     }
 
     .swiper-button-next,
@@ -23,8 +23,9 @@ export const CarroselContainer = styled.div`
     }
 
     .div-absolute {
-        width: 80%;
+        max-width: 80%;
         position: absolute;
+        padding: 20px;
         z-index: 9;
         color: white;
         left: 20px;
@@ -33,6 +34,9 @@ export const CarroselContainer = styled.div`
         display: flex;
         flex-direction: column;
         gap: 10px;
+
+        /* background-color: red; */
+        background-color: rgba(0, 0, 0, 0.6);
 
         p {
             width: 350px;
