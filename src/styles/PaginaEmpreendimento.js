@@ -178,9 +178,10 @@ export const ConhecaMais = styled.a`
     background-color: #121D40;
     color: white;
     max-width: max-content;
-    padding: 15px 25px;
+    padding: 10px 20px;
     border-radius: 25px;
     text-decoration: none;
+    font-size: 15px;
 
     
 `;
