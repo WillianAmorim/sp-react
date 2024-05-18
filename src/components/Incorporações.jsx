@@ -15,7 +15,7 @@ const Incorporacoes = () => {
         <OportunidadesContainer>
             <div className='div-container'>
                 <div className='div-title'>
-                    <h1>Incorporacoes</h1>
+                    <h1>Incorporações</h1>
                     <p>Veja os melhores imóveis e negócios</p>
                 </div>
                 <div id='div-conheca-todos'><Link to={'/empreendimento/incorporacao'}>Conheça todos</Link></div>
