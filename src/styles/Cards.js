@@ -217,11 +217,11 @@ export const CardsContainer = styled.div`
             position: absolute;
             color: white;
             z-index: 9;
-            top: 316px;
-            left: 0px;
+            top: 10px;
+            right: 10px;
             font-size: 10px;
-            background-color: white;
-            color: black;
+            /* background-color: white; */
+            /* color: black; */
             font-weight: 500;
         }
 
