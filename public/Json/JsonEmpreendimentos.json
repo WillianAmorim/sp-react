@@ -306,11 +306,11 @@
         "details": "",
         "conhecaMais": "https://jbstransportes.com.br/",
         "sobre": {
-            "descricao": "A empresa com a razão social J B TRANSPORTE E LOGISTICA LTDA, tem sua sede localizada na Avenida Engenheiro Emiliano Macieira, 116 - Tibiri, Sao Luis - MA, 65.095-601. Seu foco principal de atuação é de Transporte rodoviário de carga, exceto produtos perigosos e mudanças.",
+            "descricao": "A JB Transportes e Logística é uma empresa que atua no ramo de transporte e logística, oferecendo serviços de movimentação de cargas, armazenagem e distribuição. Com sede em São Luís, Maranhão, a empresa se destaca por sua expertise no transporte rodoviário, atendendo às necessidades de diversos setores da economia, como indústria, comércio e agronegócio.",
+            "detailsLocalizacao": "A Vila Funil é um bairro localizado em São Luís, no estado do Maranhão, Brasil. Trata-se de uma área residencial que faz parte do tecido urbano da cidade.",
             "setor": "Galpão Logístico"
         },
         "localizacao": {
-            "descricao": " Vila Funil, São Luís - MA.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.433360778748!2d-44.24942882614602!3d-2.603239338481348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69b1415745a4f%3A0x25b50cc4587f1eba!2sJB%20Transporte%20e%20Logistica%20Ltda!5e1!3m2!1spt-BR!2sbr!4v1708317928820!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -333,11 +333,11 @@
         "details": "",
         "conhecaMais": "https://www.salasaguasclaras.com.br/df-century-plaza/?utm_source=Google&utm_medium=cpc&utm_campaign=institucional&utm_source=&utm_medium=&utm_campaign=&utm_content=&gad_source=1&gclid=CjwKCAjwgdayBhBQEiwAXhMxtq7nghLS-hDv76kJ8iCcgX7W6dAefs0ER29GR9PK3KKVky1V2i7pehoC1WgQAvD_BwE",
         "sobre": {
-            "descricao": "Shopping moderno com um mix de grandes redes, lojas locais e restaurantes.",
+            "descricao": "O Edifício DF Plaza é um impressionante empreendimento localizado em Brasília, capital do Brasil. Combinando espaços comerciais e residenciais de alta qualidade, ele oferece uma gama diversificada de serviços e comodidades para seus residentes e visitantes.",
+            "detailsLocalizacao": "Sua localização central oferece fácil acesso a importantes vias da cidade, facilitando o deslocamento tanto para quem vive na região quanto para quem trabalha ou visita o local.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Shopping moderno com um mix de grandes redes, lojas locais e restaurantes.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.473105998907!2d-48.04352402588789!3d-15.83171272387306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a325f42832ad3%3A0x59143e7a3f584efa!2sDF%20Plaza%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318594295!5m2!1spt-BR!2sbr",
             "endereco": "R. Copaíba, lote 01 - Águas Claras, Brasília - DF, 71919-540"
         },
@@ -360,11 +360,11 @@
         "details": "",
         "conhecaMais": "https://www.salasaguasclaras.com.br/connect-towers/",
         "sobre": {
-            "descricao": "O empreendimento dispõe de alta tecnologia, design moderno e diferenciado e conta com recepção 24 horas, salas de reuniões, paisagismo exclusivo, jardins pilotis e controle de acesso com sistema de biometria que oferece mais segurança aos usuários.",
+            "descricao": "O Edifício Connect Towers é um empreendimento localizado em Brasília, Distrito Federal, Brasil. Ele é conhecido por ser um complexo empresarial que oferece espaços comerciais modernos e sofisticados para empresas de diversos segmentos",
+            "detailsLocalizacao": "Sua localização central oferece não apenas acesso conveniente às principais vias da cidade, mas também proximidade com importantes instituições governamentais e comerciais. Com uma vista deslumbrante da cidade e da paisagem urbana circundante, o Connect Towers se destaca como um marco arquitetônico impressionante.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "QS 1 - Taguatinga, Brasília - DF, 71950-550",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3037125103992!2d-48.047521525887525!3d-15.840626924093192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a328bece18aef%3A0xb9d85c12405a5347!2sConnect%20Towers!5e0!3m2!1spt-BR!2sbr!4v1708318666783!5m2!1spt-BR!2sbr",
             "endereco": "QS 1 - Taguatinga, Brasília - DF, 71950-550"
         },
@@ -386,11 +386,11 @@
         "details": "",
         "conhecaMais": "",
         "sobre": {
-            "descricao": "O Monumental Shopping Center fica localizado ao lado ao Tropical Shopping Center, muitas das vezes fazem campanhas publicitárias juntos. O Shopping Monumental foi inaugurado em agosto de 1995 com a inovadora forma de shopping e salas comerciais, o monumental possui um andar mais uma sobre loja de shopping e seis andares de salas comerciais. Sua fachada é visivelmente marcante tornando-se referência pela cor azul, ele é todo revestido em mini pastilhas azuis e todos os vidros seguem o mesmo tom de azul tonando-o bem arrojado e único.",
+            "descricao": "O Monumental Shopping é um centro comercial localizado em São Luís, capital do estado do Maranhão, no Brasil. Ele é conhecido por oferecer uma variedade de opções de compras, entretenimento e gastronomia para moradores e visitantes da região. O shopping conta com diversas lojas de marcas nacionais e internacionais, cinemas, praça de alimentação e outras atrações.",
+            "detailsLocalizacao": "Sua localização estratégica e suas instalações modernas o tornam um destino popular para quem busca lazer, compras e diversão na cidade de São Luís.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": " Jardim Renascença, São Luís - MA",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.0163436580683!2d-44.29130812614684!3d-2.501498738159477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68dcd47834b6f%3A0x1ea30db8487b8b7a!2sMonumental%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1708318733715!5m2!1spt-BR!2sbr",
             "endereco": "Jardim Renascença, São Luís - MA"
         },
@@ -411,11 +411,11 @@
         "category": "comercial",
         "details": "",
         "sobre": {
-            "descricao": "O Grupo Eletro Mateus é uma das principais referências no varejo e distribuição no Brasil, com uma trajetória de sucesso desde sua fundação em 1986. Reconhecido por sua ampla rede de supermercados e hipermercados, o Grupo expandiu seus negócios para o segmento de eletrodomésticos e eletrônicos, proporcionando aos clientes uma experiência de compra completa e diversificada. Com um compromisso com a qualidade, variedade e preços competitivos, o Grupo Eletro Mateus continua a ser uma escolha preferida para consumidores em busca de produtos de alta qualidade e atendimento excepcional.",
+            "descricao": "o Eletro Mateus é uma rede de lojas de eletrodomésticos e eletrônicos que faz parte do Grupo Mateus, uma das maiores redes varejistas do Brasil, com sede em São Luís, no estado do Maranhão. O Eletro Mateus oferece uma variedade de produtos, incluindo eletrodomésticos, eletrônicos, telefonia, informática e outros itens relacionados.",
+            "detailsLocalizacao": "A Avenida Contôrno Leste Oeste, 360, localizada na Cohatrac I, em São Luís, Maranhão, Brasil, é uma área residencial e comercial movimentada da cidade.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Av. Contôrno Leste Oeste, 360 - Cohatrac I, São Luís - MA, 65053-700",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.8988920740157!2d-44.20961432614665!3d-2.539849538278821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f690fe281503d3%3A0xf73d15ee801fba41!2sEletro%20Mateus!5e0!3m2!1spt-BR!2sbr!4v1708318788540!5m2!1spt-BR!2sbr",
             "endereco": "Av. Contôrno Leste Oeste, 360 - Cohatrac I, São Luís - MA, 65053-700"
         },
@@ -437,11 +437,11 @@
         "details": "",
         "conhecaMais": "https://www.grupomateus.com.br/",
         "sobre": {
-            "descricao": "O Grupo Mateus é uma das maiores redes varejistas do Brasil, com uma forte presença no nordeste. Desde sua fundação em 1986 como uma pequena mercearia, cresceu para se tornar uma rede de supermercados e hipermercados amplamente reconhecida.",
+            "descricao": "O Grupo Mateus é uma das maiores empresas varejistas do Brasil, com sede em São Luís, no estado do Maranhão. Fundado em 1986, o Grupo Mateus começou como uma pequena mercearia e cresceu rapidamente ao longo dos anos, expandindo suas operações para se tornar uma empresa diversificada que engloba supermercados, atacarejos, lojas de conveniência, distribuição de alimentos, e-commerce e muito mais.",
+            "detailsLocalizacao": "A Avenida Contôrno Norte, 58, na Cohatrac IV, em São Luís, Maranhão, Brasil, é uma área residencial tranquila e bem localizada.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": "Av. Contôrno Norte, 58 - Cohatrac IV, São Luís - MA, 65054-310.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.595899583845!2d-44.21733917081659!3d-2.539822698797548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69139a918c7cf%3A0x8377140a85eb5608!2sMateus!5e0!3m2!1spt-BR!2sbr!4v1708319155218!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -490,11 +490,11 @@
         "details": "",
         "conhecaMais": "https://costaatacadao.com.br/",
         "sobre": {
-            "descricao": "Uma das maiores redes de atacarejo da região Centro-Oeste, o Costa Atacadão mantém uma política combinada de qualidade, variedade e preço baixo, sempre pensando em vantagens para o cliente. O ambiente como um todo é focado na experiência do cliente e de seus colaboradores. Com lojas em Goiás e Distrito Federal, somando 15 lojas ao todo e com foco em constante expansão, a rede Costa Atacadão se orgulha em ter clientes e fornecedores fiéis e sempre trazendo economia e qualidade.",
+            "descricao": "O Costa Atacadão de Brasília é uma unidade dessa rede varejista que oferece uma variedade de produtos em atacado e varejo. Localizado em uma região estratégica da cidade, o Costa Atacadão proporciona conveniência aos clientes tanto da própria capital quanto de regiões vizinhas.",
+            "detailsLocalizacao": "Sua localização centralizada facilita o deslocamento, seja de carro, transporte público ou mesmo a pé, tornando-o acessível para uma ampla gama de clientes. Situado em um ponto de fácil visibilidade e acesso, o Costa Atacadão de Brasília é uma referência na região para compras em atacado e varejo, oferecendo uma variedade de produtos a preços competitivos.",
             "setor": "Locação Cormercial"
         },
         "localizacao": {
-            "descricao": " Avenida T-63, R. 1034, 251 - Quadra 73 A - St. Pedro Ludovico, Goiânia - GO, 74823-080",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.486926784568!2d-48.03901628564258!3d-15.830985199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33c46c6c4def%3A0xbb47cb38bdaa381c!2sCosta%20Atacad%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1708319362373!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -520,10 +520,10 @@
         "details": "",
         "conhecaMais": "https://www.maplebear.com.br/pt/",
         "sobre": {
-            "descricao": "Maple Bear é uma rede de escolas internacionais presente em diversos países, conhecida por oferecer um ensino de alta qualidade com base no currículo canadense. A Maple Bear Brasília - Asa Norte é uma das unidades dessa rede na capital brasileira. Oferece uma educação bilíngue (inglês-português) desde a Educação Infantil até o Ensino Fundamental, seguindo os padrões educacionais canadenses."
+            "descricao": "A Maple Bear é uma rede internacional de escolas bilíngues que oferece educação infantil e ensino fundamental. Fundada no Canadá, a Maple Bear tem como objetivo proporcionar um ambiente de aprendizado que integra os sistemas educacionais canadense e brasileiro.",
+            "detailsLocalizacao": "A Avenida Sibipiruna 08, loja 01, salas 101 a 114, em Águas Claras, Brasília - DF, é uma localização comercial bem estabelecida na região administrativa de Águas Claras, na capital do Brasil."
         },
         "localizacao": {
-            "descricao": " St. de Grandes Áreas Norte 916 Conjunto D - Asa Norte, Brasília - DF, 70790-160.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30706.14383929431!2d-48.064927272192534!3d-15.842506700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a331a8d206b99%3A0xa184f574e4a51beb!2sMaple%20Bear!5e0!3m2!1spt-BR!2sbr!4v1708319483947!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -570,11 +570,11 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "O Apartamento Vive La Vie em Águas Claras, Brasília, é parte de um empreendimento imobiliário conhecido por oferecer residências com conforto e qualidade de vida. Localizado em uma região estratégica da cidade, esse empreendimento pode ser uma excelente opção para quem busca morar ou investir em imóveis na capital federal.",
+            "descricao": "O Apartamento Vive La Vie é um empreendimento residencial localizado em Brasília, Distrito Federal. Inspirado na expressão francesa   , o empreendimento busca oferecer um estilo de vida contemporâneo e sofisticado aos seus moradores.",
+            "detailsLocalizacao": "A Rua 36 Norte, localizada em Águas Claras, Brasília - DF, é uma das principais vias desta região administrativa do Distrito Federal. Águas Claras é conhecida por ser uma área residencial e comercial em constante crescimento, oferecendo uma infraestrutura completa para seus moradores e visitantes",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": " R. 36 Norte - Águas Claras, Brasília - DF, 71919-180.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.4532397304074!2d-48.03972922588782!3d-15.83275842389893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33ae3a7204af%3A0xc3384c247cd083aa!2sResidencial%20Vive%20La%20Vie!5e0!3m2!1spt-BR!2sbr!4v1708319887430!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -600,11 +600,11 @@
         "category": "residencial",
         "details": "",
         "sobre": {
-            "descricao": "Apartamento Hotel Bonaparte é uma opção de hospedagem localizada em Brasília, no Distrito Federal. Geralmente, este tipo de estabelecimento oferece acomodações que combinam as comodidades de um apartamento com os serviços de um hotel, como limpeza diária, serviço de quarto, recepção 24 horas, entre outros.",
+            "descricao": "o Apart Hotel Bonaparte é um estabelecimento localizado em Brasília, Distrito Federal. Ele oferece serviços de hospedagem que combinam as comodidades de um hotel com a conveniência de apartamentos completos, ideais para estadias de curto ou longo prazo.",
+            "detailsLocalizacao": "A localização na St. Hoteleiro Sul Q. 2, na Asa Sul, em Brasília, DF, é uma área reconhecida pela sua concentração de hotéis, restaurantes e serviços relacionados ao turismo e negócios. Situada no coração da capital brasileira, a Asa Sul é conhecida por sua arquitetura moderna, planejamento urbano diferenciado e atmosfera cosmopolita.",
             "setor": "Locação Residencial"
         },
         "localizacao": {
-            "descricao": "St. Hoteleiro Sul Q. 2 - Asa Sul, Brasília - DF, 70312-000.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
@@ -898,10 +898,10 @@
         "conhecaMais": "https://www.burgerking.com.br/",
         "sobre": {
             "descricao": "Burger King é uma das maiores cadeias de restaurantes de fast food do mundo, especializada em hambúrgueres, batatas fritas e refrigerantes. Fundada em 1954 nos Estados Unidos, a empresa expandiu-se globalmente e está presente em muitos países, incluindo o Brasil.",
+            "detailsLocalizacao": "",
             "setor": "BTS (Built to Suit)"
         },
         "localizacao": {
-            "descricao": "Imóvel com estrutura totalmente pronta para o ensino fundamental, secundário ou superior e grande versatilidade para atender outros segmentos. Localizado em uma das áreas mais destacadas da cidade de São Luís, ao lado de hospitais, shoppings, supermercados, concessionárias, varejo, material de construção etc.",
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3986.019241359742!2d-44.285927226146995!3d-2.500545138156529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d3034f8c251%3A0x4e011bddd727af08!2zSU9BIElUQyBTw6NvIEx1w61z!5e0!3m2!1spt-BR!2sbr!4v1708445608311!5m2!1spt-BR!2sbr",
             "endereco": "São Luis"
         },
