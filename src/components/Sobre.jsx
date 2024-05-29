@@ -7,12 +7,13 @@ const Sobre = ({sobre, conhecaMais}) => {
                 <div className="div-apresentacao">
                     <H1Container>Sobre</H1Container>
                     <Paragraph>{sobre.descricao}</Paragraph>
+                    <Paragraph>{sobre.detailsLocalizacao}</Paragraph>
                     {conhecaMais && <ConhecaMais href={conhecaMais} target="_blank" className='button-conheca-mais'>Conheça Mais</ConhecaMais>}
                 </div>
 
                 <div>
                     <HrMaior id="hr-maior" />
-                    <Paragraph>Tipo de Imóvel: {sobre.setor}</Paragraph>
+                    {/* <Paragraph>Tipo de Imóvel: {sobre.setor}</Paragraph> */}
                 </div>
             </DivElements>
         </div>

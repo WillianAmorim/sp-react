@@ -5,7 +5,7 @@ export const LocalizacaoContainer = styled.div`
         display: flex;
         flex-direction: column;
         padding: 25px;
-        gap: 25px;
+        /* gap: 25px; */
     }
 
     .div-textos {
@@ -15,7 +15,7 @@ export const LocalizacaoContainer = styled.div`
     }
 
     @media only screen and (min-width: 767px) {
-        /* background-color: red; */
+
         .div-elements {
             /* background-color: blue; */
             flex-direction: row;
@@ -29,7 +29,7 @@ export const LocalizacaoContainer = styled.div`
         }
 
         iframe {
-            width: 40%;
+            width: 100%;
             height: 400px;
         }
     }

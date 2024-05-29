@@ -41,8 +41,8 @@ export const DivElements = styled.div`
     display: flex;
     flex-direction: column;
 
-    gap: 50px;
-    padding: 25px;
+    gap: 25px;
+    padding: 25px 0px 0px 25px;
 
     @media only screen and (min-width: 767px) {
         width: 40%;
@@ -52,7 +52,6 @@ export const DivElements = styled.div`
 export const HrMaior = styled.hr`
     height: 5px;
     background-color: black;
-    margin-bottom: 10px;
 `
 
 export const Paragraph = styled.p`
