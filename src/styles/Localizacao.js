@@ -1,11 +1,18 @@
 import styled from "styled-components";
 
 export const LocalizacaoContainer = styled.div`
+    padding: 25px;
+
+    h1 {
+        font-family: 'Inter', sans-serif;
+        font-size: 25px;
+        border-radius: 3px;
+        padding-bottom: 15px;
+    }
+
     .div-elements {
         display: flex;
         flex-direction: column;
-        padding: 25px;
-        /* gap: 25px; */
     }
 
     .div-textos {

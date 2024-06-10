@@ -39,8 +39,6 @@ export const CardsContainer = styled.div`
         gap: 15px;
         padding-bottom: 25px;
         max-height: max-content;
-
-        /* background-color: red; */
     }
 
     #lancamento-mobile {
@@ -81,7 +79,11 @@ export const CardsContainer = styled.div`
     .construcao {
         border: 1px solid white;
         max-width: max-content;
-        padding: 10px 15px;
+        padding: 10px 20px;
+        width: 150px;
+        /* background-color: red; */
+        
+        
     }
 
     #conhecer-imovel-mobile {
@@ -215,14 +217,17 @@ export const CardsContainer = styled.div`
 
         .construcao {
             position: absolute;
-            color: white;
+            /* color: white; */
+
+            color: #121D40;
+            background-color: white;
             z-index: 9;
             top: 10px;
             right: 10px;
-            font-size: 10px;
+            font-size: 12px;
             /* background-color: white; */
             /* color: black; */
-            font-weight: 500;
+            font-weight: 1000;
         }
 
         .vendido {

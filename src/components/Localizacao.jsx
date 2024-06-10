@@ -4,6 +4,7 @@ import { LocalizacaoContainer } from "../styles/Localizacao";
 const Localizacao = ({localizacao}) => {
     return (
         <LocalizacaoContainer>
+            <h1>Localização</h1>
             <div className="div-elements">
                 {/* <div className='div-textos'>
                     <H1Container>Localização</H1Container>
@@ -16,7 +17,6 @@ const Localizacao = ({localizacao}) => {
                         <Paragraph>Localidade: {localizacao.endereco}</Paragraph>
                     </div>
                 </div> */}
-
                 <iframe
                     src={localizacao.mapa}
                     width="auto"

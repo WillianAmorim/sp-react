@@ -5,6 +5,7 @@ import Empreendimento from './pages/PageCategorias'
 import PaginaEmpreendimento from './pages/PageEmpreendimento'
 import PaginaLocacoes from './pages/PageLocacoes'
 import PaginaFornecedores from './pages/PageFornecedores'
+import EmBreve from './components/EmBreve';
 
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
@@ -21,6 +22,7 @@ const App = () => {
   return (
     <>
       <Routes>
+        {/* <Route path="/" element={<EmBreve />} /> */}
         <Route path="/" element={<Home />} />
         <Route path="/empreendimento/:id" element={<Empreendimento />} />
         <Route path="/empreendimento/:id/:pagEmpreendimento/" element={<PaginaEmpreendimento />} />

@@ -45,7 +45,6 @@ export const DivElements = styled.div`
     padding: 25px 0px 0px 25px;
 
     @media only screen and (min-width: 767px) {
-        width: 40%;
     }
 `
 
@@ -59,6 +58,8 @@ export const Paragraph = styled.p`
     font-size: 15px;
     margin-top: 10px;
     margin-bottom: 30px;
+
+    
 `
 
 export const DivPlanta = styled.div`
