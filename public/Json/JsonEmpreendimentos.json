@@ -986,14 +986,16 @@
         "id": 52,
         "name": "Connect",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/1.png",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/1.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/1.png",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/2.png",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/3.png",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/4.png",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/5.png",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/6.png"
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/1.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/2.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/3.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/4.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/5.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/6.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/7.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/8.webp"
         ],
         "category": "incorporacao",
         "details": "",
