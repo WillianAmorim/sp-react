@@ -191,7 +191,7 @@
         "details": "",
         "conhecaMais": "https://www.extranet.ceuma.br/hotsite/",
         "sobre": {
-            "descricao": "O imóvel foi construído na modalidade Built to Suit (BTS) para a Centro Universitário Ceuma Imperatriz, a localização do campus Turu é estratégica, proporcionando fácil acesso, conectado com vias de transporte público e serviços essenciais da cidade de São Luís, o imóvel abrange uma área total de 63 mil metros quadrados.",
+            "descricao": "O imóvel foi construído na modalidade Built to Suit (BTS) para o Centro Universitário Ceuma Turu, a localização do campus Turu é estratégica, proporcionando fácil acesso, conectado com vias de transporte público e serviços essenciais da cidade de São Luís, o imóvel abrange uma área total de 63 mil metros quadrados.",
             "detailsLocalizacao": "",
             "setor": "BTS (Built to Suit)"
         },
@@ -903,31 +903,6 @@
         "bairro": "Asa Sul | Brasília - DF"
     },
     {
-        "id": 48,
-        "name": "Cap Ferrat Residence",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/1.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/2.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/3.jpg"
-        ],
-        "category": "residencial",
-        "details": "",
-        "sobre": {
-            "descricao": "O Cap Ferrat Residence, situado na Asa Sul em Brasília, DF, destaca-se como uma opção residencial de alto padrão na capital federal. Com uma localização privilegiada e uma arquitetura sofisticada, este empreendimento oferece um ambiente luxuoso e exclusivo para seus moradores.",
-            "setor": "Locação Residencial"
-        },
-        "localizacao": {
-            "descricao": " R. Jorn. Dondon, 2933 - Horto, Teresina - PI, 64052-850",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Brasilia",
-        "bairro": "Asa Sul | Brasília - DF"
-    },
-    {
         "id": 49,
         "name": "SP Mall Cohama",
         "date": "",
@@ -1006,6 +981,91 @@
         },
         "estado": "Maranhao",
         "bairro": "Vila Funil | São Luís - MA"
+    },
+    {
+        "id": 52,
+        "name": "Connect",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/05.webp"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "conhecaMais": "https://www.grandimperialresidence.com.br/",
+        "sobre": {
+            "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
+            "detailsLocalizacao": "O condomínio está localizado na Avenida Recreio, 361, no bairro Lagoa Redonda, Fortaleza, em uma área estratégica, próximo a vários supermercados, farmácias e escolas, a apenas 3 minutos da avenida Washington Soares, a 6 minutos do Shopping Iguatemi e a 5 minutos do Beach Park e da Praia do Porto das Dunas.",
+            "setor": "Incorporações"
+        },
+        "localizacao": {
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
+            "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
+        },
+        "estado": "Ceará",
+        "bairro": "Lagoa Redonda | Fortaleza - CE"
+    },
+    {
+        "id": 53,
+        "name": "Legacy",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/05.webp"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "conhecaMais": "https://www.grandimperialresidence.com.br/",
+        "sobre": {
+            "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
+            "detailsLocalizacao": "O condomínio está localizado na Avenida Recreio, 361, no bairro Lagoa Redonda, Fortaleza, em uma área estratégica, próximo a vários supermercados, farmácias e escolas, a apenas 3 minutos da avenida Washington Soares, a 6 minutos do Shopping Iguatemi e a 5 minutos do Beach Park e da Praia do Porto das Dunas.",
+            "setor": "Incorporações"
+        },
+        "localizacao": {
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
+            "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
+        },
+        "estado": "Ceará",
+        "bairro": "Lagoa Redonda | Fortaleza - CE"
+    },
+    {
+        "id": 54,
+        "name": "Easy Renascença",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
+        "images": [
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/01.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/02.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/03.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/04.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.webp"
+        ],
+        "category": "comercial",
+        "seloEntrega": "ENTREGUE",
+        "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/easy/",
+        "details": "",
+        "sobre": {
+            "descricao": "Planejado com os mais modernos conceitos de tecnologia e sustentabilidade, o Easy Renascença une diferenciais que irão te encantar em cada detalhe. Um empreendimento que vem para dar mais liberdade ao jeito millennial de viver.",
+            "detailsLocalizacao": "O empreendimento comercial localizado no bairro Renascença, em São Luís, Maranhão. Ele é conhecido por abrigar uma variedade de lojas, serviços e opções gastronômicas, proporcionando conveniência e facilidade de acesso aos moradores da região e visitantes.",
+            "setor": "Locação Comercial"
+        },
+        "localizacao": {
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.4043971755355!2d-44.28839679061017!3d-2.5024955893607417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d002a7b8631%3A0x5ba53dfbe8394de!2sEasy%20Renascen%C3%A7a!5e0!3m2!1spt-BR!2sbr!4v1716983676402!5m2!1spt-BR!2sbr",
+            "endereco": " Esquina com - Rua das Sucupiras, R. dos Ipês, 32 - Qd 54, Loja 03 - Jardim Renascença, São Luís - MA, 65075-400"
+        },
+        "estado": "Maranhao",
+        "bairro": "Renascença | São Luís - MA"
     }
     
 ]
