@@ -999,42 +999,14 @@
         ],
         "category": "incorporacao",
         "details": "",
-        "conhecaMais": "https://www.grandimperialresidence.com.br/",
+        "conhecaMais": "https://botminio.focoinfo.com.br/typebot/Alfa/connect/Connect.pdf",
         "sobre": {
-            "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
-            "detailsLocalizacao": "O condomínio está localizado na Avenida Recreio, 361, no bairro Lagoa Redonda, Fortaleza, em uma área estratégica, próximo a vários supermercados, farmácias e escolas, a apenas 3 minutos da avenida Washington Soares, a 6 minutos do Shopping Iguatemi e a 5 minutos do Beach Park e da Praia do Porto das Dunas.",
+            "descricao": "O Connect Península é mais um empreendimento com a qualidade e excelência da Alfa Engenharia em parceria com a São Paulo Participações.",
+            "detailsLocalizacao": "Localizado na Península da Ponta D’Areia, bem próximo aos melhores restaurantes, bares, empórios, academias, spas, malls e pet shops, este residencial oferece todo o conforto e a comodidade que você merece.",
             "setor": "Incorporações"
         },
         "localizacao": {
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
-            "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
-        },
-        "estado": "Ceará",
-        "bairro": "Lagoa Redonda | Fortaleza - CE"
-    },
-    {
-        "id": 53,
-        "name": "Legacy",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
-        "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/GranImperialPrincipal.webp",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/01.webp",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/02.webp",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/03.webp",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/04.webp",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/GRAN IMPERIAL RESIDENCE/05.webp"
-        ],
-        "category": "incorporacao",
-        "details": "",
-        "conhecaMais": "https://www.grandimperialresidence.com.br/",
-        "sobre": {
-            "descricao": "Conheça o Grand Imperial Residence, um condomínio de luxo onde o conforto encontra a sofisticação. Com instalações modernas e serviços exclusivos, oferecemos uma experiência residencial única para quem busca o mais alto padrão de qualidade de vida.",
-            "detailsLocalizacao": "O condomínio está localizado na Avenida Recreio, 361, no bairro Lagoa Redonda, Fortaleza, em uma área estratégica, próximo a vários supermercados, farmácias e escolas, a apenas 3 minutos da avenida Washington Soares, a 6 minutos do Shopping Iguatemi e a 5 minutos do Beach Park e da Praia do Porto das Dunas.",
-            "setor": "Incorporações"
-        },
-        "localizacao": {
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.0055951761055!2d-38.451302526134555!3d-3.8088700435844802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7451a7592361b%3A0xfe1b8fa549a9c6c5!2sGrand%20Imperial%20Residence!5e0!3m2!1spt-BR!2sbr!4v1708317561422!5m2!1spt-BR!2sbr",
+            "mapa": "https://www.google.com/maps/embed?pb=!4v1726855759295!6m8!1m7!1s1KIdxKG35AJzXYpwp6JObg!2m2!1d-2.500803036899804!2d-44.31128316880246!3f281.0123832611376!4f-24.65746032197015!5f0.7820865974627469",
             "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
         },
         "estado": "Ceará",
