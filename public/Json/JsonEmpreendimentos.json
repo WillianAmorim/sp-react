@@ -1013,6 +1013,39 @@
         "bairro": "Lagoa Redonda | Fortaleza - CE"
     },
     {
+        "id": 53,
+        "name": "Legacy",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/1.webp",
+        "images": [
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/1.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/2.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/3.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/4.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/5.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/6.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/7.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/8.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/9.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/10.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/11.webp"
+        ],
+        "category": "incorporacao",
+        "details": "",
+        "conhecaMais": "https://botminio.focoinfo.com.br/typebot/Alfa/connect/Connect.pdf",
+        "sobre": {
+            "descricao": "O Connect Península é mais um empreendimento com a qualidade e excelência da Alfa Engenharia em parceria com a São Paulo Participações.",
+            "detailsLocalizacao": "Localizado na Península da Ponta D’Areia, bem próximo aos melhores restaurantes, bares, empórios, academias, spas, malls e pet shops, este residencial oferece todo o conforto e a comodidade que você merece.",
+            "setor": "Incorporações"
+        },
+        "localizacao": {
+            "mapa": "https://www.google.com/maps/embed?pb=!4v1726855759295!6m8!1m7!1s1KIdxKG35AJzXYpwp6JObg!2m2!1d-2.500803036899804!2d-44.31128316880246!3f281.0123832611376!4f-24.65746032197015!5f0.7820865974627469",
+            "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
+        },
+        "estado": "Ceará",
+        "bairro": "Lagoa Redonda | Fortaleza - CE"
+    },
+    {
         "id": 54,
         "name": "Easy Renascença",
         "date": "",
