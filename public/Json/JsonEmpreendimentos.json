@@ -1010,7 +1010,7 @@
             "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
         },
         "estado": "Ceará",
-        "bairro": "Lagoa Redonda | Fortaleza - CE"
+        "bairro": "Peninsula | São Luís - MA"
     },
     {
         "id": 53,
@@ -1028,7 +1028,8 @@
             "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/8.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/9.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/10.webp",
-            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/11.webp"
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/11.webp",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/12.webp"
         ],
         "category": "incorporacao",
         "details": "",
@@ -1043,15 +1044,15 @@
             "endereco": "Av. Recreio, 361 - Lagoa Redonda, Fortaleza - CE, 60831-600"
         },
         "estado": "Ceará",
-        "bairro": "Lagoa Redonda | Fortaleza - CE"
+        "bairro": "Peninsula | São Luís - MA"
     },
     {
         "id": 54,
         "name": "Easy Renascença",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.webp",
         "images": [
-            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
+            "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/01.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/02.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/03.webp",
