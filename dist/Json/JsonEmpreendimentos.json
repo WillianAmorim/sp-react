@@ -271,7 +271,7 @@
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/04.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.webp"
         ],
-        "category": "incorporacao",
+        "category": ["incorporacao", "locacao"],
         "seloEntrega": "ENTREGUE",
         "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/easy/",
         "details": "",
@@ -930,31 +930,6 @@
     },
     {
         "id": 50,
-        "name": "Cap Ferrat Residence",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/principal.jpg",
-        "images": [
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/principal.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/1.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/2.jpg",
-            "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/RESIDENCIAL/Apartamento Cap Ferrat/3.jpg"
-        ],
-        "category": "oportunidades",
-        "details": "",
-        "sobre": {
-            "descricao": "O Cap Ferrat Residence, situado na Asa Sul em Brasília, DF, destaca-se como uma opção residencial de alto padrão na capital federal. Com uma localização privilegiada e uma arquitetura sofisticada, este empreendimento oferece um ambiente luxuoso e exclusivo para seus moradores.",
-            "setor": "Locação Residencial"
-        },
-        "localizacao": {
-            "descricao": " R. Jorn. Dondon, 2933 - Horto, Teresina - PI, 64052-850",
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15356.625618442331!2d-47.90699824458006!3d-15.7957049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ae69de8100d%3A0xf0623a6cdb5f07!2sBonaparte%20Hotel%20-%20OZPED%20Flats!5e0!3m2!1spt-BR!2sbr!4v1708320029006!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Brasilia",
-        "bairro": "Asa Sul | Brasília - DF"
-    },
-    {
-        "id": 51,
         "name": "JB Transportes e Logística Ltda",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO-GUI/LOCACAO DE IMOVEIS/GALPAO-LOGISTICO/JB Transportes/JBTransportesPrincipal.webp",
@@ -983,7 +958,7 @@
         "bairro": "Vila Funil | São Luís - MA"
     },
     {
-        "id": 52,
+        "id": 51,
         "name": "Connect",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/Connect Peninsula/1.webp",
@@ -1013,7 +988,7 @@
         "bairro": "Peninsula | São Luís - MA"
     },
     {
-        "id": 53,
+        "id": 52,
         "name": "Legacy",
         "date": "",
         "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/LEGACY/1.webp",
@@ -1047,10 +1022,10 @@
         "bairro": "Peninsula | São Luís - MA"
     },
     {
-        "id": 54,
+        "id": 53,
         "name": "Easy Renascença",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.webp",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.jpg",
         "images": [
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/Principal.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/01.webp",
