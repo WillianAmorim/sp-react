@@ -9,6 +9,7 @@ import data from '../../public/Json/JsonEmpreendimentos.json'
 import { Link } from 'react-router-dom'
 
 const filteredIncorporacao = data.filter((card) => card.category === "incorporacao")
+// const filteredIncorporacao = data.filter((card) => card.category.includes("incorporacao"));
 
 const Incorporacoes = () => {
     return (

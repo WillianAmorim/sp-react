@@ -185,6 +185,26 @@ export const HeaderContainer = styled.div`
             outline: none;
         }
 
+        #button-intranet {
+            color: white;
+            /* color: #121D40; */
+            background-color: #C19A29;
+            /* background-color: #121D40; */
+            /* background-color: black; */
+            /* background-color: white; */
+            
+            padding: 10px 20px;
+
+            display: flex;
+            align-items: center;
+            border-radius: 10px;
+            width: max-content;
+
+            font-size: 15px;
+            font-weight: 300;
+            border: 1px solid transparent;
+        }
+
         
     }
     

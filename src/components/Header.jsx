@@ -61,7 +61,7 @@ const Header = () => {
                     <li className='hvr-underline-from-center'><Link to={'/contato'}>Contato</Link></li>
                 </ul>
                 <div className='div-input'>
-                    <CiSearch color='black'/>
+                    <CiSearch color='black' />
                     <input
                         placeholder="Pesquise aqui"
                         className="input-header"
@@ -74,6 +74,15 @@ const Header = () => {
                             <Link to={`/empreendimento/${item.category}/${item.name.toLowerCase().replace(/ /g, "-").normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}><li key={item.id}>{item.name}</li></Link>
                         ))}
                     </ul>
+                </div>
+                <div>
+                    <a
+                        href="https://www.intranetmall.com/saopauloparticipacoes"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <button id="button-intranet">Portal do cliente</button>
+                    </a>
                 </div>
             </header>
         </HeaderContainer>
