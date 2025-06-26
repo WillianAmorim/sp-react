@@ -903,6 +903,32 @@ Error generating stack: `+a.message+`
     @media only screen and (min-width: 767px) {
        display: none;
     }
+
+    #button-intranet {
+            color: white;
+            background-color: #C19A29;
+
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            border-radius: 10px;
+            width: max-content;
+
+            font-size: 15px;
+            font-weight: 300;
+            border: 1px solid transparent;
+
+            cursor: pointer;
+            transition: background-color 0.3s ease, opacity 0.2s ease;
+        }
+
+        #button-intranet:hover {
+            background-color: #a98320; /* cor mais escura no hover */
+        }
+
+        #button-intranet:active {
+            opacity: 0.7; /* efeito de clique */
+        }
 `,XO=Y.header`
     width: 100%;
     position: absolute;
@@ -1047,7 +1073,7 @@ Error generating stack: `+a.message+`
             border: none;
         }
     }
-`,ZO="/assets/logo-nome-sp-CaJ6Ss67.jpg",e2="/assets/logo-sp-mobile-BCYmLbm1.png",ti=()=>{const[t,e]=j.useState(!1),[r,n]=j.useState(!1),[i,a]=j.useState(!1),[s,l]=j.useState(""),o=p=>{const v=p.target.value.toLowerCase();l(v)},c=Qt.filter(p=>p.name.toLowerCase().startsWith(s)),d=()=>{l("")},u=()=>{e(!t),n(!1),a(!1)};return h.jsxs(YO,{children:[h.jsxs(XO,{children:[h.jsx($,{to:"/",children:h.jsx("img",{className:"logo-sp-mobile",src:e2,alt:""})}),h.jsxs(JO,{children:[h.jsx(Vh,{color:"black"}),h.jsx("input",{placeholder:"Pesquise aqui",className:"input-header",type:"text",value:s,onChange:o}),h.jsx("ul",{className:"ul-filter",style:{display:s&&c.length>0?"block":"none"},children:c.slice(0,5).map(p=>h.jsx($,{onClick:d,to:`/empreendimento/${p.category}/${p.name.toLowerCase().replace(/ /g,"-").normalize("NFD").replace(/[\u0300-\u036f]/g,"")}`,children:h.jsx("li",{children:p.name},p.id)}))})]}),h.jsx(qO,{onClick:u})]}),h.jsxs(KO,{$visible:t,children:[h.jsxs("div",{className:"div-header-sidebar",children:[h.jsx("img",{src:ZO,alt:""}),h.jsx(QO,{onClick:u})]}),h.jsxs("section",{className:"list-menu-sidebar",children:[h.jsx("div",{className:"item-menu-navbar",children:h.jsx($,{to:"/",onClick:u,children:"Home"})}),h.jsxs("div",{className:"list-menu-at item-menu-navbar",onClick:()=>n(!r),children:["Áreas de atuação ",h.jsx(mc,{})]}),h.jsxs("ul",{className:"areas-atuacao",visible:r,style:{display:r?"flex":"none"},children:[h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/shopping-centers",children:"Shopping Centers"})}),h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/strip-malls",children:"Strip Malls"})}),h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/bts",children:"BTS (Built to Suit)"})}),h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/incorporacao",children:"Incorporações"})}),h.jsxs("li",{className:"item-menu-areasAtuacao",id:"li-locacao",onClick:()=>a(!i),children:["Locações ",h.jsx(mc,{})]}),h.jsxs("ul",{visible:i,className:"locacoes item-menu-areasAtuacao",style:{display:i?"flex":"none"},children:[h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/comercial",children:"Comercial"})}),h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/galpao-logistico",children:"Galpão Logístico"})}),h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/residencial",children:"Residencial"})}),h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/corporativo",children:"Corporativo"})})]})]}),h.jsx("div",{className:"item-menu-navbar",children:h.jsx($,{to:"/empreendimento/oportunidades",children:"Oportunidades"})}),h.jsx("div",{className:"item-menu-navbar",children:h.jsx($,{to:"/contato",children:"Contato"})})]})]})]})},t2=Y.div`
+`,ZO="/assets/logo-nome-sp-CaJ6Ss67.jpg",e2="/assets/logo-sp-mobile-BCYmLbm1.png",ti=()=>{const[t,e]=j.useState(!1),[r,n]=j.useState(!1),[i,a]=j.useState(!1),[s,l]=j.useState(""),o=p=>{const v=p.target.value.toLowerCase();l(v)},c=Qt.filter(p=>p.name.toLowerCase().startsWith(s)),d=()=>{l("")},u=()=>{e(!t),n(!1),a(!1)};return h.jsxs(YO,{children:[h.jsxs(XO,{children:[h.jsx($,{to:"/",children:h.jsx("img",{className:"logo-sp-mobile",src:e2,alt:""})}),h.jsxs(JO,{children:[h.jsx(Vh,{color:"black"}),h.jsx("input",{placeholder:"Pesquise aqui",className:"input-header",type:"text",value:s,onChange:o}),h.jsx("ul",{className:"ul-filter",style:{display:s&&c.length>0?"block":"none"},children:c.slice(0,5).map(p=>h.jsx($,{onClick:d,to:`/empreendimento/${p.category}/${p.name.toLowerCase().replace(/ /g,"-").normalize("NFD").replace(/[\u0300-\u036f]/g,"")}`,children:h.jsx("li",{children:p.name},p.id)}))})]}),h.jsx(qO,{onClick:u})]}),h.jsxs(KO,{$visible:t,children:[h.jsxs("div",{className:"div-header-sidebar",children:[h.jsx("img",{src:ZO,alt:""}),h.jsx(QO,{onClick:u})]}),h.jsxs("section",{className:"list-menu-sidebar",children:[h.jsx("div",{className:"item-menu-navbar",children:h.jsx($,{to:"/",onClick:u,children:"Home"})}),h.jsxs("div",{className:"list-menu-at item-menu-navbar",onClick:()=>n(!r),children:["Áreas de atuação ",h.jsx(mc,{})]}),h.jsxs("ul",{className:"areas-atuacao",visible:r,style:{display:r?"flex":"none"},children:[h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/shopping-centers",children:"Shopping Centers"})}),h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/strip-malls",children:"Strip Malls"})}),h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/bts",children:"BTS (Built to Suit)"})}),h.jsx("li",{onClick:u,className:"item-menu-areasAtuacao",children:h.jsx($,{to:"/empreendimento/incorporacao",children:"Incorporações"})}),h.jsxs("li",{className:"item-menu-areasAtuacao",id:"li-locacao",onClick:()=>a(!i),children:["Locações ",h.jsx(mc,{})]}),h.jsxs("ul",{visible:i,className:"locacoes item-menu-areasAtuacao",style:{display:i?"flex":"none"},children:[h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/comercial",children:"Comercial"})}),h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/galpao-logistico",children:"Galpão Logístico"})}),h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/residencial",children:"Residencial"})}),h.jsx("li",{onClick:u,className:"item-menu-locacao",children:h.jsx($,{to:"/empreendimento/corporativo",children:"Corporativo"})})]})]}),h.jsx("div",{className:"item-menu-navbar",children:h.jsx($,{to:"/empreendimento/oportunidades",children:"Oportunidades"})}),h.jsx("div",{className:"item-menu-navbar",children:h.jsx($,{to:"/contato",children:"Contato"})}),h.jsx("div",{children:h.jsx("a",{href:"https://www.intranetmall.com/saopauloparticipacoes",target:"_blank",rel:"noopener noreferrer",children:h.jsx("button",{id:"button-intranet",children:"Portal do cliente"})})})]})]})]})},t2=Y.div`
     @keyframes float {
         0% {
             transform: translateY(0);
