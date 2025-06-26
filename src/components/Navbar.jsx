@@ -17,15 +17,15 @@ const Navbar = () => {
   const [filterText, setFilterText] = useState('');
 
   const handleInputChange = (event) => {
-      const searchText = event.target.value.toLowerCase();
-      setFilterText(searchText);
+    const searchText = event.target.value.toLowerCase();
+    setFilterText(searchText);
   };
 
   const filteredItems = data.filter((item) =>
-      item.name.toLowerCase().startsWith(filterText)
+    item.name.toLowerCase().startsWith(filterText)
   );
 
-  const cleanInput = ()  => {
+  const cleanInput = () => {
     setFilterText('')
   }
 
@@ -41,7 +41,7 @@ const Navbar = () => {
       <NavbarContainer>
         <Link to={'/'}><img className='logo-sp-mobile' src={LogoSp} alt="" /></Link>
         <InputNavbar>
-          <CiSearch color='black'/>
+          <CiSearch color='black' />
           <input
             placeholder="Pesquise aqui"
             className="input-header"
@@ -86,6 +86,15 @@ const Navbar = () => {
 
           <div className='item-menu-navbar'><Link to={'/empreendimento/oportunidades'}>Oportunidades</Link></div>
           <div className='item-menu-navbar'><Link to={'/contato'}>Contato</Link></div>
+          <div>
+            <a
+              href="https://www.intranetmall.com/saopauloparticipacoes"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <button id="button-intranet">Portal do cliente</button>
+            </a>
+          </div>
         </section>
 
       </Sidebar>

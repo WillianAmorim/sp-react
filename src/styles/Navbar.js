@@ -6,6 +6,32 @@ export const ContainerNav = styled.div`
     @media only screen and (min-width: 767px) {
        display: none;
     }
+
+    #button-intranet {
+            color: white;
+            background-color: #C19A29;
+
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            border-radius: 10px;
+            width: max-content;
+
+            font-size: 15px;
+            font-weight: 300;
+            border: 1px solid transparent;
+
+            cursor: pointer;
+            transition: background-color 0.3s ease, opacity 0.2s ease;
+        }
+
+        #button-intranet:hover {
+            background-color: #a98320; /* cor mais escura no hover */
+        }
+
+        #button-intranet:active {
+            opacity: 0.7; /* efeito de clique */
+        }
 `
 
 export const NavbarContainer = styled.header`
