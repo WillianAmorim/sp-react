@@ -854,13 +854,14 @@
         "id": 46,
         "name": "SP Mall Cohama - Medical Center",
         "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Cohama_Selfit.png",
         "images": [
             "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/01.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/02.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/03.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/04.webp"
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/Cohama_Selfit.png"
         ],
         "category": "strip-malls",
         "details": "",
@@ -909,10 +910,11 @@
         "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
         "images": [
             "/FOTOS-NOVO-GUI/STRIPMALLS/Medical_Principal.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/01.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/02.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/03.webp",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/04.webp"
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04_Cohama.webp",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/Cohama_Selfit.png"
         ],
         "category": "oportunidades",
         "details": "",
@@ -1034,7 +1036,7 @@
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/04.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.webp"
         ],
-        "category": "comercial",
+        "category": "residencial",
         "seloEntrega": "ENTREGUE",
         "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/easy/",
         "details": "",
@@ -1046,6 +1048,56 @@
         "localizacao": {
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.4043971755355!2d-44.28839679061017!3d-2.5024955893607417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f68d002a7b8631%3A0x5ba53dfbe8394de!2sEasy%20Renascen%C3%A7a!5e0!3m2!1spt-BR!2sbr!4v1716983676402!5m2!1spt-BR!2sbr",
             "endereco": " Esquina com - Rua das Sucupiras, R. dos Ipês, 32 - Qd 54, Loja 03 - Jardim Renascença, São Luís - MA, 65075-400"
+        },
+        "estado": "Maranhao",
+        "bairro": "Renascença | São Luís - MA"
+    },
+    {
+        "id": 54,
+        "name": "SP Mall Renascenca",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/01_Renascenca.png",
+        "images": [
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01_Renascenca.png",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02_Renascenca.png",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03_Renascenca.png",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04_Renascenca.png"
+        ],
+        "category": "strip-malls",
+        "details": "",
+        "sobre": {
+            "descricao": "O  SP Mall Cohama - Medical center oferece uma localização privilegiada em uma das áreas comerciais mais movimentadas da cidade. Com espaços modernos e bem equipados, proporciona um ambiente propício para atendimento médico de excelência. Além disso, conta com um amplo estacionamento, garantindo comodidade tanto para os clientes quanto para os visitantes.",
+            "detailsLocalizacao": "",
+            "setor": "Strip Malls"
+        },
+        "localizacao": {
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.954091917527!2d-44.24884502634361!3d-2.521898038222247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69140290e74b3%3A0x317344cb387342a9!2sSP%20Mall%20Cohama%20Medical%20Center!5e0!3m2!1spt-BR!2sbr!4v1716001273844!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
+        },
+        "estado": "Maranhao",
+        "bairro": "Renascença | São Luís - MA"
+    },
+    {
+        "id": 55,
+        "name": "SP Mall Anil",
+        "date": "",
+        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/01_Anil.jpeg",
+        "images": [
+            "/FOTOS-NOVO-GUI/STRIPMALLS/01_Anil.jpeg",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/02_Anil.jpeg",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/03_Anil.jpeg",
+            "/FOTOS-NOVO-GUI/STRIPMALLS/04_Anil.jpeg"
+        ],
+        "category": "strip-malls",
+        "details": "",
+        "sobre": {
+            "descricao": "O  SP Mall Cohama - Medical center oferece uma localização privilegiada em uma das áreas comerciais mais movimentadas da cidade. Com espaços modernos e bem equipados, proporciona um ambiente propício para atendimento médico de excelência. Além disso, conta com um amplo estacionamento, garantindo comodidade tanto para os clientes quanto para os visitantes.",
+            "detailsLocalizacao": "",
+            "setor": "Strip Malls"
+        },
+        "localizacao": {
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.954091917527!2d-44.24884502634361!3d-2.521898038222247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69140290e74b3%3A0x317344cb387342a9!2sSP%20Mall%20Cohama%20Medical%20Center!5e0!3m2!1spt-BR!2sbr!4v1716001273844!5m2!1spt-BR!2sbr",
+            "endereco": "São Luis"
         },
         "estado": "Maranhao",
         "bairro": "Renascença | São Luís - MA"
