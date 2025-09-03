@@ -271,7 +271,7 @@
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/04.webp",
             "/FOTOS-NOVO-GUI/INCORPORACOES/EASY RESIDENCE/05.webp"
         ],
-        "category": ["incorporacao", "locacao"],
+        "category": "incorporacao",
         "seloEntrega": "ENTREGUE",
         "conhecaMais": "https://alfaengenhariama.com.br/empreendimento/easy/",
         "details": "",
@@ -1062,31 +1062,6 @@
             "/FOTOS-NOVO-GUI/STRIPMALLS/02_Renascenca.png",
             "/FOTOS-NOVO-GUI/STRIPMALLS/03_Renascenca.png",
             "/FOTOS-NOVO-GUI/STRIPMALLS/04_Renascenca.png"
-        ],
-        "category": "strip-malls",
-        "details": "",
-        "sobre": {
-            "descricao": "O  SP Mall Cohama - Medical center oferece uma localização privilegiada em uma das áreas comerciais mais movimentadas da cidade. Com espaços modernos e bem equipados, proporciona um ambiente propício para atendimento médico de excelência. Além disso, conta com um amplo estacionamento, garantindo comodidade tanto para os clientes quanto para os visitantes.",
-            "detailsLocalizacao": "",
-            "setor": "Strip Malls"
-        },
-        "localizacao": {
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3985.954091917527!2d-44.24884502634361!3d-2.521898038222247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f69140290e74b3%3A0x317344cb387342a9!2sSP%20Mall%20Cohama%20Medical%20Center!5e0!3m2!1spt-BR!2sbr!4v1716001273844!5m2!1spt-BR!2sbr",
-            "endereco": "São Luis"
-        },
-        "estado": "Maranhao",
-        "bairro": "Renascença | São Luís - MA"
-    },
-    {
-        "id": 55,
-        "name": "SP Mall Anil",
-        "date": "",
-        "imgPrincipal": "/FOTOS-NOVO-GUI/STRIPMALLS/01_Anil.jpeg",
-        "images": [
-            "/FOTOS-NOVO-GUI/STRIPMALLS/01_Anil.jpeg",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/02_Anil.jpeg",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/03_Anil.jpeg",
-            "/FOTOS-NOVO-GUI/STRIPMALLS/04_Anil.jpeg"
         ],
         "category": "strip-malls",
         "details": "",
